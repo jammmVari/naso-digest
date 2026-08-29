@@ -1,28 +1,17 @@
 # 🪿 Naso 晨报 · 2026-08-29
 
-## 🪶 病友文学·agent记忆与context  
-- [A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks](http://arxiv.org/abs/2608.26008v1) 研究者提出了一种自我演进的多智能体框架，用于防御 LLM 越狱攻击。  
+## 🌍 世界
 
-## 🪶 罗马家乡新闻  
-今天没有。  
-
-## 🪶 媒介研究动态  
-今天没有。  
-
-## 🪶 本职·鸟类与动物行为  
-今天没有。  
-
-## 🌍 世界  
-- [White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump’s speeches - NBC News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNU5UOVRJTEJxRjQzUnMxbUgtdTNsYXNEaXpyRTVwVmpTUDRORlpjWXA2ZTFmMUNGUW5tdno4c2pQdXI2SGt0UXE3MnhyQ241UHd0SXRXQjNUZkR1QklXU1QtTWhibDF0WjlWaE1lNmtYaUFiNHJnUmQzQ2F2dTJaNll3MGpiSXhPa0xBTzRXVkVtNERuVVFCY1dDRE93UmxieEE5U1NaYU1sdW9tU2hlUHlBME1FcDQzZzFYYUdpUDk?oc=5) 美国白宫提词器操作员因利用特朗普演讲内容进行预测市场投注被罚款 17.2 万美元。  
-- [How Lindsay Clancy sought help before she killed her three children - NBC News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXy1xSGowWWlZQTItU19DOU1zMFRwTGVROWZpb3NISXhmWjJNdjNzNHRvMU9EMFJwanBNLXNIV3ZpXy0zRVlPU1V1R3Z3UWU1VVdZbDV2N0pXcHNWVFdTeV9ibXJxTEdxV2dmV0pDRFZQVGNNTWF5bDAxLTlpVXA3OVdlbTNVT2lmS3lFUzFybGZka3hMeEYxZEY5eEFTY0dFU01TQ0ZrWXA?oc=5) Lindsay Clancy 在杀害三个孩子前曾寻求心理帮助。  
-- [British far-right provocateur Milo Yiannopoulos detained by ICE - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxjcFc3WTRjX0tnRWJSU1hDUnNCODh1cm5oSm5IVFZEbkloOC1TMWlpamVKbjBsZ0ZCTWFSNWg5YVFRSndheTFNN2NmUGFEcnprUmRPcWMyTzBsMjRFZnlXc0NmRXJmRTA0ZkpIWFZ2YWFQQ2V4VXBEUzBzQk8wWTcwc3RkMERCcVRFNTg1bHppOGZrczRqakZhQWplajVEX1N4Z25pdHBwWTg5czhpeVNqNA?oc=5) 英国极右翼煽动者 Milo Yiannopoulos 被美国移民及海关执法局拘留。  
-
-## 🔬 科学  
-- [Engineered bacteria offer a new way to accelerate rock weathering for carbon removal - Phys.org](https://news.google.com/rss/articles/CBMibkFVX3lxTE9qWXFSRFNvMWU1WHVuYjNiTE5oQ3piTXdFaThOLWFDaWpJTk4wOE9LNEhRQVU4RndUZ0F0SHBuT3ZqNkJEbVpfUnhndGk4U3NuRHZyNEJrQ2pyeHNPd1RYZFliREI2YzdfSFFMbFNn?oc=5) 工程细菌可通过加速岩石风化实现碳捕获。  
-- [Remember the Earthquake That Hit New York in 2024? Scientists Finally Found the Source - Gizmodo](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnpBVnBmangyXzJQcC1PV1pCWlNUX0JTRnJUWlZnZzJOMmR4UlEtUWROblhBZ0Ffb3FsLTJmdlhUQkNoWTluOXpHcEdFZjNCejFWdjFLb1NDMVBOZmprcXRjSkl4TGhvVmJJUVBiTEhFdVhRNjlub19KazFhMWlxNlVxdVNXLWU3Z1VFeEJ2VWcxN1N5cVI0RTZHMGpwckxUYUh0cFR3?oc=5) 科学家发现 2024 年纽约地震的源头。  
+- 尼泊尔洪水死亡人数超600人，中尼边境暂未发现幸存者迹象。[CNN报道](https://news.google.com/rss/articles/CBMickFVX3lxTE5pR2ktbUNXSndQQlFUb01IWmhPdlU4VXIzZ0owTl9sd2pXZ0hYVEZDcTNPU0ZxWmh1NU5TOHo4ckZIamZDcFhjZlNUSUZPU2RhZzZpcDhPZFBCV2doZ2VnWE41VHY2M2dTdGpRQ0U5N185QQ?oc=5)  
+- 特朗普针对伊朗战争的六段表态显示其策略演变。[Axios分析](https://news.google.com/rss/articles/CBMic0FVX3lxTE1VQ3JEWXk2R3lFb1BTSmhWLWIxYzIyWE44U0RvYzVvcWlfVWNmSF9vU1pjQzROMHZVdW5WRHpLdlBzSHBndHNYQXpOTHktVkxWYTViM0I1cTNzYlpFZmxaSzlXejFSUFR2Sl9kWHFOTmptRXc?oc=5)  
+- 得州州长禁止州机构使用公共资金购买Flock监控摄像头。[The Texas Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmhqb1JYeDlzUnNFU09MMk1GVnkzZS1hT0p3c1IzbVlaSDZFUW5MNTUxTDhwT25fUkx0cEJHM21jQXhRdEwxT0h3dm9taG9hRXBUWUFNQTFIMTVTQWJWeGpHbUdhSjNYWnBsUklpMGJBZnI0VnUtajNuTEpmb01uaUgwS0tQenh2U055NHNfME4wR3VT?oc=5)  
+- Lindsay Clancy谋杀案陪审团审议中，关键庭审细节可能影响判决。[AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPeXNxYkFVQktQci1xdEI4UjBWVm5WWWluamRtSlpWWU5lUGNmWGlrYWxaMHZpU2FGdmUxTmtaYWhGWTEtcFJyQzNGdkdaYmcyZjVnOG1TV0M2SHhhZnA1Q2U5UXBPNWVERTk4ZkU1eGU3RWhuNjRhRnFWd2Q2eGx0V0ZCbEl2eVBGUWN1WTI2TTBmTm0ycURseEZvbXlhRWxTSWRR?oc=5)  
+- 法官驳回9/11主谋哈立德·谢赫·穆罕默德的供词，称其受酷刑影响。[CBS News](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0lEUzY5SDEwb3NnelowQlR6czlfZW9wSlJFcVo3eHFsNlh3TUtKUndiZWM1cmJFb2ZxSXVKbUF2dXZZUzAwNU5LQnNURmhoZ0ppZUpwVFdtWWxVS2hNTUdfMjJ3c0E5YTk2VUpxVUtRVlBMQVl3a1Z0OUR2TUtNUjEybEYyNi1kaDlWNFdrOVVDQ0dRbXVKYUtPdGdpUGZlakg3ZkdB?oc=5)  
 
 ## 🧑‍💻 HN 精选  
-- [[280分/100评] Just the rumour of a bug is enough to find an exploit these days](https://news.ycombinator.com/item?id=49480466) HN 网友讨论了如今只需谣言就能找到漏洞的现象。  
+
+- SpaceX收购Cursor编辑器引发573分热议，社区讨论其开源未来。[HN原帖](https://news.ycombinator.com/item?id=49486172)  
 
 ## 🔍 值得深挖的一条  
-- [Engineered bacteria offer a new way to accelerate rock weathering for carbon removal - Phys.org](https://news.google.com/rss/articles/CBMibkFVX3lxTE9qWXFSRFNvMWU1WHVuYjNiTE5oQ3piTXdFaThOLWFDaWpJTk4wOE9LNEhRQVU4RndUZ0F0SHBuT3ZqNkJEbVpfUnhndGk4U3NuRHZyNEJrQ2pyeHNPd1RYZFliREI2YzdfSFFMbFNn?oc=5) 工程细菌加速岩石风化的技术可能为应对气候变化提供新途径，值得 Naso 深入探究其机制和潜在影响。
+
+**SpaceX收购Cursor引发的开源争议**：该事件集中体现了科技巨头收购对开源生态的潜在影响，社区对工具独立性和开发自由的担忧值得追踪后续发展，尤其关注是否会出现分叉项目或新替代方案。
