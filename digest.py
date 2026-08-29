@@ -5,7 +5,7 @@ Naso 晨报 · 纯标准库，零第三方依赖
 思路来自 zziying/ai-morning-digest（CC BY 4.0）
 
 流程：读 seed.txt -> 拉免费源（Google News RSS / HN Algolia / arXiv）
-     -> 有 ANTHROPIC_API_KEY 就让便宜模型削土豆压缩，没有就发毛坯
+     -> 有 OPENROUTER_API_KEY 或 ANTHROPIC_API_KEY 就让便宜模型削土豆，没有就发毛坯
      -> 覆盖写 digest.md（快照制），history.json 记 180 天去重
 """
 
@@ -220,10 +220,36 @@ POLISH_PROMPT = """你是一份晨报的汇总编辑。读者是一位名叫 Nas
 6. 直接输出正文，不要客套开头，总长控制在 1500 字以内。"""
 
 
-def polish(raw_md):
-    key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-    if not key:
+# 削土豆工（OpenRouter 路线用）。想换人去 openrouter.ai/models 抄个 ID 换这行
+OPENROUTER_MODEL = "deepseek/deepseek-chat"
+
+
+def _call_openrouter(key, raw_md):
+    body = json.dumps({
+        "model": OPENROUTER_MODEL,
+        "max_tokens": 3000,
+        "messages": [{"role": "user",
+                      "content": f"{POLISH_PROMPT}\n\n<原料>\n{raw_md}\n</原料>"}],
+    }).encode()
+    req = urllib.request.Request(
+        "https://openrouter.ai/api/v1/chat/completions", data=body,
+        headers={"Authorization": f"Bearer {key}",
+                 "Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            data = json.loads(r.read())
+        text = ""
+        try:
+            text = data["choices"][0]["message"]["content"] or ""
+        except (KeyError, IndexError, TypeError):
+            print(f"[warn] OpenRouter 返回结构异常: {str(data)[:200]}")
+        return text.strip() or None
+    except Exception as e:
+        print(f"[warn] OpenRouter 削土豆失败: {e}")
         return None
+
+
+def _call_anthropic(key, raw_md):
     body = json.dumps({
         "model": "claude-haiku-4-5-20251001",
         "max_tokens": 3000,
@@ -242,8 +268,22 @@ def polish(raw_md):
                        if b.get("type") == "text").strip()
         return text or None
     except Exception as e:
-        print(f"[warn] 削土豆失败，改发毛坯: {e}")
+        print(f"[warn] Anthropic 削土豆失败: {e}")
         return None
+
+
+def polish(raw_md):
+    """优先 OpenRouter，其次 Anthropic 直连，都不行发毛坯。"""
+    routes = (
+        (_call_openrouter, os.environ.get("OPENROUTER_API_KEY", "").strip()),
+        (_call_anthropic, os.environ.get("ANTHROPIC_API_KEY", "").strip()),
+    )
+    for fn, key in routes:
+        if key:
+            out = fn(key, raw_md)
+            if out:
+                return out
+    return None
 
 
 # ---------- 主流程 ----------
