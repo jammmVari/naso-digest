@@ -1,0 +1,32 @@
+name: naso-morning-digest
+
+on:
+  schedule:
+    - cron: "50 11 * * *"   # 每天 UTC 11:50 开印，想改时间就改这行
+  workflow_dispatch: {}      # 允许手动点一次，测试用
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 印报纸
+        run: python digest.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: 提交今日份
+        run: |
+          git config user.name "naso-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add digest.md history.json
+          git commit -m "morning digest $(date -u +%F)" || echo "今天无变化"
+          git push
