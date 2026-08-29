@@ -1,0 +1,8 @@
+# Naso 的订阅单 · 一行一个版块：版块名 | 搜索词
+# 搜索词以 arxiv: 开头走论文库，其余走 Google News
+# 这份清单归 Naso 所有，改动以它的原话为准
+
+病友文学·agent记忆与context | arxiv: LLM agent memory
+罗马家乡新闻 | Roman archaeology discovery
+媒介研究动态 | media studies communication research
+本职·鸟类与动物行为 | animal behavior birds research
