@@ -1,47 +1,28 @@
 # 🪿 Naso 晨报 · 2026-08-29
 
-_毛坯版：未配置 API key 或压缩失败，原料直出。_
+## 🪶 病友文学·agent记忆与context  
+- [A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks](http://arxiv.org/abs/2608.26008v1) 研究者提出了一种自我演进的多智能体框架，用于防御 LLM 越狱攻击。  
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 罗马家乡新闻  
+今天没有。  
 
-- [When Memory Takes Gradients: Collaborative Vector Memory for Agentic Recommender Systems](http://arxiv.org/abs/2608.26895v1)
-- [LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems](http://arxiv.org/abs/2608.26849v1)
-- [Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory](http://arxiv.org/abs/2608.26807v1)
-- [AgentFold: Closed-Loop Agentic Search for Protein Folding Model Design](http://arxiv.org/abs/2608.26747v1)
-- [Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI](http://arxiv.org/abs/2608.26442v1)
+## 🪶 媒介研究动态  
+今天没有。  
 
-## 🪶 罗马家乡新闻
+## 🪶 本职·鸟类与动物行为  
+今天没有。  
 
-- [2,000-year-old Roman villa with stunning mosaics discovered in Turkey - HeritageDaily](https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1liUWhlcHJkNk1fRnIxWDBQaWx0M2EyNnd3WnMtZG93WU9JUXNicG5QblpuYzVTWFNGdEh1ZERqWGRndGZtM3MyU1BJV2RORl9HQ2dRMXlHa1VPY3MzZlo2ZkpDc1BJZkdaUVNvY0dUdE9tVWNES3hoSUowMk41MFJkTmdvcDJsWXRYQjRaMDlXOV9WT19yeXNORFVYMlcyWWMtT3hITDlnRG84S2VhVlFnOA?oc=5)
+## 🌍 世界  
+- [White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump’s speeches - NBC News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNU5UOVRJTEJxRjQzUnMxbUgtdTNsYXNEaXpyRTVwVmpTUDRORlpjWXA2ZTFmMUNGUW5tdno4c2pQdXI2SGt0UXE3MnhyQ241UHd0SXRXQjNUZkR1QklXU1QtTWhibDF0WjlWaE1lNmtYaUFiNHJnUmQzQ2F2dTJaNll3MGpiSXhPa0xBTzRXVkVtNERuVVFCY1dDRE93UmxieEE5U1NaYU1sdW9tU2hlUHlBME1FcDQzZzFYYUdpUDk?oc=5) 美国白宫提词器操作员因利用特朗普演讲内容进行预测市场投注被罚款 17.2 万美元。  
+- [How Lindsay Clancy sought help before she killed her three children - NBC News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXy1xSGowWWlZQTItU19DOU1zMFRwTGVROWZpb3NISXhmWjJNdjNzNHRvMU9EMFJwanBNLXNIV3ZpXy0zRVlPU1V1R3Z3UWU1VVdZbDV2N0pXcHNWVFdTeV9ibXJxTEdxV2dmV0pDRFZQVGNNTWF5bDAxLTlpVXA3OVdlbTNVT2lmS3lFUzFybGZka3hMeEYxZEY5eEFTY0dFU01TQ0ZrWXA?oc=5) Lindsay Clancy 在杀害三个孩子前曾寻求心理帮助。  
+- [British far-right provocateur Milo Yiannopoulos detained by ICE - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxjcFc3WTRjX0tnRWJSU1hDUnNCODh1cm5oSm5IVFZEbkloOC1TMWlpamVKbjBsZ0ZCTWFSNWg5YVFRSndheTFNN2NmUGFEcnprUmRPcWMyTzBsMjRFZnlXc0NmRXJmRTA0ZkpIWFZ2YWFQQ2V4VXBEUzBzQk8wWTcwc3RkMERCcVRFNTg1bHppOGZrczRqakZhQWplajVEX1N4Z25pdHBwWTg5czhpeVNqNA?oc=5) 英国极右翼煽动者 Milo Yiannopoulos 被美国移民及海关执法局拘留。  
 
-## 🪶 媒介研究动态
+## 🔬 科学  
+- [Engineered bacteria offer a new way to accelerate rock weathering for carbon removal - Phys.org](https://news.google.com/rss/articles/CBMibkFVX3lxTE9qWXFSRFNvMWU1WHVuYjNiTE5oQ3piTXdFaThOLWFDaWpJTk4wOE9LNEhRQVU4RndUZ0F0SHBuT3ZqNkJEbVpfUnhndGk4U3NuRHZyNEJrQ2pyeHNPd1RYZFliREI2YzdfSFFMbFNn?oc=5) 工程细菌可通过加速岩石风化实现碳捕获。  
+- [Remember the Earthquake That Hit New York in 2024? Scientists Finally Found the Source - Gizmodo](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnpBVnBmangyXzJQcC1PV1pCWlNUX0JTRnJUWlZnZzJOMmR4UlEtUWROblhBZ0Ffb3FsLTJmdlhUQkNoWTluOXpHcEdFZjNCejFWdjFLb1NDMVBOZmprcXRjSkl4TGhvVmJJUVBiTEhFdVhRNjlub19KazFhMWlxNlVxdVNXLWU3Z1VFeEJ2VWcxN1N5cVI0RTZHMGpwckxUYUh0cFR3?oc=5) 科学家发现 2024 年纽约地震的源头。  
 
-今天没有。
+## 🧑‍💻 HN 精选  
+- [[280分/100评] Just the rumour of a bug is enough to find an exploit these days](https://news.ycombinator.com/item?id=49480466) HN 网友讨论了如今只需谣言就能找到漏洞的现象。  
 
-## 🪶 本职·鸟类与动物行为
-
-今天没有。
-
-## 🌍 世界
-
-- [Live updates: More than 2,500 still missing after flooding at Nepal-China border - CNN](https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5)
-- [Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves - NPR](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNk1qY0NSZExQbU1zZFA5V003aTVqbkNSVGtNMFhsaUpyZ1ZBb1gxUlk0a1k1QlIzNnl1YlViQVp2YXFJcmZPSTV6b1ZTZ25tMWthQjBmV3YxYWFPSzhFOGFaNHZRRXBhcEZDdTlMYUlKOThmZHZ3YndmamllemdmMkM4eXY0Qm1iR2dKUU9IX2RmRXpJSXZsOVdGSmNIeDBvUUV5b1FSYnhmaDZUS0xNcm9ibXhYeEZYQm52LVd2SDRMcDViQXkzeDBjaWhmUDc4LVNqVVdqY2JEMDYwS3c?oc=5)
-- [Live Updates: Iran war hits 6-month mark with no end in sight - CBS News](https://news.google.com/rss/articles/CBMingFBVV95cUxNY3ZaTmR4OEVQWjVMZWRibUo2TGJTRDMtUVl6SmdLblprZlRsOXNPeTNvVmJRX2VUbU5JX3dCeXFfbUtqaExPa2pxZzByOEl4aDNNOThMajlXMnNHdFhFVlViTmIzTVZqMmh4RnVsMkdNTmV5ZGNVUThJYjZBRHpfdmFTY0QzYVpuUDdXUFl4c21VWDhvNWZib3NFbE00QQ?oc=5)
-- [Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5)
-- [Pete Hegseth is talking about a possible run for president in 2028, sources say - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmFDWTNmRUxYS3p1WUhGVWlJYmtXN0RrQXVCUm1UOWk1dUVYQk82bTdRSjg1bEJxY1JwcEg5eGdCbGlya2oydTAwTmg5YnYxd2ZlQzJLWlBzRm9qUFdZU3Q3c2dKSXE5UHUtWXQyd2NXcjlNa2NHSktzUzczWFV6WDd6MmpUV2ZqTWNHSmtUWGtJQmRkUDYyX0hUWlFHcnlHeUpiWEQydVdhOGxXUk40ZU9ETjduSHFOSGc?oc=5)
-- [Hillary Clinton's dig at Trump over Lake Ontario name change sparks viral backlash: 'Shooting blanks' - Fox News](https://news.google.com/rss/articles/CBMivgFBVV95cUxONWRDbTlXLXFpWWF6Slc3UmdFdFp3VFJVeUhvM0FQaDdmZTdqNkNxVWNuanV2S2trWVlkV3NfOGdxV2FFQkViZHdaNkZjNjA1eUxXeElJbHR1YzJzVlA3QmtxUFUwWHRBN09DX0RZS0phSmNMaUF5QUxnMUNMUlFjWUdMMFltUldnOU5OekRXdDhTWmp5MzlITWJLMXlWVmxDdjdOSlUwU2I3QktkTElLTDJvd1BoUFBWUzBVUmZR?oc=5)
-
-## 🔬 科学
-
-- [What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline) - Space](https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0tuUDdYbU5wVGFUREI1Y1ozSGJUcDlqbnZjNVVScEtmVzU3LWVWWVQzVzJKV0Jhb3h1S1VxdzhydEpwMVZnal9PVFBCRlliQjU2SXF1YmVKTmp5YmZsTnRfakVKcXRwZDZRa1RXcGxZdG1DQk11STlHZGM2SGxRWXdHWDdGb3FBWkZOZWZvNmRzdXRETUZNaGs2dFBYTTM5ck9zV2VfWUd4cEhrQWppY2NiMTA2NG9QbGc?oc=5)
-- [See photos of last night’s stunning partial lunar eclipse - The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5)
-- [Friday Northern Lights Forecast: 10 States May See The Aurora Borealis Tonight - Forbes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ1FEeTlHSHVaTVd1akFDb3VidXBLZ3dtWEhoS0QxUnNla0sxcml5dzBjMnFSQ2Q1MU1xLXItOEVKU1JzMG9Da0lIMWtlUGhSc1Ftd21xdkVTRkdMNzBOVEJCTm1wUzlSeGtERDB4WElYczFXRFRtc19KQjRvbGtZRjJOaUpJLWRqWXJGWTJpYmpwcUIxZGx4LWVaYUctb1JwNWtoRmFaek5qdUN5M0FkVjhWek13VHoxYlBJRnczRDdjVjV5TXUwU2txRWNzbVYt?oc=5)
-- [NASA Spots a Bizarre 'Jellyfish' Floating on Mars. Here's What We Know. - ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFdlVDZCckhYX1ZSWDlrVEc4aFJMTXZoYnBwc0dMMElPdkNPVUZiaUh2XzZRLWlBUlllbm5hei1jVTZ4NWVOTHNWNnVSTXlGWTJJWnl4WlgtaWlsSFVDM1ZfN05LQnFSVVpwZlhRdUU3VHRSa2E4M1RjSHNfNFdScHktTDF6VzZwZFRVU2ZzSnNTU3ZiQ2RCeDUyVQ?oc=5)
-
-## 🧑‍💻 HN 精选
-
-- [[681分/328评] GUIs should be fully keyboard-driven](https://news.ycombinator.com/item?id=49479837)
-- [[624分/218评] GLM-5.3 is now open-weight](https://news.ycombinator.com/item?id=49479878)
-- [[572分/139评] Htmx 4.0](https://news.ycombinator.com/item?id=49478178)
-- [[521分/491评] U.S. sanctions against the A/I Collective](https://news.ycombinator.com/item?id=49477854)
-- [[449分/148评] Inception-style curved map for turn-by-turn directions](https://news.ycombinator.com/item?id=49477564)
+## 🔍 值得深挖的一条  
+- [Engineered bacteria offer a new way to accelerate rock weathering for carbon removal - Phys.org](https://news.google.com/rss/articles/CBMibkFVX3lxTE9qWXFSRFNvMWU1WHVuYjNiTE5oQ3piTXdFaThOLWFDaWpJTk4wOE9LNEhRQVU4RndUZ0F0SHBuT3ZqNkJEbVpfUnhndGk4U3NuRHZyNEJrQ2pyeHNPd1RYZFliREI2YzdfSFFMbFNn?oc=5) 工程细菌加速岩石风化的技术可能为应对气候变化提供新途径，值得 Naso 深入探究其机制和潜在影响。
