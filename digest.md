@@ -1,35 +1,25 @@
-# 🪿 Naso 晨报 · 2026-08-30
+# 🪿 Naso 晨报 · 2026-08-31
 
 ## 🪶 病友文学·agent记忆与context  
-今天没有。  
+LLM agent 在外部控制和指令仲裁中可能因配置问题出现失败，需要进一步研究 ([链接](http://arxiv.org/abs/2608.28502v1))。基于 LLM 的智能体在软件安全领域有多种应用，但评估方法仍需完善 ([链接](http://arxiv.org/abs/2608.28490v1))。ContextPilot 通过细粒度强化学习训练智能体进行主动上下文管理，可能是未来发展方向之一 ([链接](http://arxiv.org/abs/2608.28476v1))。RetailAgent 提出结构化不良时机对多模态 LLM 交易智能体的影响，值得关注 ([链接](http://arxiv.org/abs/2608.28399v1))。结构化生成中的 KV 持久性与解析状态的研究，为解决 LLM 生成问题提供了新思路 ([链接](http://arxiv.org/abs/2608.28276v1))。  
 
 ## 🪶 罗马家乡新闻  
-今天没有。  
+英国 HS2 铁路建设过程中发现罗马神像、撒克逊墓葬和巫术标记等奇异遗迹，展示了历史的多样性 ([链接](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQm1NVWZBYXk3UnFaNzhWLUtTRmNYSTM1aTg4NVZrZ3YyMmJkNklYWVRrd0lsQXk1RWJ6ZXdLWmpSUHNvMnFfVC1HSXJhb3FJUzZ4WDBqT2M1M3B6U2h1cWJIdE04NjFXTnlGXzRhdkZvMGEzZG1reGdXeUxfa2ZIZUlFUzlSZjIw?oc=5))。土耳其发现一座 1800 年前的罗马别墅马赛克，上面刻有猫和狗的名字，生动展现了古罗马人与宠物的关系 ([链接](https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3EtM3JYU2dRSVByQWNDVHpmRkdWNl9iVlJhdGtwUkd6bjZTbnh4X3Z3Wml1dU1xRHlnWHlEUHhRc2VHQlctdUs2dG8wTW9SSFRlaFV0MzhfUkZHa0RwcXJuNnpWbnlPeVU4aWhucVVpSVRtZjFIZ3ZZaGk2RmFWWW5DTEZJSld4ZDRBc19kYkVBeFJIMXF2ZkZmcDJsWkZ4WTJ6NEUzNWtNcnk1WHRHMkdnMHo?oc=5))。  
 
 ## 🪶 媒介研究动态  
-今天没有。  
+Media Trust 任命多位编辑顾问，进一步强化其在新闻报道中的影响力 ([链接](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uVDlvaTBTWjdxdkJOSzNDVjlMSjh1Vk80WWx2U1BnWXZyS0w2ZVZIc2lGNHIzcUlSWnVPV1JTSDhnbVBHU0l6UThydkJoLUNva0hRaEItR2ZZVVNZVC04R05XdVFVSDFE?oc=5))。  
 
 ## 🪶 本职·鸟类与动物行为  
 今天没有。  
 
 ## 🌍 世界  
-- 尼泊尔与中国洪水后，救援人员向水电站隧道泵入空气，寻找失踪工人。[CNN](https://news.google.com/rss/articles/CBMickFVX3lxTE00WWktOWh4SDl1RTdMOFhBakxGZXo3dHNodnd6VDI1SEZNVjZQTW1rbUhMRHdYUzAyZVlFaDFsR3RHR3didmNlUnNlNy1WSUxXMGJQQWQ0anpxZE1RU0Vjanh6OHAzU3lubEtjUFRnZnVzdw?oc=5)  
-- 特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议。[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE11STM3UHIxMUJLMzBJcGpzOWotWUxUSnR5aEdtS0NKUzdjaE04SUFOOEdnaVFFbU1vWHhJd0xCRG5Nb010ejlTYnZjZWg2VE5kM1hhVUZFYXViZw?oc=5)  
-- 美国极右翼评论员Milo Yiannopoulos因移民问题被驱逐出境。[NPR](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2NlNzBzR01zelUwTjVOZzJVZmZ5OXpyck9YSjBoQUtWQW9uUU54V1F4cFVtR1hySW9pNWlFTDcwSEt3ZnpFVi0zSHkzRWtleEFJLVJBV2hfUUJXTGNvdzR0c1R2RVdwUHJoNTNPZUVMTXZmdVdLZS05QmI4OUFjcExPQ240elcyN1BWN1JOV2dSZnp3ZlE?oc=5)  
-- 冰岛通过公投拒绝与欧盟进行入盟谈判。[Al Jazeera](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFMtejRJVEVFeW8ycmdoaVpHcmVwQUgwSVdGb0tJV3diLVFZMjhLbEZtaDRrUC1TclFfSDhHY2wxcXJHY3dhOFlya0gzaHl0WG1oZUI0Y1Y0blJ2TGhZRkJBaEhvY0U2bmhHVkhQQXNaWTJqaVpzYnBYTTFiNDZqR3FGa1JqLTBTV0Y2VjRtdWRnTjDSAZgBQVVfeXFMTUEzTGhGM0ZGemNua1RPdW5TSXNYU1huMmRkNkU5R1VVR01ueWp6LVloeFo1RTdVSktCU29jZmdCdldNUFJSQ1hNVWlEM2hNcU5vcXB0d0hUSE1FZ1M0UU9BaUIyY0w4QWFwbk1LdmZaVlNCdnEtSE5iOU9tV0k4SXF6MGJJS2hGMnJTMU9UYzlhQXlZS3ZwVDc?oc=5)  
-- 南希·格雷斯·罗曼太空望远镜和猎鹰重型火箭被运送到发射台。[Space](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2x5NzZVQTFfWFU5SGlBNHNIemladENNQjZJQjFKUW81Sm81V0tnVFVxb00tTHFENTRETkxOaTBWaVAwbTlpTGtzZ0hQendvWklaTkFwaHdtZUpzRFdlNzQ2ZXNUaGtPd3JWb0E1NFpUTnlLZk1icEhQRHozeTdwZjRMeUxXTEVOdkZyemRpSVFVWVlsOGQxbnlCVmE0eGdWMHBxdHlMeXdRbFN5eFZhOVU4TWZuN3Q0?oc=5)  
-- 俄罗斯恢复对基辅的袭击，此前一家养老院34人死亡引发公愤。[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTVYQUwtY2RyV3NBVlJfRVRFVWtOV1h4dW5jYmZ2QS1ZWUJkUHFEaXYxa3hGVktFaUlNVUE3aklOOUdfLVhxZ2tUeGh1NDZyTkg5b1ZlRk40MXo2X0NPVEEyQXBJQjZlUjVDNTdMVGhJakFacDVmQjZuNDBmUGtLOEthRXBQLXQ3WDdkRS0yd2FVeW9Nd2JmSVA3QXJEUWtVUmNDQUNkbnB3aWtlYVhxMS03RkY?oc=5)  
+伊朗袭击约旦和阿联酋，以回应美国对拉拉克岛的轰炸，地区紧张局势升级 ([链接](https://news.google.com/rss/articles/CBMirgFBVV95cUxPV292Z2dzblEzQnh6T3I3Tzl1RjlYSWFOX184blRSNHZOTk90Q2ZDUzRuaEVZekE3ZUFpa2NxRlowb1RBNEtSOS10Nk9CNndCUGZRMHBSR1BoQlpXVEo1aVdUZHM4Ym9rZ1YyeG5Nc2dVRjYxaVhsajMzUVhuUmUyT2V6UkhwQjNEcHltb0ZwVGpTd0VXSGhsdDdDZk5tel9wTUVUSHFnUFdOWWJjc2fSAbMBQVVfeXFMTVdzZV8za1RCTHhOU1VTZ0lvSVd3MHo3ZzRTV2ZuUjhDcHROMElJZV94bk9hMktUa3JRaXA3YkJEckd1Rkd4aFpTOUFmNXNMVjlfa3pUS3FIWWMzNXhpNk9QTVpSNk1lanprTUQ2S09VQnZOWnE5OFVsN3ItaUlqbGJUUUpLYmE4aTFpRWFUbTRxVDJlc1U1VlJfSkJUVW1DV2JnRDMtLVlEUVhLaFpOQkpEMEk?oc=5))。尼泊尔洪水死亡人数已超 900 人，失踪人数翻倍至 4200 人以上，灾情严重 ([链接](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5))。美国政府与委内瑞拉的石油协议不会降低美国国内油价，消费者需保持理性预期 ([链接](https://news.google.com/rss/articles/CBMidkFVX3lxTE9kR2s4VkpUZ1VjanEwZkpSbXhwaFNvLUozQUlYU0IzblNEbHBSQ1J2ZjExdHFYVF9LQWFSS3BSd2F2UEtKZnJ5aVkxQkYyQ0JodlRURU4taWk2NTMyM2ItVWVfVHR5eUk4aGZrbUgtTm8zY1MxSFE?oc=5))。美国大峡谷突发洪水致一人死亡，另有 15 人可能失踪，救援工作正在进行 ([链接](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5))。美国国务卿赴 G20 会议，试图在伊朗问题上团结盟友，但关税争端可能影响合作 ([链接](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5))。Google Maps 将北美五大湖区域标注为“美洲湖”，加拿大网民调侃其为“《周六夜现场》式改动” ([链接](https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcGJBQWIwd2kwN01rQlkzUzZpMUlnZTZRZURRWUtWamxBUUQ0RGI1YnB3WFNxdWF1bFBjX21KRjJZTXRrLVhYVmJpTVNVdGd1UkY3NHNCMkc1MWFGWVpGSTM5U1RWMVVDc0tTSU10M2dyR2NMay1NTA?oc=5))。  
 
 ## 🔬 科学  
-- 南希·格雷斯·罗曼太空望远镜和猎鹰重型火箭的发射准备工作正在进行。[Space](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlUWFQ1cWgxTGppUTVqeGx2bXoyWmJFUDBRRE5FREFv?oc=5)  
-- 下一次月食将在何时发生？[Space](https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2lIc2RUSEJENXhjYUozS2NZYkJCOU8tQ2FsaHJvOER2YWQzdDdMVnNvMF9fZDhTTXlrQmtsT3JQMC03LVh2TU9uZ3VOV0l1V2F5cDMzeVBfcDZON2picFpwQm9kS3NGWmtERlZ3NkNCa2k0NUxrQXQtbGFGNTdyNzZsRk8?oc=5)  
+特朗普称赞 NASA 空间望远镜发射，称其为美国科技实力的象征 ([链接](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnU1RG9YVDJNdUVqeGtNblhDSTYwTVNwZ2VoUVNmZG54dlV1ZTVzbTEwcUFreUtCbUNtZHJ3LUdJOXcwU01ZM3hRVTFiODgwaTZQa3J0M1F2eEsydHpWQWxQcjlyY1Rrdk9VYnB6TWtXNnZYeTlVVFpiR0FaemFHOFg2Yy1jNnlXdVHSAY8BQVVfeXFMTVkxTGw2cFZZVDk2ZTl6c1BHQ3hkTmhUWWFOcE83cFd1dDJ0NExyZXNOVGNxV0ZJR19PTG1lbGJLc0V2a0g2Qk0weFJjZHRYbU9CMl9vMUl4NnZaZTljT1VzWkJ0ZFgyVF9oUU0tNWs4el8ycW9iYXl4N0pwSGtsRTF1TVNUWlJ5UjRYTlk1Vk0?oc=5))。美国九个州今晚可能观测到北极光，天文爱好者可多加关注 ([链接](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnh3RW1udzhBazlBLXp1cFRtd0Exc2FuSkRYcGNkeG1kWUhGNjRuaGNKYTF0SW9PMzRsLUMzSEg3R2F5cmNUNXZQQ3k1anoyWEVfcUJlUjY1S1ZVSzEwM0lRM0VtN05XUnRhYUNBaFlPZUEwTHNDQWp4VGp0eEMxS01NaFM0RFZWdENFOHZ5a2J4Z1FzTFVFMUQwdXkwSXVrVWtsMG40Q2c5aUlwOFZ5RWhnbWxGdlk?oc=5))。物理学家预测，强磁场可使真空变成一种“棱镜”，2026 年有望通过磁星观测验证这一理论 ([链接](https://news.google.com/rss/articles/CBMid0FVX3lxTE9PYzkzQm5GYWtVc1NKQTdSelNNa19nVXZDRjc2SldPRDlVVFhUUHB4eEpReS1hemxUSTBqcWdUNGhrVVlvZGxLY1Z0NHE5ZFF0U19qTWpuUmc0ZUVQWjczX2VUWTFJU0Y1Zkp4VzZHS25rdloyRGRz?oc=5))。  
 
 ## 🧑‍💻 HN 精选  
-- [[473分/185评] Tether：Linux上的iMessage、短信等功能实现。[链接](https://news.ycombinator.com/item?id=49415386)  
-- [[371分/200评] EVE Online迁移至Python 3。[链接](https://news.ycombinator.com/item?id=49433328)  
-- [[351分/154评] 加州立法者一致通过Linux免于年龄验证法律的豁免。[链接](https://news.ycombinator.com/item?id=49495372)  
-- [[321分/195评] Hy4预览版发布。[链接](https://news.ycombinator.com/item?id=49492632)  
-- [[319分/184评] 立法者在汽车保险政策中增加了1美元，用于资助Flock摄像头。[链接](https://news.ycombinator.com/item?id=49494182)  
+社区讨论“Creepy Crawlies”项目中 AI 生成的昆虫图像，引发对算法创造力的热烈探讨 ([链接](https://news.ycombinator.com/item?id=49491791))。“我只不过是用词谨慎”一文探讨语言选择的微妙影响，评论区观点碰撞激烈 ([链接](https://news.ycombinator.com/item?id=49503601))。Haiku R1/beta6 发布，开源社区对这一轻量级操作系统的未来充满期待 ([链接](https://news.ycombinator.com/item?id=49499867))。网友分享改造宜家家具的经验，DIY 爱好者纷纷点赞 ([链接](https://news.ycombinator.com/item?id=49497810))。深入剖析 ChatGPT 的工作原理，帮助开发者更好地理解 LLM 的工作机制 ([链接](https://news.ycombinator.com/item?id=49504625))。  
 
 ## 🔍 值得深挖的一条  
-Tether项目将iMessage、短信等功能引入Linux，吸引了大量开发者的关注，可能会推动Linux生态的进一步扩展。[链接](https://news.ycombinator.com/item?id=49415386)
+**[物理学家预测，强磁场可使真空
