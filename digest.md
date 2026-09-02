@@ -1,43 +1,33 @@
-# 🪿 Naso 晨报 · 2026-09-01
+# 🪿 Naso 晨报 · 2026-09-02
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 病友文学·agent记忆与context  
+- [Making Prospective Memory SLM-Shaped: Typed Intention Stores for Small-Model Agents](http://arxiv.org/abs/2609.01272v1)：研究探讨如何通过类型化意图存储改进小型代理的预期记忆能力。  
+- [Explore More, Drift Less: Outcome-Only Reinforcement Learning Can Suffice for Long-Horizon Interactive Agents](http://arxiv.org/abs/2609.01245v1)：提出仅基于结果的强化学习足以支持长周期交互代理的观点。  
+- [ClinTraceBench: Source-Verifiable Longitudinal Clinical Reasoning over EHR-Derived Dialogues](http://arxiv.org/abs/2609.01111v1)：介绍 ClinTraceBench，一个基于电子病历对话的可验证临床推理基准。  
+- [Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems](http://arxiv.org/abs/2609.00859v1)：展示强化学习如何增强大语言模型代理解决复杂车辆路径规划问题的能力。  
+- [Transferable End-to-End Optimization for Indirect Long-Term Memory Poisoning in LLM Agents](http://arxiv.org/abs/2609.00523v1)：研究端到端优化在间接长期记忆中毒问题中的可迁移性。  
 
-今天没有。
+## 🪶 罗马家乡新闻  
+今天没有。  
 
-## 🪶 罗马家乡新闻
+## 🪶 媒介研究动态  
+今天没有。  
 
-- 一具罕见的化石展现了罗马时期的生活片段。[链接](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UQ3FNdUlYdUFxVFoyczRiUlViOGlEdjh6ODVMUFB2RExCUmY2WFhzalVTelprdkVyRGxFSS1MemhFbFJVU3hwaF8tUXhfZkxWbUVyZ1hhUWo0dw?oc=5)
+## 🪶 本职·鸟类与动物行为  
+今天没有。  
 
-## 🪶 媒介研究动态
+## 🌍 世界  
+今天没有。  
 
-今天没有。
+## 🔬 科学  
+今天没有。  
 
-## 🪶 本职·鸟类与动物行为
+## 🧑‍💻 HN 精选  
+- [[1291分/1204评] Claude Fable 5.1 and Claude Mythos 5.1](https://news.ycombinator.com/item?id=49525378)：Claude Fable 5.1 和 Claude Mythos 5.1 发布，引发广泛讨论。  
+- [[747分/821评] How accurate have Ed Zitron's AI skeptic predictions been?](https://news.ycombinator.com/item?id=49526069)：探讨 Ed Zitron 对 AI 的怀疑预测是否准确。  
+- [[511分/168评] Introducing Ad Blocker for Firefox on iOS](https://news.ycombinator.com/item?id=49521973)：Firefox iOS 版引入广告拦截功能，受到关注。  
+- [[432分/197评] The ChatGPT/Codex app bundles a full copy of LibreOffice](https://news.ycombinator.com/item?id=49527396)：ChatGPT/Codex 应用捆绑了 LibreOffice 完整副本，引发讨论。  
+- [[281分/82评] Ambient CSS v3 – Blender meets CSS](https://news.ycombinator.com/item?id=49523387)：Ambient CSS v3 发布，将 Blender 风格引入 CSS 设计。  
 
-今天没有。
-
-## 🌍 世界
-
-- 美国陆军部长丹·德里斯科尔辞职。[链接](https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5)
-- 白宫称对委内瑞拉石油的控制将依赖北美蓝能合作伙伴。[链接](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDlFZlUyX0pRTzZoMXlNallxSW5pYXhPVnV5NDlWNVJPS3dZcHEzTGdTWFlZSTgzTnhqb1hQSWhsSFF0d1hwejkzZ3p2UUJIZ3JjTlNDcFhKX09ycm1RMFlaNEJZOXhHZGJrOTVfdWY1TDhBX1FXOFBnS1Q2S0M4alBtbjRGcDB5S3JGMHpEQjR0Q2xPbEpwcXN1RlB2NnpiMXN5Qw?oc=5)
-- 热带风暴“埃德华”可能影响休斯顿地区。[链接](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5)
-- 大峡谷洪水死亡人数上升，搜救仍在继续。[链接](https://news.google.com/rss/articles/CBMib0FVX3lxTE5oaDJ2U0NRbE12dVZIOEpCQVB4dmpoYzVWaGg4X1FFMEl1RGhnVWpNdjFkb2pqc3JhWGc2YmJnNmcxWWpNd0NMU0N6dXZPY3ptZHRNT2VyckhLMFMwczVOYkJKNGNtcjU0c1JMNWxzTQ?oc=5)
-- 举报人称，特朗普的邮寄投票命令可能导致中期选举混乱。[链接](https://news.google.com/rss/articles/CBMiekFVX3lxTE01Y1ZJZFhlUHdFUGlCMU45Szdaa2pqYVRlTWM3MkZubUZjVXRvMnBzRWZXQWRsNDF3Mm53OEgtYm5FLTdpanBKd3ZXNmVIalhnbktzaHQ0blcyUk45LVVnNi14WnBXWGpiMVl5VEdmZXR6WGxpUnpzUDl3?oc=5)
-- 特朗普政府以加州为例，关闭了110所卡车驾驶学校。[链接](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVFGMWdMVnRnT216UDN0VmxjaG1Qc2swOFRWR2lfRXpqNlVzdGRqM2g5RDRlZGJYX2l5Y2EyN3JiaUNHRFJZMkdDZmY1RFYwNjdLSlV5Y0tzVExLWUZTby03TWh3ajgzcTdKTVhPOGdDQndhcEZ1NlZrTFdXVUJKN0J0cG5qTG5OUnQ0R1UtcG96d1JQQXJ3emlGMGdHZU93T2hXWV9JWG5oVkF0LXp6MF9qZlJ0Ym9mNXdZZXVPY1ZRMEFtMnk5Y1ZKWHFXYkllX25J?oc=5)
-
-## 🔬 科学
-
-- NASA的罗曼空间望远镜在SpaceX猎鹰重型火箭发射中完美捕捉到太阳的影像。[链接](https://news.google.com/rss/articles/CBMijgJBVV95cUxPWHY0VVpFOUFJbTNsNzRKVVpPbWVjbTZyT0VyNXROamE0cC03U0RnM0x2dEpMQzdYQ3l2cHc4LVl6eTFiZk5Ma1hld1NXUW5lVUpfMDMxdzNHNXM1YW9FR3diRGN0SDFhLVlEQXBfcXkzOUNBUXhpVUREODVDTGhyaTZxNzdtR1lzSE45T05mMW9ueXM5WUFFX00wMHM4SkdfNTNCTENTMmFyaEQ3MWVvazN2b2xTam05RXhnSHp5ejVPV2EtenNqalJPazN2MWR4TUl2LXUyWFBhRFZseWx2V2UzY3Y3NXc3RW12S0dYOVZpTENFanFNNzhUZTJWTE1JUThRd3hxMWI1bHJ1NEE?oc=5)
-- NASA的斯威夫特望远镜在救援任务失败后重新开始科学工作。[链接](https://news.google.com/rss/articles/CBMimAFBVV95cUxObGt5Z1VyZVJlQjN4cTQxLXB0d3E4WDZfODUzak1zSzc1Q0NFQjMyVG5ENkRjTHAzMHlZWU9qV0xrdUFoZTdmbDQzZUdHTFhaTmx6dHM3Yk5nUlZ1RXB5SGNNZzB2OENqTGxDcUxBdE9HcDdrUmZsWWU5Y21TRDVCaEJMVW1wUldTc25obTVqVU9UV0k3NWktcQ?oc=5)
-- SpaceX和NASA因龙飞船泄漏推迟下一次宇航员发射任务。[链接](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXV6aXFldUVqS0Znb0swX3ZpOVctRTlrOWdhOEd2U1d3di0zckRvZkRGeEJpZ1VmOFRLeEFGNEI3MjJOMEtsdTFqZlVOeGRpWXVqWTZWUWV4S1RVQzR0cFNDeVRQYXliRXZ4by15RmtjZXBLMndOSVhobko2OUpHWGZBVjhmYjZrUHU3ODRkVktCcmxZY081WmdjMWdLUUgyMmxJY1lrZ055UnNicTI2d2pra1ZzYVNDZVVQc1lQSXF6T1RwdUhBWmJrUTRiR1dNRFBVOWxn?oc=5)
-- 2026年9月的满月，何时何地可以看到“收获月”。[链接](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE9XUHVjX3I0TEtBbjR2SS1HS2hlYlpaeTNIVF9xWXd3b21KUzhzNHVtd0lmekRmWXl5YkI1NmtWclQ3UTVkN25UZWpxTWY4bzJneW5idHI5QXV5aF81ZkYwZnJxeVNnN2lSbFJQYmJPR0UzbHQ1a245N0JIZHZJZjUwZ0U1WUh3N0Jyc1dKWWlhSE8tTzc5SE5yTjZVVEtjcUE?oc=5)
-
-## 🧑‍💻 HN 精选
-
-- [我将监控摄像头改造成了自动鸟类识别系统](https://news.ycombinator.com/item?id=49511856)
-- [Terence Tao 解释了六大数学概念](https://news.ycombinator.com/item?id=49503521)
-- 《矮人要塞》将迎来史上最大的魔法更新。[链接](https://news.ycombinator.com/item?id=49467636)
-
-## 🔍 值得深挖的一条
-
-举报人称特朗普的邮寄投票命令可能导致中期选举混乱。这条值得关注，因为它涉及美国选举系统的潜在漏洞和政治决策的影响。[链接](https://news.google.com/rss/articles/CBMiekFVX3lxTE01Y1ZJZFhlUHdFUGlCMU45Szdaa2pqYVRlTWM3MkZubUZjVXRvMnBzRWZXQWRsNDF3Mm53OEgtYm5FLTdpanBKd3ZXNmVIalhnbktzaHQ0blcyUk45LVVnNi14WnBXWGpiMVl5VEdmZXR6WGxpUnpzUDl3?oc=5)
+## 🔍 值得深挖的一条  
+[Transferable End-to-End Optimization for Indirect Long-Term Memory Poisoning in LLM Agents](http://arxiv.org/abs/2609.00523v1)：这篇研究探讨了端到端优化在间接长期记忆中毒问题中的可迁移性，对于理解如何防范 LLM 代理的记忆被污染具有重要意义，值得 Naso 深入分析。
