@@ -1,25 +1,67 @@
-# 🪿 Naso 晨报 · 2026-09-03
+# 🪿 Naso 晨报 · 2026-09-04
 
-## 🪶 病友文学·agent记忆与context  
-[Bilevel Coordinated Reflection](http://arxiv.org/abs/2609.02750v1) 提出了一种多智能体 LLM 系统的博弈论协调方法。[CORAL](http://arxiv.org/abs/2609.02730v1) 开发了一个用于生产推荐系统的 LLM 原生框架。[CAPTURE](http://arxiv.org/abs/2609.02265v1) 探讨了如何区分偏好漂移和记忆中毒对个性化 LLM 代理的影响。[SkillGLoW](http://arxiv.org/abs/2609.02217v1) 研究长期任务流中自改进代理的技能整合。[MASkills](http://arxiv.org/abs/2609.02094v1) 专注于多智能体 LLM 系统中的持续技能优化。  
+## 🪶 病友文学·agent记忆与context
 
-## 🪶 罗马家乡新闻  
-今天没有。  
+- [Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents](http://arxiv.org/abs/2609.04043v1)  
+研究者尝试将并发分离逻辑扩展到硬件层面，以验证基于 RISC-V 架构的 xv6 OS 内核与 AI agent 的协作。  
+- [Inferring Hidden User Models from the Behavior of Personalized LLM Agents](http://arxiv.org/abs/2609.03815v1)  
+通过个性化 LLM Agent 的行为推断隐藏的用户模型，相关研究正在推进。  
+- [SimSkill: A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation](http://arxiv.org/abs/2609.03753v1)  
+SimSkill 是一个专注于交通模拟自主学习的终身学习 AI Agent，展现了其在复杂场景中的应用潜力。  
+- [When Users Don't Ask: Benchmarking Context-Driven Memory Retrieval in Conversational Agents](http://arxiv.org/abs/2609.03467v1)  
+研究为对话 Agent 的上下文驱动记忆检索提供了基准测试框架，并探讨其在实际应用中的表现。  
+- [Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory](http://arxiv.org/abs/2609.03340v1)  
+分布式 LLM-Agent 记忆的依赖范围验证研究，旨在解决记忆更新与计划滞后的冲突。
 
-## 🪶 媒介研究动态  
-今天没有。  
+## 🪶 罗马家乡新闻
 
-## 🪶 本职·鸟类与动物行为  
-今天没有。  
+今天没有。
 
-## 🌍 世界  
-[Gloria Steinem](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVDV0TjEtRHdpdWUtU2JKOGVYUWhvLVRfMXo3Y0ZXdGRmd09GRmJRZWR3aWxTc2dJUzlLQTZmYVMzYWYzMTR4QTA2TmdMcnFNTjhVcXVOYlFXak9sY0pHdHgzR2l2R1ExNnhha3h5cw?oc=5)，女权运动标志人物和《Ms.》杂志创始人去世，享年 92 岁。[USS Abraham Lincoln](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRy1QS1dCUnJRQlA2bG1PVVkySGVnWkdNOVBnbk5zcW01ZUc5eFZsX3J1ZHJuT0taeEFtelY1T2ZUR1hVaGx2QzI5MkkyRXJic0dvM21XVHVhRVAwWVFienZHOTFtLUFsQmpKQlltQVFhamdBXzhtZE1OdWt3Q0NkY0w3U2haS3RUdkRuWXJ3?oc=5) 在执行长时间部署后锈迹斑斑的状态引发关注。[特朗普](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5)将在中期选举最后 30 天内为陷入困境的共和党人助选。[Minneapolis 枪击案](https://news.google.com/rss/articles/CBMiowFBVV95cUxONnFQVzhiVjlnUEoxNzBTQmJ5RklQLVBzQzJKcVZrdzlEb1NMREt5cGxicWRpRGZGcDZEeWh6NFhqcGRkWEV5cVQyLUJ2dHU4T3BVXzh2eXdHSjluLUNGcHpyaVA3X3RVMkwtcy1qZTNRalpzeWlDZTl2bGJqSHRuNXBNTFh5VmY2X2d1dDQzRWtZZXlFRG5vWFdzR1RoSUs3UzBJ0gGoAUFVX3lxTFBic1ZWM2taQkJTaktDd3MwSkJUWUd4Wl9oWnN2bnp1WVFBY3A4N0dpNXBDTlF4VlI2UEcyMnk0MkR6Z1R3YXQ0RXVaTWRkd2R0WG94WXl0UWpfME5vVjB5QmVtX1gwY3k4cTE5Ti1EMGlGRGc1VUNpTWFtR01qOE5wNnlvZV9ZYTh1MmNMVGtUWGd2NlBfYzBvWGEwZEJlYjFQakpxUThxdg?oc=5)的目击者在事件发生前曾与嫌疑人相遇。[伊朗](https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTFZRWTBDZ2kydEpnd3g4bWdheHJTYlF5TkFkdFBYWkM1VEE2U0tSaVhZX0RULTBuQ3JnOE9LNW0xbW8xdEF0cmVBUGx1RE91TG5ReUxoenNvMmExbGZXYWhhMmV3RkZJVHVmQzBQRVN5ZlQyMFVET1Z1aw?oc=5)向海湾邻国开火，作为对美国空袭的报复。[Lindsay Clancy](https://news.google.com/rss/articles/CBMifkFVX3lxTE5VaGZFaGgxYmI0Z2tEY2l5MkkydmVmNFJEY3p5R1I5XzVoMTBoNmZQalF0LUVJYVJkTEtBeHFZTEE1RmxwQ1htb1gyODh1M2tnMVJXVndzRVFQMVkxRndmU0xoekVLcXI2OXVETkstNk1heWlOSENNMGsydVJmdw?oc=5)的律师解释了她为何未在谋杀审判前接受认罪协议。  
+## 🪶 媒介研究动态
 
-## 🔬 科学  
-[五金属 2D 催化剂](https://news.google.com/rss/articles/CBMiekFVX3lxTE1YZGR3TGh3NDNOenBwWXVJLXNRVWViYUUtRG1Va1MzbjR5RkgzdXRna002b09aMEhPc21sN2ZORU9NZDdsYXUxZF9lbFoxQkNOWlRacWRId0I4NkNXSlRlMGVpMjJXNURmVDlVV1VoNG5JSHZESlFtZWVR?oc=5)可能在不需要额外电力的情况下将 CO₂ 转化为 CO。[2026 年 9 月满月](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmY1N3dlcDVEbS1mcERIdjlvdnZlRU54RUdhMFE3ZVZ2RFNSQjFTZXRPdkNtaUdlaEgxR1FmdDFWYmY4SzNEWE9Cc20tV25RRDF5YVZqQTQtZVdGWTlkeFRNYzNuSWJaYXZHLVFJSnk1TjdqLU5YYlhNMnY5WWIxOVZzRU9vZGkwcjlab3ozSlFHLTFVVlFFX2VTNG1abUM0Y3lrbXBRSGdQLXFPOEVYb0JyNlg5aVk1THhXZXJVWW1VZm8?oc=5)将出现“收获月”，观测时间已明确。[水星的持久谜团](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSllJUmQtdEVHVEdIOXdJZ2ViMC1mQ3Uzdl9sSkxKZmNLR1pZZnIwWlcwMnhzd29hdHNud0RIR1NVV1l6YTJ4LUdTRkdHdjRVdnI4dlJuN1l6WkVuWjRlcUR3VnFYdXlHQjZRazF4WmdMVXByRV9sSnhTLVBweGRHWVlPUkk?oc=5)即将通过前所未有的近距离观测揭开。[南达科他州地下](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzV6MXJ5Zms4bzl6Z2F0ZmtrUURwRjVCbEplalN2elE4OEMycWRra3Bvb0lxX1FhR1RlMjZDRURQbE9zMkdJX3lNcGJuZ3lLVHgwcWZ2bE5zQkplMVVmWnBCUk00QVptRXp0clA1aHY3Wm8yWHRESW93d3pEY0doMnpwM3ZkVVA4ckhVeEZTRWY2V01pSy01UW44ZzFrb1ZFYlVR?oc=5)近一英里深处探测到神秘信号。  
+今天没有。
 
-## 🧑‍💻 HN 精选  
-[[1052分/588评] Gemini 3.8 Flash and 3.8 Flash Cyber](https://news.ycombinator.com/item?id=49537553)讨论了 Gemini 3.8 Flash 及其网络安全版本。[Muse Spark 1.3](https://news.ycombinator.com/item?id=49541256) 发布了新版本，热度较高。[Can I opt out](https://news.ycombinator.com/item?id=49535284) 讨论了是否可以选择禁止输入或输出数据用于训练。[Three sites](https://news.ycombinator.com/item?id=49536375) 揭示了三个网站为 AI 制作了大量“最佳软件”页面，并被 Perplexity 引用。[Google avoids](https://news.ycombinator.com/item?id=49537131) 报道了谷歌避免拆分广告技术业务的消息。  
+## 🪶 本职·鸟类与动物行为
 
-## 🔍 值得深挖的一条  
-[CORAL: An LLM-Native Harness for Production Recommender Systems](http://arxiv.org/abs/2609.02730v1) 展示了如何将 LLM 原生框架应用于生产推荐系统，这一研究可能对 AI 在实际生产中的应用产生重要影响，值得 Naso 深入探索。
+今天没有。
+
+## 🌍 世界
+
+- [Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5)  
+尼泊尔-中国边境洪水后，两名工人被困一周后被成功救出，救援行动仍在进行中。  
+- [Lindsay Clancy trial tensions flare as judge declines to remove holdout juror - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JaEdnVDgtOHBRekNkb1lfcjQ1bU1ldzJudlZnN2JLcUJ3NlpWdmZaNGp6V20zQm94bFZ3WUtIemhRNGE0TmRUWW9PR3Z1WW5WeGYxZFI5dmh3dw?oc=5)  
+Lindsay Clancy 审判中，法官拒绝移除持异议陪审员，导致庭审紧张局势升级。  
+- [A record-shattering El Niño is almost here. Here’s what that means for the world’s weather - The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGRBT01PMkJUbHBNdmgtTmsxUEFwMldfSXNaWW05VmxBVnBlbnd2NUhkWjZuV1o5NGNOUi1IR1ByNnlWV0E1eDhvbGRWbHpfOEhuQ1JCdklZRlVRNW1RMm0xLVFKZkNCdmRUa01hWFg4Q0pibEgzRk1CZ2pNOXRtRnNGZ29lOHhpQW0tajY4X3lCWXZYTFlQNklyeUFjYjdSYnk3bGNBbFA2LUpkX1FWZkxxX3hmMTY5X3VtN3BIQQ?oc=5)  
+史上最强的厄尔尼诺现象即将来临，其可能对全球天气模式产生深远影响。  
+- [Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bS1aVFc1ektQekdnZHU5Y0dBTkI4RnRUZFhTSWJ1WnZpd1U5dWNaMmppbWVfWmVkeDNFWjVwaUNIMW90Mng0bFhzQWNtNHYxN3g5bVNEekhsUQ?oc=5)  
+欧洲正成为一系列破坏行动的目标，俄罗斯被认为是主要嫌疑对象。  
+- [Maria Bartiromo Is Out at Fox News - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE83X0hjSXhpbGJ5ano5VEhibGg3SW4tUEJrLWItU29QSmlqSldmX3JjZmlhVE1kNWNiRnoxbXpKRl91RUdsdkYwaHhQMVJPVzlzNkxFclAwNnR3M3licUVab1JHRGIxdEx1aFhqd1RtRVh2aG1vcXBkdmVlUWFuOERIY3JLQQ?oc=5)  
+Maria Bartiromo 已离开福克斯新闻，具体原因尚未公布。
+
+## 🔬 科学
+
+- [Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle - WIRED](https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWx2NFFkZUtYb3dhYlEwZTd3ZUlramlTc0lrRk1Bb09KSkx5bkFvWjFfY1RLSUphTXZ1M0NaTnptczc3dmdlLWJzeFBxa0YwN0RFY3lKZF9YaWVUeDJ5dGJ0M0FBTmxBai1wRVFNUVU1akRmS0JGMnhFVEhMTFpSSjdDaGJoeDhhMDFfelNZUTNhS0JVMHl0YzRn?oc=5)  
+科学家发现迄今为止最有力的证据，表明暗物质粒子的存在。  
+- [10-sided wave spotted on Saturn’s south pole: What to know - NewsNation](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FTzVDU1J5RTBSTlBlU2U3ZUl2eUx0dHJ4UWZqVm9OTlBiYWlHUDVfZUZTcmxMcy1acEZUd1htZU16R2hOX2xQeXN5cW9KalZ5Y2dyRGdXRktaTjhtVUVENC1tZ0NEUDZvRTNN0gFwQVVfeXFMT05XRHk2eE5nTkJxdnNhYzhOSG5yRVFsbmtCcDA0ejBpcGdrV2ZxWk02Y0ZaN3hfbTFqOUIteHl5LXlzMmIwS0lhR0Q1YVJtSEx3aWtyNnVIQ3Qycl9qcTN2dHpwNUdEbExDcVpsaEFlWg?oc=5)  
+土星南极发现十边形波结构，科学家正在研究其成因。  
+- [2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do - Space](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDAzQkViT2l6c3RmX0MzRjdIMW0xUzRQazBJemNHRnVUOV93Y3JqdjJISkx3MzhZT3JGaUlsb2I3cDVlei16YTBVTGFUbG5FMWRRVk9fckh6dFVEY1JFMWVIUlMzVEMydVZpLTFtbTR6bThYYzZOR20zSUNYWWdSRDlmRW02Ql83djlKdTMyRzlRLVg5RDBEM2lXbmhOMjBpTm5Zb25yM0xBNFpHalcxR2VtczVaOTIzQjdtYmczRkdUbkoxY01hVw?oc=5)  
+两颗探测器在经过八年太空飞行后将抵达水星，BepiColombo 任务将开启对水星的深入研究。  
+- ['There is no conflict between quantum physics and gravity': Physicists sent 20,000 atoms into free fall to prove Einstein's 'happiest thought' - Live Science](https://news.google.com/rss/articles/CBMingJBVV95cUxPa0poSF9saU9GUnVpeFVEUDJDUHI3eFJlRlk3QjJmZ2lwMFJlek44X0ljUVJtbTNLTjgydE82QmdhUW5XbjVLU0RtWnF3N2dNd1pyeGpXakh1YmY3d1BWd3VTUHRLd25velRENXF4ZHdPcDBVWVJTUXdyV01uYktmeEllb2dEalZWNFgxdDlocTd3YzBZbm0zREZlZTR4QUx4TW9UWkZCdnpqb21SMnpOZ2ZhdG1QMm4teVB5NTFaVWNuc0hIdklNQXRRSHFrcDNqeFlNbzB3QUluTHZNdEYyc2NjX3pDOTF0RUdsYmJHX2tEZ3lCdTZyTEdvNEF4amdEdnlIVHZFNGM0SG1LZkdJY2hKblAtR0ZfcVhtWDVn?oc=5)  
+物理学家通过将 20,000 个原子送入自由落体状态，证明了爱因斯坦的“最幸福思想”，表明量子物理与引力之间并不冲突。
+
+## 🧑‍💻 HN 精选
+
+- [[1916分/474评] .name Termination](https://news.ycombinator.com/item?id=49550772)  
+.name 域名终止事件引发热议，用户对其影响展开激烈讨论。  
+- [[1886分/1690评] GPT-6 Astra](https://news.ycombinator.com/item?id=49554643)  
+GPT-6 Astra 的传闻引发广泛关注，社区对其潜在能力展开了热烈讨论。  
+- [[608分/284评] Any Human Ever – One life, drawn at random from all who have ever lived](https://news.ycombinator.com/item?id=49550698)  
+“Any Human Ever”项目随机抽取历史上某个人的人生故事，引发了社区对人类历史的反思。  
+- [[584分/193评] Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://news.ycombinator.com/item?id=49554520)  
+Qwen 3.8 27B 模型在 Cerebras 平台上以每秒 1500 tokens 的速度运行，引发开发者关注。  
+- [[355分/248评] The largest electric aircraft just flew [video]](https://news.ycombinator.com/item?id=49526453)  
+全球最大电动飞机成功试飞，相关视频在社区引发热议。
+
+## 🔍 值得深挖的一条
+
+GPT-6 Astra 的传闻（[HN 精选](https://news.ycombinator.com/item?id=49554643)）值得关注，因其涉及 LLM 技术的最新进展，以及社区对其潜在能力的热烈讨论，可能为 AI 领域的未来发展提供重要启示。
