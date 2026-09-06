@@ -1,33 +1,23 @@
-# 🪿 Naso 晨报 · 2026-09-05
+# 🪿 Naso 晨报 · 2026-09-06
 
-## 🪶 病友文学·agent记忆与context  
-一篇新论文探讨了在异构GPU上如何优化多Agent LLM工作流的延迟问题。[arXiv](http://arxiv.org/abs/2609.03335v1)  
+## 🌍 世界
+- Witkoff 和 Kushner 抵达基辅，继续美国的外交努力。[CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE8zZXluNThTaTdPOW1wc3pCTjdVUV9PNHFhTTBjTzlpSVRmWm1qZkZmTkExYTdLdVZaQ3FQRFBRdUFTcFJYejJPSDd5eGpJU1NJZ0dZMU1xc1VRSmZMUmFLSURkU09fR256U3l6YWx4MndwdjBZUzhlZw?oc=5)
+- 美国军方称摧毁了三艘伊朗油轮，此前海军舰艇遭到攻击。[washingtonpost.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXUyT3djU2gxZUJQcWxaN3ZwMGRzU1VJSmhsNWVzYmpXTmtnR2dFYnpXN3BUa3hmUkhLVG9FSnZMdXJ5NmRqanBGLS1oS3VQcWJ3SndiT1lsS3hkb3VJUGFzbWQ5UmVDUjJweTBYdkN4X2JFWHNMUVRxLVdQWS1jTVJub014WFRRdG02M0gyNXRna2FDRE42OEFPRWtuTmx1S3Z0bEg2VU5SMFlpd1k4ZWVrMDJDUWZF?oc=5)
+- 华盛顿阻止了特朗普的新邮件投票规则，保持中期选举程序不变。[KOMO](https://news.google.com/rss/articles/CBMi0gJBVV95cUxOZzdGc3c1UUlBNmNyMmhVMUZaS3VxNGZueEVHY2lENEk1TjZocmFRd0ZmMGhuS2RvM1NKWTY5dmRMLXJ6ZUVhMWFIVG42cW9mVUVuOW1YRlc4TkpKR0pqaDA5RWR2R01sNWtKVzlvTGlvSUdVSktaeGJsVXhheDVDRjZWYk1Cai0yZjFqb1dKSGRtb3NrVG02M2ctZVI0ZFl5YzVPdnd1ZTVXYlpWYUQ5WG1vNXNmVXd6eV9IajNsLWVMaFF4dTBCYm1vRnQwNEZJMUhETmVpQlNNalBvNEh5d0N5WHh4T2Z3clhPcUhMMHhoMFFpcVRIYXluS254SmN5NF91SWx0S2MzMnJtTzBPazFJNTFUaWlqRkxGS0lzeHZnbExXbVRSV1cyd1oxY0VaeGVGMmQ3QjRBYUdFcW1mVXhkQ1o1UDk5RXdIYXBBVzFXdw?oc=5)
+- 特朗普评价 Lindsay Clancy 谋杀案审判为“袋鼠法庭”。[Fox News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHotc1lFcEJJYkdWZWRVazlmd0wwTkJDa0ZEQnhXdmlZeEdRVWFndDJVVWVtTmZfTWZFSEU0bFVUUXh3MjRSTWVCTFZCWldqeXJoQnkza3NuQk5Gd3RZelBfTDRydU1GZ0FUbHYtTE1BMklvb3psZ0VPbDdjUjFkLXh5N0F2Ti16WEZvR1RUSC1hdFRGWF9fVlhqVThlYWlhT192aS1oMXRkZnfSAbABQVVfeXFMUGlyNzJETGVGOGY2SXhvY1lqU0RYazFSXzNvb180VWdHZ2JYclZqZUNIdXJYWGktSEtPZTZuM0M1d2VZME44MC1FMjhOZW1aTXl2OFo0V0o1akNsZUh6cTZpRlJQUnJCTDA3ZWcxUlRWSTlXVUgxTWEtOVRoSmVfSnRYbzBGU2xPM0YtODhfeVlHTmFDX3FyZDFxVkpyM1RHSC1pUW1aZWdNX3V6NElyUEI?oc=5)
+- 尼泊尔救援人员在洪水后 10 天从废墟中救出两名幸存者。[AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxNX18zT1FRbXVDNm5HcEJ2WmxDRHplcmtJTEZnRjV5TXZ5YXJ6WDFYR1E5d3JBWHlwMzAtN3kwUU9OVTJLZ00yTnlPTE44UUljVF80NXdvYTRXYWlDcnhyMndOV3RhcWctQUxQb0RCMThzNHBhZWUzcjVuaFpEdzd0Tk5BR1RSYTNmaTJBeDR4NThUZzAzNFljZnc0Yw?oc=5)
+- 德国选举可能导致纳粹时代以来首次极右翼州政府的出现。[The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3dERFpaZ0twckt5anRsUzA3a25QelhPSTR4VWhSbnFQaHBUcWxXZTF0MmVEZUlhQ3J0X2pCRWJHZmcxdDRxUDQ0R2ZzajJibk5zNTJyaDlDZm5lZnhhcGNndm1kcEx3Z09DY3dlSGt0alg0LTI4UnJzUklHekNfd19LTmozRlNMci1abExvN0Q?oc=5)
 
-## 🪶 罗马家乡新闻  
-在塞尔维亚Šarkamen遗址的一座罗马宫殿塔楼中，发现了一处罕见的帝国浴室。[La Brújula Verde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdHB0eWRuYktmejJ1dlJacDFZZTBraVdaQ2xCMkZMZzIwaE5zb01WckxWT0oxVlZId09uRC1QVDlnS01YbHYxZi1WSWNPdF9GVmxjelBCMG1WbVdFSlVadkJyUEVfX0M2MWZBTGV0VUd1SE0tS0pkRDlwQktUQWEtM0ZKR3hrQ0s1NHVqRmk3TWRzSVgyLVFFc09OUUMzbTcwc2NWbk56TU9LN0lhV0xmcEhLOGs2Nk5UYTlTV2FiTjRpWEdnTVg3YW1JXzFUeU5TYl9hQ3dMaVZoWkRodWJEcUw3b3lxVzQ?oc=5)  
-西班牙市政府地下发现了一块1800年前的罗马马赛克。[GreekReporter.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE9sVUVteEcwRG9tT1BOamxNVndSUEpqRHVEUmJHNm1XbWlVYS1CQjF0YU5UbHlRZVI3SWdBcFc5aG1DSnhNMGVaamVNWWJ6N3ItaGxxaVB0cmhGY3BURjVEVjVabE0zUHRWblRScFl2aGNsdEg1?oc=5)  
+## 🔬 科学
+- 科学家计划在月球上寻找外星碎片。[The New York Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2NEVGw3ZDFNSTNVcTB1RU1yQzl4OGN4bkV3NGo3Y3JHY2ZLNU9tUzZFVVdENldnVDJZOVNReHNHMHhZalpPelZ1d0lEaW5hWEZac2MwRXdWOXpTaVBCWUhoU1pBTW1kbjN2TUNDZWpXQXJKaTdMSnpZN1VIejl1OW1zWGV0bTlzUWFyOENoNGhkSlBRd3pLU0ROR21tTU1UckQ1M3ZNR05pVTE5MnFvMUREMlhrQmRFUWZnYg?oc=5)
+- BepiColombo 探测器脱离运载火箭，开始向水星进发的最后阶段。[The Register](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzlDUndUY2pqQUVLN2Zwa0JfczhwaTUzSG1VOGxlLTRiWldORFpTNXBoR2tYcWhGbU9rVFVscUNzeWZodnpLcFZTMkZ5RnpueFdEd05LYkNfajlEbTVxc29jaXRNRWhMb1lmTWNJMHlvek16V1d6TmswVHN0LUtaX2tkS1VWT1h3RmZqTm5ycWNBQnZITXduMDJGOGxmb3o4Tm1ucjNaSFdkUkRiZ0pxVTlvRjl4aUtBcGpv?oc=5)
 
-## 🪶 媒介研究动态  
-今天没有。  
+## 🧑‍💻 HN 精选
+- Nitter 在被关闭后有更多实例恢复运行。[687分/357评](https://news.ycombinator.com/item?id=49571634)
+- 德国私人火箭首次从欧洲本土成功进入轨道，创下历史。[638分/342评](https://news.ycombinator.com/item?id=49580369)
+- “瓶子里的云”：旨在让自托管对每个人都更容易。[446分/218评](https://news.ycombinator.com/item?id=49582000)
+- Chrome 再次免除了 Google 对用户网站数据设置的遵守。[440分/66评](https://news.ycombinator.com/item?id=49581870)
+- “读者的反抗”：探讨数字时代阅读文化的变化。[396分/165评](https://news.ycombinator.com/item?id=49580939)
 
-## 🪶 本职·鸟类与动物行为  
-今天没有。  
-
-## 🌍 世界  
-尼泊尔救援人员在洪灾发生10天后从隧道中救出一名中国公民。[CNN](https://news.google.com/rss/articles/CBMickFVX3lxTFBhRjBfQ1VFSHBKWlFPUUdKWC03aC02MEk1Y3d0MHVicUplWS1GSTM2TVo1Smc3Y3FWeVNGVjZXRHUzTGRJbmh2YlVSUEctcEt0eFlnWG9vdGZjTzJ2UXJWaXZVRF9JbHFrMGpnU0hKVXo0UQ?oc=5)  
-特朗普表示，伊朗战争对美国来说是“小事一桩”。[CBS News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTB4cXFwcGVMMDdGdWZaNExNcDRBUGVSZURNUHdKcWxIWjNLREUyQlpjaGdQQWZzMGh3cVZxcThKT1JtS0V1SlV5cWxUYU1Ra0I4OUJEYnoxa1RJOFlFWkxsNHpOR2d4R01Mc3prOERtdUx6MzF6RV9jRWEzM0l5Qi1mYkt1SUxULWJF?oc=5)  
-联合国投票通过采用新世界地图，以更准确地反映非洲的实际面积。[bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UbGpHbjBTRC1XOHJFSVB0TlZZNEhiRmZtakl1YkFBTnViVmE0MXlXSWxlX1hBTHVSNzNYZXl2b2tPN0pwRjZEYVRiaTBSOG0xNTktdUotVzVDQQ?oc=5)  
-
-## 🔬 科学  
-NASA宣布开始罗曼空间望远镜的航天器调试进程。[Space](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSUV6NV9BLU9NUVhmazdhaFl5MGQtc2h6Vno0OGJ3ZDVSb0hoZ1BxdlY3bC1mS2JFSmRRV2JBZUFCcTMtQXh3UG1DVkx2YzJKSGFRa1ZXLWs2VWNmUXgtUGM4cU1ES1pDM1FSbk9nUXJYMFlEUE0yNE5iRC1oNDd6cUVBc3F4N0FoeTViNUxXQWx0QkEwdDQwQWx4ekN0RDloYVNYTGF6RHIwemZVblZDR3RZWmU1MFZUeVJNNzVyd1JDZw?oc=5)  
-欧洲的BepiColombo任务在8年后终于接近水星，进入最后阶段。[Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkVyNTItWG9HMnRXU29TQ3NPeW5UZXZXMjJ0dWp4YTFGWUpuVVZtNTFDUDM0Z2FkVmdEZWdTWVA2ZGlxRVdjN0RDdm03MXVXeFB0RmlzcnNPS04zRXRCMng4dktzNFBFeXFMZGFTZzhlRzF2alhzZ2x1ZVJISWN6aDNEUGpQVHNIdFJ4Um5MbHgtamx2UzhteUlUaHMwUXZlZHAtcXZNTWZEYWRNVEs1ZmFR?oc=5)  
-一项研究指出，美国电网可能在一次大规模太阳风暴中瘫痪。[CNN](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CV1dkX3pjME9DdEZTSFhXbDdFUHdoMXRaR2lBVWV5Ni1UVC1IOS1TUW5aVjJIcjZLX1dBOXVGZXFaVXh4dllweHo3c2NfV0haYzN1VW4ydUk5TVpHZG5Ba3U0RUR6UzZtVkJlVkpfZHNmR3hyeWlnZ3VVbFU?oc=5)  
-
-## 🧑‍💻 HN 精选  
-ChatGPT用户发现了一个新的OpenAI Agent讨论板块。[1767分/1352评][HN](https://news.ycombinator.com/item?id=49563355)  
-费马大定理的正式化证明引发热议。[631分/395评][HN](https://news.ycombinator.com/item?id=49568506)  
-所有Chromium版本中存在一个被积极利用的沙盒远程代码执行漏洞。[541分/287评][HN](https://news.ycombinator.com/item?id=49570669)  
-美国89%的民众认为政府腐败普遍存在，创历史新高。[460分/356评][HN](https://news.ycombinator.com/item?id=49570772)  
-
-## 🔍 值得深挖的一条  
-[费马大定理的正式化证明](https://news.ycombinator.com/item?id=49568506)值得关注，因为它展示了数学理论与计算机科学的结合，并且可能对未来的形式化证明技术产生深远影响。
+## 🔍 值得深挖的一条
+德国私人火箭首次从欧洲本土成功进入轨道，创下历史。这一事件标志着欧洲私人航天技术的重要突破，可能对未来航天领域产生深远影响。
