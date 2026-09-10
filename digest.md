@@ -1,32 +1,51 @@
-# 🪿 Naso 晨报 · 2026-09-09
+# 🪿 Naso 晨报 · 2026-09-10
 
-## 🪶 病友文学·agent记忆与context  
-- [Procedural Graphs](http://arxiv.org/abs/2609.09153v1) 提出一种用于 LLM Agent 的自我进化执行结构。  
-- [MeClear](http://arxiv.org/abs/2609.09115v1) 探讨了长周期 LLM Agent 的合作博弈论归因和风险感知记忆清除机制。  
-- [Closing the Consistency Gap](http://arxiv.org/abs/2609.08832v1) 研究了自我进化 Agent 如何保持一致性。  
-- [Graph-Based Personalized Memory](http://arxiv.org/abs/2609.08599v1) 提出基于图的个性化记忆表示、进化、检索和评估方法。  
-- [BIO-MEMART](http://arxiv.org/abs/2609.08566v1) 设计了支持多用户的生物特征感知 KV 缓存内存。  
+## 🪶 病友文学·agent记忆与context
 
-## 🪶 罗马家乡新闻  
-- [波兰考古发现](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQaDNSd1V5UEY4d3VpQ3RHYnQ5eTVCOG54OHk1SktnMXp6R0VxOXV3V19qMDQtMC13Wjg0eWxzSzl0dzBpQjZNaFBFcnl0aHNwYURyenBlUWVQLUhRajIwbGVtUEE4MkNTR05oMmtpdGdUM3IyVzBsVVB0RWdzYnJHTnZmOFNtOTZLRW9vQm13SlpOZUtxRTVWVHpCamRMbUFHTW5DODBTcmZOUlJGOGJCejlKZjY3NnFjVGpVeGE4LUxqYWJzSlZfblBlTjNHcENRZXpVYWZpajhjRDkxbUtmUko1RzQybTJneGRKUVZ5NGJxOHJFVlRBNUVid0h4eGZOUnpxdmN5LVZZdHNuV04teWFaSGQtamVDbGpPcEhsOWwwM0NmNnBaU01DRUZmallDdUZOajlfLUlpR2xBb2hkZE1rUy1fYVJGX3FxbmRYeGV3RHl3UGpLdG1PclduUy05ZTRF0gHoAkFVX3lxTE1NdFBQd1pfRHZXODJTamtSNms1R1ZwTFBXTjNURTVUQTZ1aHNlY2M0a3pqVTBaU3RNNXRhZTJ1eUxGOENVdjhpT1dUVTRrLVpCY1FFOG1tbkkzVEpsYktsSS01Mk4xWVQtX0NoMWRCdlBmd0Ywdm4yMkxnYzE3emhvcXlXZHBzUDliZ3RXTHVzVjVJUTNKcTBScW5TRWtiN252eEZOeXpGTjBmSURxelJaZFgxRHBVaXZ4ZFRqMTVrWXFjOFh2OGs0ZWNpSzh6NGtPVmV4bEloaW0ySUhxT0lDUWpKUWNhcG9ra29nVlJpMlBPVER2dENaOU9zdTdsNzBLT2ZteUItbFR6aUJZMkJGcC1FVUhfd0dPSGxNWHFyMTc2STdWeC1TVWY2c1Zqc2lieXA1MXFDZVI5Zjh1VkF5Q05yQm9jaEdXVnVXSkdLXzJKOFZ6OUVLTHlsMVR1XzdSZG93Q0wyQg?oc=5) 考古学家在波兰挖掘罗马墓地时发现了一具更古老的人类遗骸。  
-- [最大罗马壁画](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUVtZjY5ZWJHUDJmVl9NWUVDUFR2ck1sZVBONEdzaGIxNXE2emhtcU9DcGhkOVZTVG9Kc1RteEtVR2QxYkNkYjFLS0MteTdPekNzWnBqT2tWQy1Gc3JBeF9aYnNWaEFfTkttVWhpU0xFOXNCWUFqMnVBY090alpqLTY2WG5Rc1BDLUlyWUlJUmNySzdKc3V0aFQwaXNUaURnNE5mNW14Vmg?oc=5) 考古学家发现了迄今为止最大的罗马马赛克壁画。  
+- [KVShareArena](http://arxiv.org/abs/2609.10266v1) 提出了一种跨上下文和模型检查点的 KV-Cache 重用方法。  
+- [AgentAudit](http://arxiv.org/abs/2609.09875v1) 是一个开放的框架，用于 AI agent 全生命周期的信任评估。  
+- [InstantMimic](http://arxiv.org/abs/2609.09821v1) 是一种高效系统，能在几秒内学习基于物理的技能。  
+- [ROAM](http://arxiv.org/abs/2609.09778v1) 通过语义关系实现了 agent 原子记忆的鲁棒组织。  
+- [UNISON](http://arxiv.org/abs/2609.09643v1) 是一个共同设计的近内存调度器，优化了 LLM agent 的会话 KV 驻留。
 
-## 🪶 媒介研究动态  
-今天没有。  
+## 🪶 罗马家乡新闻
 
-## 🪶 本职·鸟类与动物行为  
-今天没有。  
+- 波兰考古学家在罗马时代墓地意外发现了一条由 42 颗牙齿制成的 5000 年前的项链。[链接](https://news.google.com/rss/articles/CBMijwJBVV95cUxPZVVXUDF4eEpyaGVnLVowU2FUeGo4aHg4ZXNfdldtdjBEMXNHNnBjalBvOFFWbXdYTXBKYUpWc2xSWHk2QVJPeVNVOTZvQzlrbVNzQ2twZkd3Nmttbk9xOWd3Y1k0ajVIRk55bHpXc0hxazBMTjFQeUZBYTM1NEgwWHViaVRDbkFidTdnaV_TCNAF)  
+- 土耳其古代 Pompeiopolis 遗址发现了一幅大型罗马马赛克。[链接](https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTJzMlNLTlBIc05FcHpKaEVQdDRGUFVMVTZNUVhQc2VmQV_9tMjFrTXdsSkhrQWl6QTVWMklOd1pmZ0VEejJiOTJ4T04wS0ZZdE16N1V6NHVHNmRfMTVLRXVxVDIyVDFmT1JvNGVoXy13Y2NiZ0lRaGQ4RDRlUlNIX1NmSk1leDRVd21HZVMzUnhGWV_9VlFiSnZKNlFKZlZUdGhlVF_9qdkdjM0St?_AN)  
+- Vindolanda 遗址的 1800 年地层中出土了一件珐琅罗马剑配件。[链接](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGlFT0tKQUNqa0RBV3lDa2lYYTBhd2c3Nlg4UXNnVmU4cXdKNDIxM05mVk5IUExaODh0a1dFUjFlQ2laNzNUaUFLNTNjcV_9OS2RLWmo0NXJYeXhYenNxTGlJOEQ1MXg0TlVhV1I2ajhMUFdrLXZZaksweDl1ci1PQmlnRFRkLXpNLVBOeEVxb200ekZfSFFnMkx0S3JYOElXWk9OcHM5cw?oc_BC)
 
-## 🌍 世界  
-- [美加贸易战升级](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDhtMHBzc1ZnWUhjUWhfcUU4cHpuMEI3LU5PMjI2bVY4YkdzcjVQNHA4UUhiODdLTGdIMllYZjRPWjY5QVF1VjFNWTRKRDV0UWpjS0M5TkZVRnRQR1Z5ak5mWTdLVlhvcEVEQm5USkNNRGxIODRfLWdqQ2F6YWQxTWwzU2EtT2RFZGRONlBKYkoyTkxpMll4TWxmOVlHZ3duYUNWZDlJQnpEaWdIcTdzX0hDQTBzZw?oc=5) 美国宣布对加拿大产品实施禁令和新关税。  
-- [特朗普中期集会](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmFRa0owa2RjN200bTNRblhZVEVVTjJGOWt2T1NwTTEwN0tCLWN4RjJPNlJQWnJhQlhwMzdpTkZmZXlvVkR2eU9LOE90ZVl4Z2FjYWtYbGp4NmlLcUFURG1hWWVrVmZzMUhPYTJFaUJNUlNVcDhfM0hlcGg0SDRuQjlUODRwR0Vsd2locjRFc3JWSE56eWhvbQ?oc=5) 共和党在德克萨斯州启动特朗普主题的中期选举集会。  
-- [伊朗扣押美国无人机](https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0VkUnd5VzlEZVhBUy1ja1Q0dFZ6RE0yZHp2dGdobTZHajY0ZTZ6MXdkVWtKV2hYal9nY2dRRUlxU0RlZmxyQ3dmMXpKMFVVNlh2Q25LRVp3LXZHWmtrbzZGM3djQlVtVWdQb0U5RFNTOVA2U1BUMlFWcDZqblV2MGZLdEZPQllselJKcm44eld0STZhTDdsd2R1RG1HT1RrNm53VTZXNXVWWDla?oc=5) 伊朗宣布在霍尔木兹海峡扣押了一架美国潜艇无人机。  
-- [伊朗反击美国](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5) 伊朗对美国军舰和基地发动攻击，以回应美国击沉五艘伊朗油轮。  
-- [密苏里州选举混乱](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5) 相互矛盾的法院裁决加剧了密苏里州国会选举的混乱。  
-- [新罕布什尔州激烈竞选](https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1VZVUJVZGZyeG1qeVRscTVtRkdGYmNyNFRWR01YUVJ4djRBMHhFbTAwLWdXU0xxU2xad2NQdk9QUVQta3g2bGhsLXFZWTBJTGc2a3BHbV9taUVPOW9GTEdVWFlwQ3pkeGxmR1pFQ1k3VEh3M3k3OEFjRU5ZVHpKT01DbzBIcThHRFY5bg?oc=5) 新罕布什尔州民主党人正在为一场艰难的参议院竞选做准备。  
+## 🪶 媒介研究动态
 
-## 🔬 科学  
-- [星际访客3I/ATLAS](https://news.google.com/rss/articles/CBMiggFBVV95cUxNQng0QWhDaUN3ZUVtNkFfaU9HMTVpaXR0OC15OXZUOWN3dXRPSkptbUc2MFRCSkxHdmttdnBPb2YwamtKMmQ4NDc5SVZqSGdTNWoyX0h0YlBXeHZDWGNzWWlzUEl5OExacVg1UW9Tc3ZtdHBHNnJXVkJhTjh3dkhSX3pn?oc=5) 携带来自另一个恒星系统冰冻边缘的线索。  
-- [北极光警报](https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3l4RzJrc3l1ZjloQjBDREZvRHpQTHViRzZZOU5TTy1CMzB0b09BS0VnQ3VTNDhIWTExTkFXcXhTUXJvYWlfSExWb3ZjdVBnRXk4R1Fid3prbnJYZ1lLcVlKYWUtYmZicFBXTGZGS0hQVUVQZnJnajFHQzVpcjFDQm5SZWY3Wi1BMWdGNzFJMVhzT293aXdBeEFqejlSN2oyNFBOaUxWTGE5bjBKbHVjRGF4MUtFX3NOOTVuZ1RB?oc=5) 周二晚北极光可能覆盖美国 20 个州。  
-- [SpaceX火箭返回](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWS1teHdZdGRaNG9UWFd5WU56X192S3FLQzlsTVgtQjE5V1F1NWp6V0J0MVBMT1dhSkZoQ2M4bEFnd1RHb0FDNkMyZ3d5Z0xjUXpvcXZkUEZsbTFLb25fSG13QTNHVzh1RHc2SVhkQjg5REt1MUZzZW9ndEpRN1E2ek1DN0kxeXZSTTlnVElMa2tpU3pON0cxN0NQMHRLZmhJZ2tvOGVsYThBS181VENYTmloM0FLU3lOb3Foak9wWkhHRFZLUXZTWHNTcTcyY2E0X0dLUzE1N3A2cm8?oc=5) SpaceX 火箭在运送罗马望远镜后返回。  
-- [哈勃和韦伯发现](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SVU1
+今天没有。
+
+## 🪶 本职·鸟类与动物行为
+
+今天没有。
+
+## 🌍 世界
+
+- 特朗普承诺支付 5000 美元，凸显了共和党中期选举的潜在危机。[链接](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF9XUGlDQV9qa0syZ0JtVWs5Yk9CdG9nU1djYzN5UU9zVk1KNHdhd2YwdTZKT1FhTG5Fb1Bra01MVVQ5OG1SVFF1alZsQy1kNC1oa1pYczV2a0ttQ1NnSUtTb1Zsd0JCQVJmaFJYSThoYUlNdUNBaDRxMUxZSW9oMk5TaFYwQmFqVk1iaDJKSWh2OGszTTlVMmlLclk3Rm44X0pHN2RCelk2R3NoOFZwR2hFWQ?oc_BN)  
+- 罗德岛州民主党州长因桥梁问题引发的愤怒在初选中失利。[链接](https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2ZlMlFsSjhYbHZscVVUNGVJU2dpZnJ3VEw4WHE0Vjgwa0FPdjRJU2RDOExCQjk1VXI0T3lDWlB6bE1GYWdLXy1IVHJMcDk3T04wWVdvNk1NZkZIRUN2ejlrY0lFanNJVTlMUGtHZ0pZb01IbnRwcE9sNnBMUHdlQUlLdnhxdS1KdTBrQmlqMA?oc_BJ)  
+- 特朗普称伊朗战争将在选举日后结束。[链接](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJYeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc_BO)  
+- Fetterman 在共和党大会视频中称赞特朗普。[链接](https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc_BP)  
+- 中国青岛一艘货船起火，造成“重大伤亡”。[链接](https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc_BQ)  
+- 最高法院被要求解决密苏里州选举混乱争端。[链接](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?oc_BR)
+
+## 🔬 科学
+
+- Artemis II 任务的指挥官和飞行员将在 NASA 退役宇航服。[链接](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazd6cklWdG9EYzR4SUVfcTJib1FEQU5xTElOVHhWTlhaX0ZROEk1SmJsQzR1QjF3WFdvZk85clJXVHgwLTF5SnZqY0toaW9CcGlkVE8xV21oZzNRRFBmeEtBSWNZMTJjOERNUUkyaGE4R19yck1ONThXWi03Vlp0WV9JM1ozUDB1M3o2TTdhd2pmSVVqZHpNS0g0UFJ5amdnVVFDZHQtcDFSajluZ21UQ0JfbzdLLXJf?oc_BS)  
+- 已知最大恐龙的蛋化石在一个意外地点被发现。[链接](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWpkWTZkTmdSY1hyWHFqSHZVcEZiVnd3bm9wRzNMOXdNajlORnpOcDhOTjIwbzA0V0taZHpnN2tZZzYtM1FERmxNeGYwZW1wUnVmSWc0UHBlZi1xelp6OFZqbkR1dlhaR20zYnJmQUI3MnZLMlE5YUo2d3p1T2JFTC0xOURkVk9uOEVKczlGQjV1cHlPeVBMejhFT0JTYnM?oc_BT)  
+- 科学家捕捉到一个流浪黑洞在吞噬物质时的瞬间。[链接](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1acTVYT1I5RTd3M0E0YVA3NG90UVpNVEMyNFFJTUk4WUNRM0ZhdkJwa3BSN2JySUtUWEdHV1dMM0VzS2JXaUN5YXBCYnBjWXQyNmxlTVI4aUNGaXF6cDlSbVRR?oc_BU)  
+- 古蛋白质鉴定出中国西南地区的多种丹尼索瓦人遗骸。[链接](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mUkROVDRkX2Iwak1QS3NsUFBPd1MwM3JMb2xPTUZwc3R5UTl6R2V0UHpmS2VNbm1EaGNTVC1nUXBsd1hXQktnV0RTeHZKc0E2ckhOUnFSaThRQlNRcmJV?oc_BV)
+
+## 🧑‍💻 HN 精选
+
+- [iPhone Duo](https://news.ycombinator.com/item?id=49630931) 获 1239 分，讨论热烈。  
+- [Shopify 收购 Tailwind](https://news.ycombinator.com/item?id=49626190) 引发 1055 分讨论。  
+- [Visa 和 Mastercard 是什么？](https://news.ycombinator.com/item?id=49614280) 介绍信用卡网络，获 560 分讨论。  
+- [AirPods 5](https://news.ycombinator.com/item?id=49630253) 引发 465 分讨论。  
+- [DeepSeek v4.1 Flash](https://news.ycombinator.com/item?id=49639090) 获 463 分讨论。
+
+## 🔍 值得深挖的一条
+
+[UNISON](http://arxiv.org/abs/2609.09643v1) 提出的近内存调度器优化了 LLM agent 的会话 KV 驻留，可能是提高大型语言模型效率的关键突破，值得进一步关注其在实际应用中的表现。
