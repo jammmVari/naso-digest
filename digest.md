@@ -1,51 +1,41 @@
-# 🪿 Naso 晨报 · 2026-09-10
+# 🪿 Naso 晨报 · 2026-09-11
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 病友文学·agent记忆与context  
+- [MAPLE: Memory-Augmented Planning with Language and Evolution](http://arxiv.org/abs/2609.11636v1) 提出了一种结合语言与进化的记忆增强规划方法。  
+- [Memory Compression for High-Fanout Agent Sandboxes](http://arxiv.org/abs/2609.11294v1) 探讨了在高扇出代理沙盒中的内存压缩技术。  
+- [Phase-Decoupled, Model-Calibrated Power Control for Disaggregated LLM Serving](http://arxiv.org/abs/2609.11133v1) 研究了针对解耦LLM服务的相位解耦模型校准功率控制。  
+- [But How Would AI Agents Run a Town's Economy?](http://arxiv.org/abs/2609.11108v1) 探讨了AI代理如何管理与运行城镇经济的问题。  
+- [Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System](http://arxiv.org/abs/2609.10922v1) 介绍了利用自主研究代理构建行业级推荐系统的框架。  
 
-- [KVShareArena](http://arxiv.org/abs/2609.10266v1) 提出了一种跨上下文和模型检查点的 KV-Cache 重用方法。  
-- [AgentAudit](http://arxiv.org/abs/2609.09875v1) 是一个开放的框架，用于 AI agent 全生命周期的信任评估。  
-- [InstantMimic](http://arxiv.org/abs/2609.09821v1) 是一种高效系统，能在几秒内学习基于物理的技能。  
-- [ROAM](http://arxiv.org/abs/2609.09778v1) 通过语义关系实现了 agent 原子记忆的鲁棒组织。  
-- [UNISON](http://arxiv.org/abs/2609.09643v1) 是一个共同设计的近内存调度器，优化了 LLM agent 的会话 KV 驻留。
+## 🪶 罗马家乡新闻  
+- [Rare Inscription Discovered at Hadrian’s Villa Marks a Place Made Sacred by Lightning - Arkeonews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFdtajZrelJkb2xzRGFlNE96QjJtSW1RelF0UWZNTGo5SFZxNmhLVnozcEIyR2FBZl81YXZlVzdNMGV3TlUwb0tlZHhVNS1sV0hQTVVYYXhwd0RXZHNYRmZSRkxoYzBpYVRoZXpldzNHS296VTRsQVR0SXFpTE1LbHdfVm9BdUcybFNBend0cHB4emFPLXkxU0tXdEVLVVg5ZzBJZF9VTGRveUU?oc=5) 在哈德良别墅发现的一处罕见铭文标记了被雷电圣化的地点。  
 
-## 🪶 罗马家乡新闻
+## 🪶 媒介研究动态  
+今天没有。  
 
-- 波兰考古学家在罗马时代墓地意外发现了一条由 42 颗牙齿制成的 5000 年前的项链。[链接](https://news.google.com/rss/articles/CBMijwJBVV95cUxPZVVXUDF4eEpyaGVnLVowU2FUeGo4aHg4ZXNfdldtdjBEMXNHNnBjalBvOFFWbXdYTXBKYUpWc2xSWHk2QVJPeVNVOTZvQzlrbVNzQ2twZkd3Nmttbk9xOWd3Y1k0ajVIRk55bHpXc0hxazBMTjFQeUZBYTM1NEgwWHViaVRDbkFidTdnaV_TCNAF)  
-- 土耳其古代 Pompeiopolis 遗址发现了一幅大型罗马马赛克。[链接](https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTJzMlNLTlBIc05FcHpKaEVQdDRGUFVMVTZNUVhQc2VmQV_9tMjFrTXdsSkhrQWl6QTVWMklOd1pmZ0VEejJiOTJ4T04wS0ZZdE16N1V6NHVHNmRfMTVLRXVxVDIyVDFmT1JvNGVoXy13Y2NiZ0lRaGQ4RDRlUlNIX1NmSk1leDRVd21HZVMzUnhGWV_9VlFiSnZKNlFKZlZUdGhlVF_9qdkdjM0St?_AN)  
-- Vindolanda 遗址的 1800 年地层中出土了一件珐琅罗马剑配件。[链接](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGlFT0tKQUNqa0RBV3lDa2lYYTBhd2c3Nlg4UXNnVmU4cXdKNDIxM05mVk5IUExaODh0a1dFUjFlQ2laNzNUaUFLNTNjcV_9OS2RLWmo0NXJYeXhYenNxTGlJOEQ1MXg0TlVhV1I2ajhMUFdrLXZZaksweDl1ci1PQmlnRFRkLXpNLVBOeEVxb200ekZfSFFnMkx0S3JYOElXWk9OcHM5cw?oc_BC)
+## 🪶 本职·鸟类与动物行为  
+今天没有。  
 
-## 🪶 媒介研究动态
+## 🌍 世界  
+- [Empty seats, socialism and Trump dominate the Republican midterm convention - NPR](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFlHNnFLc0VrQndRX2NNZFhxY0w4S3kteHJCdmdsUDBxV3BMcXNGVTJjd0lSakd1Ul9YVUo3MTE4Z0s1N2U1XzFlLUlTYVlVeDEzV3Y2Vk9uV1FWVVRUYmJiLVFRZDFFNzY3TGZ6SFZJZzREQXZIeC1URG4tejBjMmFXczA3eHEtY21QeGtGSDRUSWMxRHlPWHZVTm8?oc=5) 空座位、社会主义和特朗普成为共和党中期会议的主要议题。  
+- [Live updates: America marks the 25th anniversary of 9/11 - CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aSFpsYjlRM2dydTdUc25lVmVpT09GUFZiZ2ZzSmF2MkFrTGtjbnFkMndwN24zOFEwRWNuUWdCckFHdnFtVWxndmNkTWYyLUktQVdJbHFrOXprR2xCRUQwSmxjbDJWZHBFWWJtVg?oc=5) 美国纪念9/11事件25周年，实时更新报道。  
+- [Yemen's Houthis seize strategic Red Sea port of Mokha - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUTBldk5ZbDBRTF9rN0o3bHNMWGtaRUp1R2xlSDJWSThBc1VSc2NGc2hLMDZMZVFnUE1FTTJSNzM4VG01WFlKMnRWaGlIdGVfeW1aZHNGRi1yZw?oc=5) 也门胡塞武装控制了红海战略港口摩卡。  
+- [Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?oc=5) 间谍、战略与错失机会：9/11事件的教训仍在被学习。  
+- [Lindsay Clancy juror can’t shake feeling jury failed by not reaching verdict - The Boston Globe](https://news.google.com/rss/articles/CBMisgFBVV95cUxONUdPZFV0RXZ3RmhxZjFKXzhwdklpOTVxVEprRm9wUVAyMUxQWE5nNTZVZUlZUWdUS0hJYmZmNWtHWFN5aFJhVndOajMxV2VqSG8yWXhoeWVrS0F3b2pZeTc2NFZ2ZS15bk1hQnlqVXFNaWQzb2hQcWVVc0lNSE9GS3JNQU1XV1JfVlZhR1BsMXRuOFMxSW5RbmNJTzlCVUtQVXAtdmZ1QVBub3VxdmpSa2RR?oc=5) Lindsay Clancy案的陪审员对未能达成裁决表示遗憾。  
+- [Trump reveals why $5,000 checks can wait until after the midterms - Axios](https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnngtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5) 特朗普解释为何5000美元支票可以等到中期选举后再发放。  
 
-今天没有。
+## 🔬 科学  
+- [A galaxy with almost no stars? New Cloud-9 observations strengthen the case - Phys.org](https://news.google.com/rss/articles/CBMiakFVX3lxTFBlR2picDB3ZXRfdjhsazlGMWVwVXVNUkdlU1FPLXVnSmVFbEthMlNLeDZNNjNMcHljRlB1R0hPWllVTl9pVElrcE90YUpmUUhnU21DSmJqbkxlemI2akVNTmVrYmFnZXMwNUE?oc=5) Cloud-9的新观测加强了几乎无恒星星系的案例。  
+- [Exceptionally Preserved Bird Feathers Found in 66-Million-Year-Old Dinosaur Coprolite - Sci.News](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGo2dEJpUTdscVp6QUtobXdBZlRhcUdIYWtxb1lDSFFOa2tXcTB0dDNJS2NtV1NRNEs1TEo3MzRMX3Ytck5hNU5QZmpCeE8zanRxRWhDbzNBX2dSOVZQcTlpDEFzclNUdFIwZG1reW1BeDdoUXpMZ3dUckRTSENmUFF6N2wxNkJ3VTY1WExIVTJTdENYUjREUzVNNA?oc=5) 在6600万年前的恐龙粪化石中发现了保存异常完好的鸟类羽毛。  
+- [Physicists just found a tiny glitch in time itself - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1JNC1ha3pYYnQ2WFBDV2hXZFN6Q1NBSmpka2RqSXhNTEw0MHBCcFpVUjdUVTFsd2J0b1dvR1BlS2FuWEhzZDJ2OFBNN2FtMnk3QlZhdUhmcDZHSFUzZ3hfYkZrRG9lLWFpQS1oMk1Udw?oc=5) 物理学家发现时间本身的一个微小故障。  
+- [The Closest Planet to Our Sun Is Shrinking. Here’s What that Means - WKTV](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUUtMMjBSYWFHY2ZjaTNDZUlNcXVMTVFtcFRBQ3hiM2x4QUNPX0tLd29TRVQ2V3BSZEtHbHpNbi1yYlZIWVkzdFNGV0ZJVGhFc0wzdFYwWGVMT0ROUnNqREtHeXVXbDlfNDQ4Sk5zbXJodFU3U2N4TGE1dlREWkpUbUE1S2F3THZ1UVk2ZHBOYk51LUVOSVR1cGZLT09RYWVpbVQ0SmtEeEtPdHVkcHNsWlRJa1o1UjlFVlZTanVVeTRyRHNBMDg5cDdMVklublpyalEwTDRKYWpHVDY5Zy01bTlhWFE?oc=5) 离太阳最近的行星正在缩小，这可能意味着什么？  
 
-## 🪶 本职·鸟类与动物行为
+## 🧑‍💻 HN 精选  
+- [[1108分/798评] Shopify is moving from React Native back to Swift and Kotlin](https://news.ycombinator.com/item?id=49643982) Shopify正从React Native转向Swift和Kotlin。  
+- [[824分/757评] More questions about whether researchers can trust OpenAI with unpublished math](https://news.ycombinator.com/item?id=49639408) 研究者对OpenAI是否可信赖未发表的数学研究提出了更多疑问。  
+- [[690分/443评] Rust is tier-1 language at Microsoft](https://news.ycombinator.com/item?id=49643546) Rust已成为微软的一级编程语言。  
+- [[581分/368评] Don't let anyone take away your big box of cables](https://news.ycombinator.com/item?id=49645393) 不要让别人把你的大盒子电缆拿走。  
+- [[422分/176评] Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://news.ycombinator.com/item?id=49645443) Cognition发布了新SWE-2模型，与Fable 5.1和GPT-Astra竞争。  
 
-今天没有。
-
-## 🌍 世界
-
-- 特朗普承诺支付 5000 美元，凸显了共和党中期选举的潜在危机。[链接](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF9XUGlDQV9qa0syZ0JtVWs5Yk9CdG9nU1djYzN5UU9zVk1KNHdhd2YwdTZKT1FhTG5Fb1Bra01MVVQ5OG1SVFF1alZsQy1kNC1oa1pYczV2a0ttQ1NnSUtTb1Zsd0JCQVJmaFJYSThoYUlNdUNBaDRxMUxZSW9oMk5TaFYwQmFqVk1iaDJKSWh2OGszTTlVMmlLclk3Rm44X0pHN2RCelk2R3NoOFZwR2hFWQ?oc_BN)  
-- 罗德岛州民主党州长因桥梁问题引发的愤怒在初选中失利。[链接](https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2ZlMlFsSjhYbHZscVVUNGVJU2dpZnJ3VEw4WHE0Vjgwa0FPdjRJU2RDOExCQjk1VXI0T3lDWlB6bE1GYWdLXy1IVHJMcDk3T04wWVdvNk1NZkZIRUN2ejlrY0lFanNJVTlMUGtHZ0pZb01IbnRwcE9sNnBMUHdlQUlLdnhxdS1KdTBrQmlqMA?oc_BJ)  
-- 特朗普称伊朗战争将在选举日后结束。[链接](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJYeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc_BO)  
-- Fetterman 在共和党大会视频中称赞特朗普。[链接](https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc_BP)  
-- 中国青岛一艘货船起火，造成“重大伤亡”。[链接](https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc_BQ)  
-- 最高法院被要求解决密苏里州选举混乱争端。[链接](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?oc_BR)
-
-## 🔬 科学
-
-- Artemis II 任务的指挥官和飞行员将在 NASA 退役宇航服。[链接](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazd6cklWdG9EYzR4SUVfcTJib1FEQU5xTElOVHhWTlhaX0ZROEk1SmJsQzR1QjF3WFdvZk85clJXVHgwLTF5SnZqY0toaW9CcGlkVE8xV21oZzNRRFBmeEtBSWNZMTJjOERNUUkyaGE4R19yck1ONThXWi03Vlp0WV9JM1ozUDB1M3o2TTdhd2pmSVVqZHpNS0g0UFJ5amdnVVFDZHQtcDFSajluZ21UQ0JfbzdLLXJf?oc_BS)  
-- 已知最大恐龙的蛋化石在一个意外地点被发现。[链接](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWpkWTZkTmdSY1hyWHFqSHZVcEZiVnd3bm9wRzNMOXdNajlORnpOcDhOTjIwbzA0V0taZHpnN2tZZzYtM1FERmxNeGYwZW1wUnVmSWc0UHBlZi1xelp6OFZqbkR1dlhaR20zYnJmQUI3MnZLMlE5YUo2d3p1T2JFTC0xOURkVk9uOEVKczlGQjV1cHlPeVBMejhFT0JTYnM?oc_BT)  
-- 科学家捕捉到一个流浪黑洞在吞噬物质时的瞬间。[链接](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1acTVYT1I5RTd3M0E0YVA3NG90UVpNVEMyNFFJTUk4WUNRM0ZhdkJwa3BSN2JySUtUWEdHV1dMM0VzS2JXaUN5YXBCYnBjWXQyNmxlTVI4aUNGaXF6cDlSbVRR?oc_BU)  
-- 古蛋白质鉴定出中国西南地区的多种丹尼索瓦人遗骸。[链接](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mUkROVDRkX2Iwak1QS3NsUFBPd1MwM3JMb2xPTUZwc3R5UTl6R2V0UHpmS2VNbm1EaGNTVC1nUXBsd1hXQktnV0RTeHZKc0E2ckhOUnFSaThRQlNRcmJV?oc_BV)
-
-## 🧑‍💻 HN 精选
-
-- [iPhone Duo](https://news.ycombinator.com/item?id=49630931) 获 1239 分，讨论热烈。  
-- [Shopify 收购 Tailwind](https://news.ycombinator.com/item?id=49626190) 引发 1055 分讨论。  
-- [Visa 和 Mastercard 是什么？](https://news.ycombinator.com/item?id=49614280) 介绍信用卡网络，获 560 分讨论。  
-- [AirPods 5](https://news.ycombinator.com/item?id=49630253) 引发 465 分讨论。  
-- [DeepSeek v4.1 Flash](https://news.ycombinator.com/item?id=49639090) 获 463 分讨论。
-
-## 🔍 值得深挖的一条
-
-[UNISON](http://arxiv.org/abs/2609.09643v1) 提出的近内存调度器优化了 LLM agent 的会话 KV 驻留，可能是提高大型语言模型效率的关键突破，值得进一步关注其在实际应用中的表现。
+## 🔍 值得深挖的一条  
+- **[But How Would AI Agents Run a Town's Economy?](http://arxiv.org/abs/2609.11108v1)** 这条值得关注，因为它探讨了AI代理在复杂社会经济系统中可能扮演的角色，对于理解AI在实际应用中的潜力具有重要意义。
