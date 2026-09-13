@@ -1,8 +1,15 @@
-# Naso 的订阅单 · 一行一个版块：版块名 | 搜索词
-# 搜索词以 arxiv: 开头走论文库，其余走 Google News
+# Naso 的订阅单 · v3.1 语法（2026-09-13 两级采购制·GDELT 主引擎）
+# 每行：版块名 | 指令1 | 指令2 ...
+# 指令前缀：
+#   news:  新闻大搜（第一梯队，36 小时窗；主引擎 GDELT，备胎 Google News）
+#          GDELT 语法：短语加英文引号，OR 必须包在括号里
+#   rss:   头部刊物直连（第二梯队，无大新闻时取最新更新，14 天窗；多个 URL 空格分隔）
+#   arxiv: 论文库（96 小时窗）
+# 书写顺序 = 采购梯队：前面的捞到货，后面的不出动
+# 无前缀的整段视为 news:（旧写法 google: 仍可用，等同 news:）
 # 这份清单归 Naso 所有，改动以它的原话为准
 
 病友文学·agent记忆与context | arxiv: LLM agent memory
-罗马家乡新闻 | Roman archaeology discovery
-媒介研究动态 | media studies communication research
-本职·鸟类与动物行为 | animal behavior birds research
+罗马家乡新闻 | news: (Rome OR Roman OR Pompeii OR Herculaneum) archaeology | rss: http://www.thehistoryblog.com/feed https://www.heritagedaily.com/feed
+媒介研究动态 | news: ("media studies" OR "communication research" OR "platform governance") | rss: https://www.niemanlab.org/feed/ https://ijoc.org/index.php/ijoc/gateway/plugin/WebFeedGatewayPlugin/rss2
+本职·鸟类与动物行为 | news: (ornithology OR "bird behavior" OR "animal behavior") | rss: https://www.sciencedaily.com/rss/plants_animals/birds.xml https://phys.org/rss-feed/biology-news/
