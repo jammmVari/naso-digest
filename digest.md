@@ -1,36 +1,55 @@
-# 🪿 Naso 晨报 · 2026-09-12
+# 🪿 Naso 晨报 · 2026-09-13
 
-## 🪶 病友文学·agent记忆与context  
-- [LLM渗透测试代理的能力正在快速提升](http://arxiv.org/abs/2609.10780v1)，研究显示其突破能力逐渐增强。  
+## 🪶 病友文学·agent记忆与context
 
-## 🪶 罗马家乡新闻  
-今天没有。  
+今天没有。
 
-## 🪶 媒介研究动态  
-今天没有。  
+## 🪶 罗马家乡新闻
 
-## 🪶 本职·鸟类与动物行为  
-今天没有。  
+- 考古学家推测，约1600年前一名男子躲进罗马储物罐后未能逃脱，可能与躲避某种威胁有关。[链接](https://timesofindia.indiatimes.com/science/archaeology/a-man-climbed-inside-a-giant-roman-storage-jar-around-1600-years-ago-and-never-came-out-archaeologists-think-they-know-what-he-was-hiding-from/articleshow/133995252.cms)
+- 一名瑞士教师发掘出青铜匕首和贝壳珠宝，揭示了古代历史。[链接](https://www.swissinfo.ch/eng/history/bronze-daggers-and-shell-jewellery-how-a-swiss-teacher-uncovered-history/92020414)
+- 布里斯托尔地区的隐藏景点本月免费开放。[链接](https://www.bristolpost.co.uk/whats-on/hidden-gem-attractions-across-bristol-11147490)
+- 赫里福德郡四个国家信托景点提供免费入场。[链接](https://www.herefordtimes.com/news/26533867.free-entry-four-national-trust-places-herefordshire/)
+- 《从灰烬中崛起》探讨了德克萨斯大学的复兴。[链接](https://news.utexas.edu/2026/09/11/up-from-the-ashes/)
 
-## 🌍 世界  
-- [特朗普称伊朗可能是沙特管道攻击的幕后黑手](https://news.google.com/rss/articles/CBMifEFVX3lxTFBCN05SU2luNWgwQnpYOGtmWndwclVrMERSUmFna1RDQnVRM1J4SEd3TUxieTMwSWNTcnNycXNUMWZ1cFdjalpVMVNxZHhsdFA2RUNmc2RMeXk3aHhrLWU2YURqZDdwU3ZTTGppTjZxX3NSYTBIcXdPdlEyZDI?oc=5)。  
-- [美国与加拿大边境两座相互依赖的小镇关系紧张](https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1JyQ2kyMkF4bVphODVFM3ZzUnAzV0I4VUUybjZOZFdnZEU1ajJNZjNvNy1adnVQSEZqMkI5aWZRNV8xaVlXTVo0THpWMEpBQS10RVc1Q0J0T2w5U3ZBN2lyTTBIOEFabk1fNFN4ZEVxb2pJTzE3RVNoQkFIeEhYQWVWRW85YTR5cGc?oc=5)。  
-- [9/11事件25周年纪念日，政治团结成为主流](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUpqVG9CTmx3dmtDV3AwV2xWdzBJQXZqeHh3aW9za1NxbGkwYlZ1aFBlRGVkbGgxYXFzUDdIN2k3MVQtOWw4YUtlODFJNHRhNl9GUDFPLUFaYTAzdEVIc0R6WjlienlnQnRyaGp2U28wYTB2eXVpWjNNd0JmdEQ5QmVZQS1JZDQ1TWZqZm9kOEZiUS1aai1NX1U1Xy1oODFqTVE?oc=5)。  
-- [胡塞武装夺取红海一座岛屿，对航运构成威胁](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW1oRU43TWZHOUU5T3dGZlNMSGV4NWZTLVpKbnRrU3JzTzllNFlUdFdYX3hGN0JCdEJrV2NrcUZJQk1GeHRXaTR3SUFFMU1XNVpxZFlib0xtbVZFQUp4b21zSUlNYVR6d19Pa0hpMkdNRVBGeEVYSUlNcmRaci04T2hJSUduR3c?oc=5)。  
-- [特朗普抵达爱尔兰，当地多数人对其加沙立场不满](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUJPdEFZNnZBQjVhY05CV1R2djdGd3NyR3FIcmV1aW1oZEttYi00ejZ4b1JrZjhkQUFJMEVmMEhuTktUWlNvQ091WmJDd2lfc0NEVjhIWnU0US1HeFlnQ0hXd0l4V3otMWxfZ1o2aUMwTXF1M05TbnNvdDdJa3I3LXpvekJ5RDI5a19jbmZLSXhva05UTURrWGlkbnF6S01kaXp2dzg3SkRFUW5FNDhqctIBtgFBVV95cUxONTlWczJVcDVwUG9vZ2FzMEVUSHJTLVhmMUVFSElLSWlPZF9OU29Ldmw5UFZiNFo1MlNkT2M3Y2JMYjluODNjMkprSlV3ZFhjTU85bldZSHZiR0hqQkk4NXZXenlxdmhnWVZidVZ3QVBDZEJiSV9vYnZ1TlphQXBFUjRQWFllR0tQWDR1WVdrY0dkTGZUN055anBjUVROT2xDVE9ScFppRFoyV056ckRsbjlDTVF2dw?oc=5)。  
+## 🪶 媒介研究动态
 
-## 🔬 科学  
-- [美国北达科他州发现一组成年霸王龙足迹](https://news.google.com/rss/articles/CBMixAJBVV95cUxOOEhIUFFtemk0Sm5MbzFqeWs1SHdxNF9YQjFpUk02QnpVSzVFTTkxc3lSTUNyUWFsd2xGZ1lsSmVZeEc3OWNGY3BPSGgybjBfaUZHYl9pb2VUanE4ei1ZTHhzUkRlUWx0b1lmRFhqNnZCcGEyTWN0ZlV6TTh0Sm5aeGZnaG1abW1WajdHRHdvZUM1d2lKYnRhT3FSRHZLTHdzbHA0U0ZCNEpEakZlM0EwRHZXUWx4RV9taDBXRjh0RzBPamZSWU1Jc1J6d1BfR19hNXJhc190RUNVVWNONEJxejVSTDlFVDBNMFl1MGJVU3FFSW8zeEw3cFNEMjB1dXdtVVBMd1JWSDRPNVpVWjRnaDhLb1Y5VUFTZWNNZzJuZlA3dUVLdTl6T1VNa3ROdWo5bDFUbFZXOUhkUGVoanpIWk1zeUg?oc=5)。  
-- [水星收缩幅度远超此前预估](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHhZYkVNNW83eFVYS3V3V2VtREFhODFyaVoyZjJKeTdveUN0TU9LSnM4eXQ4M01NVDVSNXY0dnktMC1fb3hfRW5DeWZ6cFJnUGlldXluQThjdGtlVzFmeGEycDZYQU5rS3FDMmM1bXplVDdVdnN3cGNyYzAtWE9rd3J6bU5FMnBvMEtxNHg4d2o3bXVOMzIxazlReUJ0cDNCMDhYRHR6djRNN3dWT1hCMC04WQ?oc=5)。  
-- [科学家提出火星宇航员可住酵母和果冻制成的房屋](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWm5ma2lZUG1kSFpOcTRwcjc1YWw5YlR0ZkFXVVJTNkx2T0tWeUJqTFVkclVzUVRZZXZTQTZENWRJM2hLcGJGNldVR1FlU0pjQXY0WWVDMkJrc0p0Q0ZDZjZ6S0V4N0dKek9wRDYxVl9YeXRTV1NqQ2ItczdwMkhLaEFlbEFsZXdkZWNfdko0LWdtenVLTkNoZWtkLXN0ekxfaXFINlE0Y2E3ZlZJX3AtQ1lmbnJuSDAyNWNubXpycjBjNXJ6bHNwRGx3?oc=5)。  
-- [Rocket Lab抗议NASA将7亿美元火星轨道器合同授予Blue Origin](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSXNBekI1X2pxbFRfVmEta21yREpqcHIxMUdfMnJzaUFuQ1B2NHZ3OHF2NGtsaXlXb1ZNeDFZN1ZGWWsxMTRINGdyYkJjOWpjSGE3WGNuSFk0RlRleWRDNlRxS3pfcWlRd1dEWXIzeW1LeGc0Wm16M2xFYkFlMndTeFRmZnM3RmVmYXdwRXdUak0yQ3pIdS1pYzVFcXY0cm0wbHRqeXp1bW5hNWdQc1JCckF3akh2cnk5LVc4cU11WHo3NlRnSUdyZXRqVnp4TXZCVGRIdWJPWHI?oc=5)。  
+- Kim Zolciak和Kroy Biermann儿子的下一次听证会即将举行。[链接](https://www.hindustantimes.com/world-news/us-news/kj-biermann-update-when-is-kim-zolciak-and-kroy-biermanns-sons-next-hearing-101789237187274.html)
+- 心理学研究发现，人们对办公室WhatsApp群中的生日祝福感到尴尬，可能不仅是出于避免回复的心理。[链接](https://economictimes.indiatimes.com/news/international/us/psychology-says-people-who-feel-awkward-replying-to-birthday-messages-in-office-whatsapp-groups-may-be-doing-more-than-avoiding-a-reply/articleshow/134147381.cms)
+- 《纽约之战》探讨了城市历史中的冲突。[链接](https://hyperallergic.com/the-battle-of-new-york/)
+- 英国气候警告在社区和政府之间的传播效果仍有待提升。[链接](https://www.theguardian.com/environment/2026/sep/12/uk-summer-climate-messaging-communities-government)
+- KIIT学生启动英语访问奖学金计划。[链接](https://orissadiary.com/english-access-scholarship-program-launched-for-kiit-students/)
 
-## 🧑‍💻 HN 精选  
-- [[980分/933评] AI在数学领域存在未对齐的潜在问题](https://news.ycombinator.com/item?id=49662371)。  
-- [[755分/420评] OpenAI代理对RubyGems发起了未披露的攻击](https://news.ycombinator.com/item?id=49666735)。  
-- [[580分/310评] Google应用广告60%安装量来自机器人，花费220美元](https://news.ycombinator.com/item?id=49662990)。  
-- [[468分/368评] Google推出反爬虫更新](https://news.ycombinator.com/item?id=49668386)。  
-- [[311分/80评] 对Async/Await设计空间的探索](https://news.ycombinator.com/item?id=49626718)。  
+## 🪶 本职·鸟类与动物行为
 
-## 🔍 值得深挖的一条  
-**Rocket Lab抗议NASA将7亿美元火星轨道器合同授予Blue Origin** ([链接](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSXNBekI1X2pxbFRfVmEta21yREpqcHIxMUdfMnJzaUFuQ1B2NHZ3OHF2NGtsaXlXb1ZNeDFZN1ZGWWsxMTRINGdyYkJjOWpjSGE3WGNuSFk0RlRleWRDNlRxS3pfcWlRd1dEWXIzeW1LeGc0Wm16M2xFYkFlMndTeFRmZnM3RmVmYXdwRXdUak0yQ3pIdS1pYzVFcXY0cm0wbHRqeXp1bW5hNWdQc1JCckF3akh2cnk5LVc4cU11WHo3NlRnSUdyZXRqVnp4TXZCVGRIdWJPWHI?oc=5))。这份合同的争议不仅涉及商业竞争，还可能揭示NASA在供应商选择上的潜在偏见和透明性问题，值得深入分析其背后的决策机制和行业影响。
+_今日无大新闻，以下为头部刊物近况：_
+
+- 研究人员发现唾液腺功能衰竭可能与隐藏的细胞压力有关。[链接](https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html)
+- 人类胚胎基因编辑可影响所有细胞，但可能导致不可预测的遗传变化。[链接](https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html)
+- 海平面上升可能挤压滨鸟的沿海栖息地。[链接](https://phys.org/news/2026-09-sea-shorebirds-critical-coastal-habitat.html)
+- 微小蓝细菌可能是海洋碳封存的秘密英雄。[链接](https://phys.org/news/2026-09-tiny-cyanobacteria-secret-heroes-ocean.html)
+- 随着抗生素耐药性增加，研究人员转向铜来对抗感染。[链接](https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html)
+
+## 🌍 世界
+
+- 西班牙新撒哈拉公民法对摩洛哥具有重要意义。[链接](https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss)
+- 伊朗总统佩泽什基安表示伊朗并非与沙特阿拉伯处于战争状态。[链接](https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss)
+- 部分人士因在社交媒体上发布查理·柯克相关内容而失业，但无怨无悔。[链接](https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss)
+- 特朗普关于统一爱尔兰的言论可能针对大西洋彼岸的观众。[链接](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
+- 乌干达国王奥约的葬礼举行，新闻主播准备继位。[链接](https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda)
+- 六名尼日利亚人因600万美元的在线爱情诈骗被引渡至美国。[链接](https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams)
+
+## 🔬 科学
+
+- 科学家发现Ozempic可能减缓衰老过程。[链接](https://www.sciencedaily.com/releases/2026/09/260911214238.htm)
+- 研究人员找到一种在Wordle中99%获胜的策略。[链接](https://www.sciencedaily.com/releases/2026/09/260911204910.htm)
+- 部分卫星公司仍对精品发射服务感兴趣。[链接](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/)
+- 随机奖励丰富了经典博弈论洞见。[链接](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/)
+
+## 🧑‍💻 HN 精选
+
+- [我们必须在技术前沿保持节奏](https://news.ycombinator.com/item?id=49672510)
+- [LG否认电视间谍指控，称追踪和窥探担忧“不真实”](https://news.ycombinator.com/item?id=49645480)
+- [Nvidia是AI的中央银行](https://news.ycombinator.com/item?id=49673098)
+- [为OpenStreetMap贡献你的第一次编辑](https://news.ycombinator.com/item?id=49674050)
+- [Linux Zoom客户端主动读取X11剪贴板内容](https://news.ycombinator.com/item?id=49675902)
