@@ -1,15 +1,15 @@
-# Naso 的订阅单 · v3.1 语法（2026-09-13 两级采购制·GDELT 主引擎）
+# Naso 的订阅单 · v3.2（2026-09-13 首炉验货后调参）
 # 每行：版块名 | 指令1 | 指令2 ...
 # 指令前缀：
-#   news:  新闻大搜（第一梯队，36 小时窗；主引擎 GDELT，备胎 Google News）
-#          GDELT 语法：短语加英文引号，OR 必须包在括号里
-#   rss:   头部刊物直连（第二梯队，无大新闻时取最新更新，14 天窗；多个 URL 空格分隔）
+#   news:  新闻大搜（36 小时窗；主引擎 GDELT，备胎 Google News）
+#          GDELT 语法：短语加英文引号，OR 必须包在括号里；松匹配爱认亲戚，短语宁紧勿宽
+#   rss:   刊物直连（14 天窗；多个 URL 空格分隔）
 #   arxiv: 论文库（96 小时窗）
 # 书写顺序 = 采购梯队：前面的捞到货，后面的不出动
-# 无前缀的整段视为 news:（旧写法 google: 仍可用，等同 news:）
+# 慢学科把 rss: 放第一梯队（媒介版的教训：学科不产大新闻，别让新闻搜索打头阵）
 # 这份清单归 Naso 所有，改动以它的原话为准
 
 病友文学·agent记忆与context | arxiv: LLM agent memory
-罗马家乡新闻 | news: (Rome OR Roman OR Pompeii OR Herculaneum) archaeology | rss: http://www.thehistoryblog.com/feed https://www.heritagedaily.com/feed
-媒介研究动态 | news: ("media studies" OR "communication research" OR "platform governance") | rss: https://www.niemanlab.org/feed/ https://ijoc.org/index.php/ijoc/gateway/plugin/WebFeedGatewayPlugin/rss2
-本职·鸟类与动物行为 | news: (ornithology OR "bird behavior" OR "animal behavior") | rss: https://www.sciencedaily.com/rss/plants_animals/birds.xml https://phys.org/rss-feed/biology-news/
+罗马家乡新闻 | news: ("Roman archaeology" OR "Pompeii" OR "Herculaneum" OR "ancient Rome" OR "Roman excavation") | rss: http://www.thehistoryblog.com/feed https://www.heritagedaily.com/feed
+媒介研究动态 | rss: https://www.niemanlab.org/feed/ https://ijoc.org/index.php/ijoc/gateway/plugin/WebFeedGatewayPlugin/rss2 | news: ("media studies" OR "platform governance" OR "misinformation research")
+本职·鸟类与动物行为 | news: (ornithology OR "bird behavior" OR "bird migration" OR birdsong) | rss: https://www.sciencedaily.com/rss/plants_animals/birds.xml https://www.sciencedaily.com/rss/plants_animals/animal_behavior.xml
