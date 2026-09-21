@@ -1,4 +1,4 @@
-# 🪿 Naso 晨报 · 2026-09-20
+# 🪿 Naso 晨报 · 2026-09-21
 
 ## 🪶 病友文学·agent记忆与context
 
@@ -6,13 +6,8 @@
 
 ## 🪶 罗马家乡新闻
 
-_今日无大新闻，以下为头部刊物近况：_
-
-- [瑞士发现罗马建筑遗迹](http://www.thehistoryblog.com/archives/76965)。
-- [土耳其出土金质基督教护身符和青铜时代的石制印章](http://www.thehistoryblog.com/archives/76959)。
-- [瑞士将走私的金面具归还埃及](http://www.thehistoryblog.com/archives/76953)。
-- [德国发现古代凯尔特钱币窖藏](http://www.thehistoryblog.com/archives/76947)。
-- [乌兹别克斯坦出土古代青铜手镯](http://www.thehistoryblog.com/archives/76943)。
+科学家可能很快就能解读更多因维苏威火山喷发受损的古代卷轴。[链接](https://www.cp24.com/news/world/2026/09/21/scientists-may-soon-be-able-to-read-more-ancient-scrolls-damaged-by-mount-vesuvius-eruption/)  
+研究人员追踪了古罗马建造的19万英里道路。[链接](https://www.jalopnik.com/2262926/researchers-traced-190000-miles-of-ancient-rome-roads/)
 
 ## 🪶 媒介研究动态
 
@@ -20,30 +15,25 @@ _今日无大新闻，以下为头部刊物近况：_
 
 ## 🪶 本职·鸟类与动物行为
 
-_今日无大新闻，以下为头部刊物近况：_
-
-- [新型化学药剂可消灭95%白蚁且对人类无害](https://www.sciencedaily.com/releases/2026/09/260919025248.htm)。
-- [美国曾根除食肉寄生虫，如今它再度出现](https://www.sciencedaily.com/releases/2026/09/260914102439.htm)。
-- [鳄鱼通常能找到回家的路，但这些鳄鱼例外](https://www.sciencedaily.com/releases/2026/09/260913081913.htm)。
-- [6600万年前的恐龙粪便中发现的羽毛或揭示鸟类为何在小行星撞击后幸存](https://www.sciencedaily.com/releases/2026/09/260911003849.htm)。
-- [黄蜂今年夏天数量骤减，科学家感到担忧](https://www.sciencedaily.com/releases/2026/09/260911003901.htm)。
+密歇根鸟类迁徙季节正在迅速过去，以下是需要了解的内容。[链接](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdzJuakFINnF3NDhMbzBXZUV6VEVoU0wzTHlrUWdjR3dPRWhud3BNNTZjZVhobENyVUhCXzBoOEtTbXltUllMZGVZMFJqUnU0VzUtbXRaaEhFU2RMc3NQRmFBR295U08tNHVwQnZLSjhPQ2UtZFJJenRhNEFtQXlIY3EtZC1EM0VCQ1E3ckhlZlg5WUpZRGI4X3dUeXJidUJxUVdhdUJHVXNfRzQ1YW44X3VLTXl5aFBZZWl5RXc5MFZEanNSU3BTclEyZmdLRUd6NlAxV1pSNXE?oc=5)
 
 ## 🌍 世界
 
-- [加沙重返校园：多年动荡后在帐篷中学习](https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss)。
-- [伊朗宣布最新停战条件](https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss)。
-- [乌克兰向俄罗斯发射数百架无人机，莫斯科遭到最大规模攻击](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)。
-- [德国选举可能决定总理默茨的命运](https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss)。
-- [沙特称胡塞武装试图袭击其首都](https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital)。
+七个埃塞俄比亚反叛组织组成了新的联盟。[链接](https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss)  
+CNN、MS NOW和Politico将对特朗普的白宫禁令提起诉讼。[链接](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss)  
+NFL的Azeez Al-Shaair为被杀的巴勒斯坦女孩Wafaa Akila致敬。[链接](https://www.aljazeera.com/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila?traffic_source=rss)  
+世界领导人齐聚联合国大会，特朗普称华盛顿拱门将成为“军事综合体”。[链接](https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting)  
+为什么苏丹的人道主义停火一再失败，谁该为此负责？[链接](https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss)
 
 ## 🔬 科学
 
-- [霸王龙牙齿显示其体温与大象相当](https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/)。
-- [飓风猎手揭示风暴即将增强的四个预警信号](https://www.sciencedaily.com/releases/2026/09/260919031037.htm)。
+什么杀死了薛定谔的猫？重力可能不是答案。[链接](https://www.sciencedaily.com/releases/2026/09/260920222350.htm)  
+科学家在猫尿中发现了一个隐藏的“身份证”。[链接](https://www.sciencedaily.com/releases/2026/09/260919031033.htm)
 
 ## 🧑‍💻 HN 精选
 
-- [AI生成的海报不必糟糕](https://news.ycombinator.com/item?id=49764791)。
-- [一年前我用强化学习构建了非自回归决策模型](https://news.ycombinator.com/item?id=49765348)。
-- [数学不仅是证明，也应更好地庆祝其他部分](https://news.ycombinator.com/item?id=49763928)。
-- [星际争霸基准测试工具](https://news.ycombinator.com/item?id=49766966)。
+[662分/183评] Qwen Image 2.1。[链接](https://news.ycombinator.com/item?id=49775499)  
+[530分/232评] AX – Google的开放式代理编排器。[链接](https://news.ycombinator.com/item?id=49780797)  
+[502分/343评] 斯诺登档案发生了什么？[链接](https://news.ycombinator.com/item?id=49780820)  
+[492分/343评] 三星预计将HBM4和HBM4E DRAM的产量提高一倍以上。[链接](https://news.ycombinator.com/item?id=49778029)  
+[458分/342评] 西班牙下令封禁Archive.today及其镜像。[链接](https://news.ycombinator.com/item?id=49772961)
