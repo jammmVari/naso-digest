@@ -1,39 +1,37 @@
-# 🪿 Naso 晨报 · 2026-09-24
+# 🪿 Naso 晨报 · 2026-09-25
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 病友文学·agent记忆与context  
+今天没有。  
 
-今天没有。
+## 🪶 罗马家乡新闻  
+欧洲旅游市场正推出折扣季，是预订旅行的好时机。[链接](https://www.thetimes.com/travel/destinations/europe-travel/france/holiday-bargains-late-deals-n0n7g0fmr)  
+2027年夏季巡演阵容公布，包括 Seal、Bastille 和 Sophie Ellis-Bextor。[链接](https://www.nzherald.co.nz/nz/summer-concert-tour-2027-lineup-seal-bastille-and-sophie-ellis-bextor/IGSN3NNG4NDWBOURB7AELL76JA/)  
+Google Chrome 新增功能，可在不同设备间同步浏览标签页。[链接](https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates)  
 
-## 🪶 罗马家乡新闻
+## 🪶 媒介研究动态  
+_今日无大新闻，以下为头部刊物近况：_  
+外交官 Najat Amrabi 以一等荣誉获得媒体研究博士学位。[链接](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkxBVFA1YWNxZlIxaG9MWGlXenozbUxoZWZXLUROemRzWTdMalh4cy1oQ2hzSWhiMlBvY2VnUHJ3aFpQRUJCSXpnZHhRSlE0WFplVV9zS2FKOG5TNVdxWmJHMWx6emJDeWdQYlNKc1djakU2VV9UQmdFSmdWYm1ha3RmTnNEYkt2aExxeUk0Y3ludDV1V3dRWkZadG1jZFZqajhWWg?oc=5)  
 
-- Robert Harris 的新书《Agrippa》重返古罗马，探讨历史人物 Agrippa 的故事。[阅读更多](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzUza3NhNmR5SWFnb3BSODBRNUNMazJZRkhvc2xneTUxRUNQaXFyY1pHaE16dkJzbGVCc2tuUUFCcEU0MXlZN3BvVV81dTJZenEyQVJWN3pQaHJOTGZqNGZGVW5lTXJpcXAzZkw4RFRVOEhRNnI0bjZ2dVZBbk14YXgyZExUNWxBX2FPMHpZbXBTTncyRmY4RnpXWUhjZlU4YTNYSXl2dFI?oc=5)
-- 赫库兰尼姆考古公园的 2026 年欧洲遗产日活动门票已售罄。[阅读更多](https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0tzd2NRTzVDWnBWOFJHRE82RzJyMlFyY1UtdWJlNGlobnVzblYzdDNoS2ZQTS1tTUttWmJIOEJmZTU1NFBJS0tNbDIzNDZ1VDM2WVpOcUJGNVlBZWI5M0c3VWFyZk9YT0ZDX0hQWnUyWWhmYUZRSllYMkdSdTRGSDRCck8zR1JqTkZRUnhuTTZ5amR4S05lMU03Wl9KZTI5V1RoVQ?oc=5)
-- 新 AI 技术重建了遗失的古希腊文本，并对赫库兰尼姆卷轴提供了新的解读。[阅读更多](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDJtLTRMT3dpMmJUaGV3TDNQdFBEak9acEJWaTNUSnhBZExQa0ExQ2RfVlp0MUI5MlVzdnpBMmJTdW52OG1jRkpUNzhmSjlxN3ZfRzlWU1hvX3VDYVJnMDJxN2N3TXQwX1Zqb2NsSUdRbTdJWUE2OXp0SnVaZmdteXpSR2wzVnNLRHZjbg?oc=5)
+## 🪶 本职·鸟类与动物行为  
+鸟类迁徙季节正在进行，多个媒体对此进行了报道。[链接](https://news.google.com/rss/articles/CBMickFVX3lxTFBudGh4eDFmb3E5YS1wM0hVTUhaTDhXLWZHTFBOQ3dVSDgxWWJsQlFqRlozOEJ2ZWdsSE10c251a0dBZ0xSeFN1elh2TnZfVEJFb0xNS1BBb2wycDRVOVFfSmJqTmgzZkowVFFEWmdMMFY0QQ?oc=5)  
+最新一期《Inside OZ》播客聚焦鸟类迁徙现象。[链接](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUp2SnVEUXNIaVZaeDhHTFRzbTEtOUN1dm5lYWF0WDh2cUVPMVlqVnhxQTNENG1Jbk9nRnh0VUpqQUE0N1l2VEhyRGQxaXVfZVlBWWlkY3FFT3prTm0yQ1BETWdZT29QZy1fTTQtdHVIakxRMXlscXNmeUNrLXlTNnRTQlZZS3NQWjVaT0J5YlRzdFQ2MVRDRHpfUDA2XzBEaW5wZWFCbEMzNkFGZE9TLTg3QjdSVVk?oc=5)  
 
-## 🪶 媒介研究动态
+## 🌍 世界  
+内塔尼亚胡在联合国演讲前为以色列军事行动辩护，部分代表提前离场。[链接](https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss)  
+Ceuta 人道主义危机加剧，数千人滞留。[链接](https://www.aljazeera.com/news/2026/9/25/humanitarian-crisis-worsens-in-ceuta-as-thousands-remain-stranded?traffic_source=rss)  
+巴基斯坦和土耳其或加入沙特对胡塞武装的战争。[链接](https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss)  
+特朗普与习近平在峰会上展现友好姿态，内塔尼亚胡则在联合国发表强硬演讲。[链接](https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates)  
+Jay-Z 的性侵指控者承认指控不实。[链接](https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss)  
 
-_今日无大新闻，以下为头部刊物近况：_
+## 🔬 科学  
+科学家给蠕虫接种磁性细菌后，其寿命延长了43%。[链接](https://www.sciencedaily.com/releases/2026/09/260924020357.htm)  
+天文学家发现一颗死亡恒星产生了一种不应该存在的冲击波。[链接](https://www.sciencedaily.com/releases/2026/09/260924020410.htm)  
+百年未见的活猫新物种被发现。[链接](https://www.sciencenews.org/article/new-living-tiger-cat-species-100-years)  
+今年的厄尔尼诺现象在未达峰值前已打破纪录。[链接](https://www.sciencenews.org/article/record-breaking-el-nino-temperatures)  
 
-- 新闻学与媒介研究将合并为单一学位项目。[阅读更多](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzlKMk5adjhZd3U2R2ZWWWVkVG5LWjkzTUJWZFMxbmczaUNXOTV2cmZ4TTRMZTNwczcybHF0WXJqX3h2TEowY1lhQU9ycEF4MkZ5ZHhGVmdJSXZyZmhrb01QenVnSjhaNU1OSGMtWTZoTVdYMVRhb0h5VEVyQkJwZmQ5XzZqa3VGaHd0X2pKeURqZGJLc19hVlhCVXRuSXNEcnVIM3hWaFM?oc=5)
-
-## 🪶 本职·鸟类与动物行为
-
-- 伊斯坦布尔成为候鸟迁徙的重要中转站。[阅读更多](https://www.hurriyetdailynews.com/migratory-birds-find-a-vital-stopover-in-istanbul-227253)
-
-## 🌍 世界
-
-- 俄罗斯在泽连斯基在联合国大会发言时对乌克兰发动攻击。[阅读更多](https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss)
-- 波兰称 Starlink 站点的火灾是破坏行为，丹麦警告俄罗斯威胁上升。[阅读更多](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
-- 法官暂时推翻了特朗普的白宫媒体禁令。[阅读更多](https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss)
-
-## 🔬 科学
-
-- 更多的 REM 睡眠与降低 83 种疾病的风险相关。[阅读更多](https://www.sciencedaily.com/releases/2026/09/260923035930.htm)
-- 世界上最大的霸王龙肋骨中隐藏了一个 6600 万年的秘密。[阅读更多](https://www.sciencedaily.com/releases/2026/09/260922005709.htm)
-- 真正的蓝色玫瑰终于问世。[阅读更多](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment)
-
-## 🧑‍💻 HN 精选
-
-- 意大利议会投票支持重返核能。[阅读更多](https://news.ycombinator.com/item?id=49819221)
-- Claude 发现了一种具有 CRISPR 样重复序列的新型酶系统。[阅读更多](https://news.ycombinator.com/item?id=49820134)
-- Linux 将支持 Snapdragon X2 系列芯片。[阅读更多](https://news.ycombinator.com/item?id=49823582)
+## 🧑‍💻 HN 精选  
+F-Droid 2.0 发布，引起广泛讨论。[链接](https://news.ycombinator.com/item?id=49831968)  
+Show HN：创建类似 Times New Bastard 的怪异字体。[链接](https://news.ycombinator.com/item?id=49823738)  
+英国推行双层次加密系统。[链接](https://news.ycombinator.com/item?id=49828731)  
+为什么肝脏具有如此强的再生能力？[链接](https://news.ycombinator.com/item?id=49832938)  
+Rails World 2026 开幕主题演讲。[链接](https://news.ycombinator.com/item?id=49817680)
