@@ -1,46 +1,22 @@
-# 🪿 Naso 晨报 · 2026-09-27
+# 🪿 Naso 晨报 · 2026-09-28
 
-## 🪶 病友文学·agent记忆与context
-
+## 🪶 病友文学·agent记忆与context  
 今天没有。
 
-## 🪶 罗马家乡新闻
+## 🪶 罗马家乡新闻  
+罗马帝国道路网络的研究揭示了其工程奇迹 [Study shows marvels of the Roman Empire road network](https://cyprus-mail.com/2026/09/27/study-shows-marvels-of-the-roman-empires-road-network)。另外，Sana Javeri Kadri 在播客中分享了关于再生香料农业的见解 [S5 , E49 Unpacked : Sana Javeri Kadri on Regenerative Spice Farming](https://www.afar.com/podcasts/unpacked/s5-e49-sana-javeri-kadri-diaspora-spice-co)。
 
-- [古代罗马的道路和迷宫可能为罗德岛的道路修缮提供启示](https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2tOYkk5bXBNTFZDcERxWVRaSEpPUnJiaTFZZ2RCWkRJanNaSUtrQ0NvaF9yUGZZMmN4TTV5bkZrV1RnTzYwdUxleEtGOF9sd3dVRDVVdmpGWEdySTc3OVJFclhaZDZScGl1VmFLT0w1NG5aVllPc2lVWEd0LUNrWUd1SFZqcW40OEJuSmZZa25wS21lRHp0d2RxMTVHT0lyTlpacUJOR3U3elM2OFpkRms2Y3VZMXkxUWR2cFhFTQ?oc=5)
-- [庞贝古城火山喷发的精确日期帮助科学家更准确地测定地球历史](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXF3am5GdENOUExfS1NjMlhTeTlfdjE4QTNqUE5Ga1VXRnc1bjJaNFFfY2lRZTd2SEJCOFpJcEVMR0I5MWl2VV91TzdleVNPQ0hReUk2bHJDWGQzdWV3MVRHa3ZzRloxOWxRa0NxRktyMjl2clRmMHhCQkVacDl0SUdYUXNXUXAxQ0dJMEI2V1lkczJi?oc=5)
-- [科学家通过庞贝火山喷发的精确日期改进火山年代测定技术](https://news.google.com/rss/articles/CBMingFBVV95cUxOVkRra0dSRlZzU1FHMnF0N0NnNzVybjVhdjllVXQ0MVJ4eHhVaDZ5M1V2a2dVeml0VzBBXzllNUJlSHBiMEotNWs4V2dEcFpoV1BKQVpJakE0OWlCUXI1aGJERnVYdU9uSnFReTBNQ2VaMXE5VldVczItSVJFVXFRUGVTb05hTEFXa0lXWnNfTEVzb3JvS1BBXzR2NHU1UQ?oc=5)
-- [科学家通过燃烧古代卷轴揭示隐藏的文字](https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3hhbVdrWVU1X0s2QkpySEFON0JCbWxZUDN4X0N0YkR1blFLQjk0aXhrZGZrVzBHZ09hS2FneldDNEhNeEVBS3g2bVl5dzZLeV9FU3hyNVdFcnFVVmdmdDcxc3NqZGY3a2JLVWc4UnZ4WTY2aVAzYnkwX3pXUnlzQ1ZuQnQtUThkdGt3OXJoblBjSXVnLUJHZWw5UQ?oc=5)
+## 🪶 媒介研究动态  
+今天没有。
 
-## 🪶 媒介研究动态
+## 🪶 本职·鸟类与动物行为  
+南加州的鸟类鸣叫研究引发关注 [SoCal birdsong - LAist](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEdGU3FhUzBvMnk1UDljcDVXVDVsd3hhOC1FVmtpcm9kQjhtZmNSMjFoVkVLZUhJcDFJQ0t3bkxKekh5MC1ZNGxmclBfalVqaDJ6Q3ZqS0t3RmRsdVJ2VGhxUVM3UlhheXdQY2staEtlc25OUVZwUUlheUV4bGR2WTI3ai01ZDVZem0zVXl0YmV2VnFQeTE3YVVB?oc=5)。
 
-_今日无大新闻，以下为头部刊物近况：_
+## 🌍 世界  
+以色列球迷在比赛中对爱尔兰球员发出种族歧视口号 [Israeli fans direct monkey chants and military slogans at Ireland’s players](https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss)，索马里拜多阿的敌对势力发生冲突 [Fighting between rival forces in Somalia’s Baidoa](https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss)，墨西哥太平洋沿岸准备迎接飓风 Polo [Mexico's Pacific coast braces for Hurricane Polo](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)，英国警方调查一起可能与伊朗有关的未遂袭击 [British police investigate if arrests near U.S. air base foiled an Iran-linked attack](https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack)，马德里因驱逐一名 87 岁老人引发抗议 [Eviction of 87-year-old sparks protests in Madrid over housing crisis](https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis)。
 
-- [遗产、治愈与希望的契约](https://thebftonline.com/article/a-covenant-of-heritage-healing-and-hope)
-- [Lekzy DeComic 集结喜剧大咖推出《教父》特别版](https://thebftonline.com/article/lekzy-decomic-brings-comedy-heavyweights-together-for-godfather-edition)
-- [克里奥尔平台研究](https://link.springer.com/book/10.1007/978-981-92-4638-0)
+## 🔬 科学  
+一项研究发现，葡萄糖胺可能与阿尔茨海默病进展加快有关 [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://www.sciencedaily.com/releases/2026/09/260927033754.htm)，新的土壤测试可能揭示微生物如何帮助植物获取养分 [New soil test could reveal how soil microbes help feed plants](https://www.sciencedaily.com/releases/2026/09/260925005441.htm)。
 
-## 🪶 本职·鸟类与动物行为
-
-- [苏丹首都停电和废墟遍布，数百万人回家后发现城市无法居住](https://english.aawsat.com/arab-world/5323031-power-cuts-rubble-millions-come-home-find-sudans-capital-unlivable)
-
-## 🌍 世界
-
-- [照片：这些牧羊人下山去夜校上课](https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho)
-- [教皇访问卢尔德时表示，必须根除“虐待的祸害”](https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss)
-- [‘UNRWA 在加沙无角色’：和平委员会是否遵循以色列的立场？](https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss)
-- [‘房子被狒狒粪便覆盖时很难出售’：开普敦对移除猴子计划意见不一](https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe)
-- [英国美军基地附近发生多起爆炸物嫌疑逮捕事件](https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces)
-- [‘我两手空空’：流离失所的巴勒斯坦人艰难求生](https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss)
-
-## 🔬 科学
-
-- [科学家可能误读了 20 亿年前的地球线索](https://www.sciencedaily.com/releases/2026/09/260925093201.htm)
-- [科学家通过燃烧卷轴解开 2000 年前的谜团](https://www.sciencedaily.com/releases/2026/09/260925005414.htm)
-
-## 🧑‍💻 HN 精选
-
-- [PipePipe：NewPipe 的分支，实现了 SponsorBlock](https://news.ycombinator.com/item?id=49842764)
-- [十五年后，苹果卡的起源故事](https://news.ycombinator.com/item?id=49854693)
-- [乔治主义有效吗？五年后的回顾](https://news.ycombinator.com/item?id=49844657)
-- [Reladraw：一种由你决定布局的图表语言](https://news.ycombinator.com/item?id=49858513)
-- [ASML 表示 2026 年在欧洲“完全没有销售”](https://news.ycombinator.com/item?id=49844663)
+## 🧑‍💻 HN 精选  
+谷歌的“诡异”变化引发讨论 [[1400分/756评] When did Google get so weird?](https://news.ycombinator.com/item?id=49870367)，关于 Nvidia 股票的巨额债务争议 [[787分/329评] Owed a billion dollars in Nvidia stock](https://news.ycombinator.com/item?id=49872723)，像素艺术风格的 LoFi 音乐生成工具受到好评 [[258分/121评] Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://news.ycombinator.com/item?id=49869574)。
