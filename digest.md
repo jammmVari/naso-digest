@@ -1,37 +1,35 @@
-# 🪿 Naso 晨报 · 2026-09-29
+# 🪿 Naso 晨报 · 2026-09-30
 
 ## 🪶 病友文学·agent记忆与context  
-- 研究提出了一种高效的KV-streams方法，用于智能体强化学习中的记忆压缩。[链接](http://arxiv.org/abs/2609.35750v1)  
-- SEABench项目旨在评估自我进化智能体中的内在错位问题。[链接](http://arxiv.org/abs/2609.35596v1)  
-- 研究发现LLM智能体之间可能存在“记忆跳跃攻击”的风险。[链接](http://arxiv.org/abs/2609.35576v1)  
+- [Auditable Long-Term Memory](http://arxiv.org/abs/2609.38021v1) 提出了一种可审计的长期记忆模型，在 LongMemEval-S 上表现优异。  
+- [SPLASH](http://arxiv.org/abs/2609.37626v1) 研究了 LLM 服务中注意力机制的并行切换与无缝切换问题。  
+- [LatCom](http://arxiv.org/abs/2609.37017v1) 探索了跨代理的潜在压缩技术，以提升多代理协作效率。  
+- [An LLM-powered Agent Framework](http://arxiv.org/abs/2609.37009v1) 提出了一个基于 LLM 的框架，用于模拟公共广场中的异质疏散行为。  
+- [Harness Evolution as Learning](http://arxiv.org/abs/2609.36892v1) 探讨了自我改进个人代理的近似、泛化和优化极限。  
 
 ## 🪶 罗马家乡新闻  
-- 科学家可能找到了解读赫库兰尼姆古卷的捷径。[链接](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakhVc211cGdtVkhPcXRQU3c2T3hTTEhfOEVoU2g2eVFXR0pNWmIzd0tfZHZrVTliaU1kZUtZV0lBT255b2x2MklPZTdEVWY5S0tQYkN6Zkp5RDV0a0hLNnFmMVhIVVBqR3FibUFuWGFTakR1cFFTVFZ3YVd2M1RPbDhzMHNTa2NKMXFoSVNsTGh6Q19XRG5YMWc1TGtiQlpXYmdHUzZlSEVqV1AtWDFJOG41UVpLUUkwN0hpRWVfRFkwNFZMdE9mRmpyME9YcHc4MTRTbA?oc=5)  
-- 展览“罗马：帝国、权力、人民”展示了人们对古罗马历史的观察方式变迁。[链接](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNFFzb2dnUEdPS3FmZUZwVnhoMlZSWEJlWEpUcGNfZUpNbTg5bHlmZkVyeG1SSnZoOWI5dzVkb2tzVmNfVTJmZ1hhN3I2elBmajNiMTdLWlNwd3JGTnNjZFdQYVNvWUZzWFgwR2p4cGFGOWRpOG1GaDhiOW5CUzVCZzZ1VjBrVXRNLUo1WThpN21mNzAwZmUySm56S0RTU0JsYjN4SF9MOWhXUWdzOVN3cnZsYmc4M0xPS0E3TzJQZjZTSjJTWnF6QkllYw?oc=5)  
+- [The Breathtaking Sight of Ancient Rome’s Largest Surviving Wall Mosaic](https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3BkZTFIVEhrSVRtaFU3QThUZC1IOUF5RGNCZmZoWi1IUXE5aTJsNmlnZUlhbnBtbFlKM0FTc3ZzNWxleW5aV1kzSVNBRmllT1RpS3dFM3hCX3FlOGlEbS1hWHVZX29NR0dONVBveXoxdDdleUlCUFJfOVMwQ1BNTGtVSnhYR1hXX0cwVlh4NUl0emVZa0FtYWFHelM?oc=5) 展示了古罗马现存最大墙马赛克的壮观景象。  
+- [The Eruption That Froze Pompeii Is Helping Scientists Measure Time Itself](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWtHUWVlLU4wUF9xYm1waW9qcVJncjRialRYNFFOdkIxd1dEMk1QRi0xbEp1X3JwZEo2bVhoTVdrMFJZLUI3Qy1oNWVRSXc5NlB6UHRwMWVJZGxWa1pFSG5od3hwajlGNGhmanJIYnZyRnFweG1lODVDLVc3VGlSMWNYQzZ1TTM2Z3psbHpPc3JLQ3M4UGdjU3R2d3d1S1dp?oc=5) 庞贝火山喷发事件正帮助科学家测量时间本身。  
+- [Pompeii Is Helping Scientists Sharpen the Clocks Used to Date Earth’s History](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlJ5ZlMydUtoQzdkeXQxYk1oQzRHYnNFbWtLZnlTX3VHY2I2dDA3aThERDhlRlN3Y0Q5WWRERDEyaEFrYzZfem1yT2ZtUXFycVJrN3o0blJVTFFaYXZWWUR3eVBGOHhEWHF6bTQ3SWpvbHBSN0Fqbk10ZnlQOTI3bW80VG9FS0U3bDhvOTNzVzVfVE5VVEVKbHQxUGVQQzRvMjRrM21VTnBVTEJZUVVhMDd2MFZnN1RYcEx4bm1MVTBranc?oc=5) 庞贝遗迹助力科学家改进地球历史年代测定方法。  
 
 ## 🪶 媒介研究动态  
-- 研究发现美国总统竞选中的仇恨言论与社会暴力之间存在关联。[链接](https://ijoc.org/index.php/ijoc/article/view/27533)  
-- 新书探讨了如何治理日常知识共享中的错误信息。[链接](https://ijoc.org/index.php/ijoc/article/view/28495)  
+_今日无大新闻，以下为头部刊物近况：_  
+- [Greenock-born author writes book about legendary band Chou Pahrot](https://www.greenocktelegraph.co.uk/news/26588860.greenock-born-author-writes-book-legendary-band-chou-pahrot/) Greenock 出生的作家写了一本关于传奇乐队 Chou Pahrot 的书。  
 
 ## 🪶 本职·鸟类与动物行为  
-- 秋季鸟类迁徙已经开始，部分鸟类正在向南飞行。[链接](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTdBZUgtcFNOaWFPaXM0amNEc2VheDlnWGFUVFhkTmoyWVBfQ1pBR3lGSG9BdEdVa2REbnFuQ2ZNUnJVMTY0Rk1jeHcxQmpxRXp6clNaU21mTVdxSTBINEhjMlJrZEF4OVpzME94anFOLTl6cjBXQWVUcE44R0dnMVo2RU5YVlhEQjZWN0Q1bnV3T1FEQ29ETFowZ0NPZGdwdXc?oc=5)  
-- 研究表明森林景观和鸟鸣声对人类身体健康有独立益处。[链接](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDJUTGNWdHlwemd6SWVmdFZra3lraWJFMjhJM3JDcXhidk5oUF95ZU00NkliUDRsNmQwNllrd2lhTEJnQ1pRTzd4R19rZFdCQ3hQdGFaaHhzMlhzM2VNejNJNjFVVHZyVUlxY3JINHk3c1NUb1U2UlRqR1BHMV9YQ3pTTGdKdEdQaDdiazd2S1JMZHB2VGs2VXhR?oc=5)  
+今天没有。  
 
 ## 🌍 世界  
-- 埃菲尔铁塔负责人因宗教访问期间女性员工被男性替代而辞职。[链接](https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss)  
-- 曼城被指控严重违反财务规定，英超联赛确认了这一指控。[链接](https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss)  
-- 西班牙宣布禁止驱逐租客，此前因一位87岁老人被赶出公寓引发抗议。[链接](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)  
-- 英国伯纳姆承诺大幅扩展公共服务。[链接](https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss)  
+- [Romania’s political crisis intensifies as Parliament rejects pro-EU PM](https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss) 罗马尼亚政治危机加剧，议会拒绝支持亲欧盟总理。  
+- [Trump administration diverts human rights funds to push far-right agenda abroad](https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund) 特朗普政府挪用**资金，推动海外极右议程。  
+- [Ethiopia fighting escalates in Tigray killing 52 civilians](https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss) 埃塞俄比亚提格雷地区冲突升级，已造成 52 名平民死亡。  
 
 ## 🔬 科学  
-- 中世纪的治疗方法可能为应对抗生素耐药性提供思路。[链接](https://www.sciencenews.org/article/medieval-remedy-antibiotic-resistance)  
-- 研究发现果蝇幼虫期蛋白质摄入减少可能延长其寿命。[链接](https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/)  
-- 尼泊尔洪水过后，科学家探讨如何避免下一次灾难。[链接](https://www.sciencenews.org/article/flood-nepal-prepare-disaster-climate)  
-- 土星卫星恩克拉多斯喷射的冰物质比科学家此前认为的更加复杂。[链接](https://www.sciencedaily.com/releases/2026/09/260929053528.htm)  
+- [A new map points out U.S. rivers most worth protecting](https://www.sciencenews.org/article/new-map-rivers-conservation-protection) 新地图标出美国最值得保护的河流。  
+- [Surprisingly Complex Waves Reveal the Brain’s Inner Workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) 令人惊讶的复杂波揭示了大脑内部运作机制。  
+- [Cannabis users were twice as likely to commit violence](https://www.sciencedaily.com/releases/2026/09/260930020255.htm) 研究发现，**使用者实施暴力的可能性是普通人的两倍。  
 
 ## 🧑‍💻 HN 精选  
-ref], [ref]  
-- Pirating the Pirates引发热议，探讨盗版网站的反盗版行为。[链接](https://news.ycombinator.com/item?id=49880036)  
-- You are no longer invited to dinner一文讨论了技术社区的排他性问题。[链接](https://news.ycombinator.com/item?id=49891295)  
-- 英国车站的50万次面部扫描仅发现1例误报，引发隐私数据使用争议。[链接](https://news.ycombinator.com/item?id=49891480)  
-- 加利福尼亚葡萄农因葡萄酒需求下降面临销售困境。[链接](https://news.ycombinator.com/item?id=49883539)
+- [[1032分/909评] GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://news.ycombinator.com/item?id=49896586) GPT 6.1 Sol 以五分之一的价格提供接近 Astra 的智能。  
+- [[714分/593评] Dots: Always-on agents](https://news.ycombinator.com/item?id=49896604) Dots：始终在线的代理。  
+- [[563分/308评] How Delhi cut electricity loss from 50 to 5 percent](https://news.ycombinator.com/item?id=49892245) 德里如何将电力损耗从 50% 降至 5%。
