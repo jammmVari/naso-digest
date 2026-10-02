@@ -1,56 +1,39 @@
-# 🪿 Naso 晨报 · 2026-10-01
+# 🪿 Naso 晨报 · 2026-10-02
 
-_毛坯版：未配置 API key 或压缩失败，原料直出。_
+## 🪶 病友文学·agent记忆与context  
+- [From Knowledge Access to Source Learning: Developing Source-Specific Competence](http://arxiv.org/abs/2610.02150v1) 探讨了如何从知识获取转向源学习，开发源特定能力。  
+- [Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents](http://arxiv.org/abs/2610.02002v1) 提出了一种非破坏性记忆方法，用于长期组织化LLM代理。  
+- [AgentWebRec: Compact Evidence Fusion over the Agent Web for Personalized Recommendation](http://arxiv.org/abs/2610.01705v1) 研究了如何在代理网络上进行紧凑证据融合以实现个性化推荐。  
+- [Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States](http://arxiv.org/abs/2610.01415v1) 探索了如何利用显式信念状态来驾驭长期规划代理。  
+- [PACE: Provenance-Aware Capability Enforcement for Tool-Using LLM Agents](http://arxiv.org/abs/2610.01349v1) 提出了一种基于来源的能力强化框架，用于使用工具的LLM代理。  
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 罗马家乡新闻  
+- [Forget Quiet Luxury. In Ancient Rome, the Fashion Was Loud. - The New York Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ptUnRHMS1hUWNlS2w5UHlnSmVvN1RGbmlJZ09ReC12X3hXYWdxVGhNckJZcFZXZ3AtRXJGazQxeDRra2VyZXRrcEoyTlRmNjhvbm5PYmZBSGFxOGxWdWh0d2pvWk5sQloxckRiODFDYVpvbXRPRVJ0WTV3Y0VQSkZPLTNneF9ubTFpSWFnOTdaNURHUWVLSw?oc=5) 文章探讨了古罗马的时尚文化，强调其“张扬”而非低调奢华的特点。  
+- [Think you know Pompeii? These are the 7 myths you probably still believe - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jcld4eGVnZmNiMlpwZnVzY2Y5YXZJNXBpbmRiaFdXM1BGb25UcUJKWkRDa2JqTUtCZE9YeGY1X0FfQXphbEJzWDdzVDZWR1EtQXpKNTJ3ekhHeVJCcHQ5VkxnZW42UXZJMHItNjlUcmVVTmwtQUdfRE5UZw?oc=5) 列举了关于庞贝古城的七个常见误解。  
 
-- [Persistent Context Graphs for Efficient Memory Compaction in LLM Agents](http://arxiv.org/abs/2609.40118v1)
-- [OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation](http://arxiv.org/abs/2609.39727v1)
-- [EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses](http://arxiv.org/abs/2609.39284v1)
-- [Characterizing High Bandwidth Flash for LLM Serving](http://arxiv.org/abs/2609.39131v1)
-- [SparseEngine: Sparse-First Inference Engine](http://arxiv.org/abs/2609.39068v1)
+## 🪶 媒介研究动态  
+_今日无大新闻，以下为头部刊物近况：_  
+- [For Adam Kong , journalism means thinking about every step](https://www.freemalaysiatoday.com/category/leisure/2026/10/02/for-adam-kong-journalism-means-thinking-about-every-step) 文章讨论了记者Adam Kong对新闻业的思考，强调每步行动的重要性。  
 
-## 🪶 罗马家乡新闻
+## 🪶 本职·鸟类与动物行为  
+- [Birdsong tells only part of a forest's story: Evolutionary trees reveal the rest - Phys.org](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVy1pdnFsNUhnWHFpVkJOOHZCV2dUUFk1S0ZBWDBHWWl5Z1RzbEpaZmhDV3BuUlh5cHZrTWZFOUxOUk04bU9zd0k3ZGZWZTZPOFhUU1ZyZ082U29UT1NOMHhkY01xUlU4Ukw5cTRnZmZ5Wk1IcV9PRTJ3WERrR3Bscw?oc=5) 研究表明，鸟鸣声只能揭示森林故事的一部分，进化树提供了更多信息。  
 
-- [DMV Foodie Guide : Collab dinners , festivals and other culinary events in October – WTOP News](https://wtop.com/food-restaurant/2026/10/dmv-foodie-guide-collab-dinners-festivals-and-other-culinary-events-in-october/)
-- [Empire author Sabaa Tahir says she working on a new adult fantasy series – San Gabriel Valley Tribune](https://www.sgvtribune.com/2026/09/30/empire-author-sabaa-tahir-says-shes-working-on-a-new-adult-fantasy-series/)
-- [Empire author Sabaa Tahir says she working on a new adult fantasy series – Redlands Daily Facts](https://www.redlandsdailyfacts.com/2026/09/30/empire-author-sabaa-tahir-says-shes-working-on-a-new-adult-fantasy-series/)
-- [Empire author Sabaa Tahir says she working on a new adult fantasy series – Press Telegram](https://www.presstelegram.com/2026/09/30/empire-author-sabaa-tahir-says-shes-working-on-a-new-adult-fantasy-series/)
-- [Empire author Sabaa Tahir says she working on a new adult fantasy series – Whittier Daily News](https://www.whittierdailynews.com/2026/09/30/empire-author-sabaa-tahir-says-shes-working-on-a-new-adult-fantasy-series/)
+## 🌍 世界  
+- [Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor](https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss) 纽约州长表示，康奈尔大学强奸案调查中的女性被官员“辜负”。  
+- [Riot police clash with students as education protests rage in France](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss) 法国教育抗议活动中，防暴警察与学生发生冲突。  
+- [Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters](https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss) 台湾海警在东沙水域与中国渔船对峙。  
+- [US job growth slows as unemployment rises before midterm elections](https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss) 美国中期选举前，就业增长放缓，失业率上升。  
+- [US Coast Guard says it intercepted ship carrying fuel to Cuba](https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba) 美国海岸警卫队称拦截了一艘运往古巴的燃料船。  
+- [Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'](https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine) 以匿名身份，以色列士兵描述了在“NAZA”行动中的大规模平民杀戮事件。  
 
-## 🪶 媒介研究动态
+## 🔬 科学  
+- [Young Yosemite toads survive winter, then emerge with a deadly fungus](https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter) 研究表明，优胜美地蟾蜍在冬季幸存后，却携带着致命的真菌。  
+- [Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence](https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/) 海猴子帮助科学家重新定义了湍流的规律。  
+- [Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract](https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/) SpaceX完成三次发射任务，Rocket Lab获得大额合同。  
 
-_今日无大新闻，以下为头部刊物近况：_
-
-- [New Professor of Media Studies: Prof. Dr. Guido Kirsten : Faculty of Humanities - gw.uni-hamburg.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHNnMnptRjVFaDh0dFdid1F0cUZfMm5QWl9fZklJcTl1SGtCelhLbGlqYVU1eXlnSjJCOGdHOW5FTzgzOThXZnZGaUFob241bGNxQlg2cmVSN0tvSldacm5FSFNCZk1sNDJxVzJscjNNUEZhWmJUUmN6OFVManpaZ3N0RUItc3B5Zndsam1fWGwtb19va25PSEVXejJDRFU?oc=5)
-
-## 🪶 本职·鸟类与动物行为
-
-- [LIVE FROM THE PIT: Exploring Birdsong and Our Glass Haven - Out Of Rage](https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkhRam5SbjR0bDdQYkhkRmlDYmZNdFJwU25pdFFQR09rUUQwZmVsZlI1N1dGY3VfLWpuLVZUOVdrWFpiemJuS0RiaDdjR0lKeXZ0eFlLd3Q1QTl1YnJjbDhaT3JjdV9WVnE5UnVaQ0Y5ZFdac2o0LWZMUWhZczdSNDVzTGU2Q2hOMlRDLW5kUmI?oc=5)
-- [CEO of Lehigh Valley Public Media, which includes PBS39, is out after 15 months - The Morning Call](https://news.google.com/rss/articles/CBMid0FVX3lxTE83YXZhbi1Rci1Oejl6MGpDeXZhZU1TMnN2TzF2Zmc2V0JtSnVsbWg5aldOTTR4cHpyNm5MWXY0NFp2N2NTRlhmeDgxeFlYS0c1YU5YcGplRUV4U2ZDbU5ua2o1REJWdDBsRWtxMmNaeVFXRkNVNmxz?oc=5)
-- [Real estate investment firm buys Upstate SC industrial site for $7.6 million - Post and Courier](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3hGaHJ5UThMbmNoT3pwS1oyQnh5QTlvODBpaTRzMGh0d1lJdnlXQWFYN2FvNU4wSEw0dDVLa1BrY1N2Vms4NURKZk9XWUkweURwbThIUVFxenNTX3AtQ3dIYUVva0NMMnp0b3BLaE9QSzk1TXlqbm9wQlNYdVNhenBFRVc2MVpoVmdLbGRkdGluODJVQ1c1dnM4TFhuZEhXaFFQMWt5ZEdGbF9mLUZWY2QtOG1BbW9fMWJacDlLNWN3RkxnQmJCMFktd1I2LUN0TkhRZ2hDYjBTRXFQ?oc=5)
-- [Volunteer-built Kiosk At Patsy’s Riverview In Norwich Highlights Bird Migration Routes - The Evening Sun | Chenango County, NY's Hometown Newspaper](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQmNSZWY2YWd1MlgwM2NEeENKaEJiS2FHc1k0STNibHo3WVNYSDUxUlBHc09KRkpjNllvLTU1OEQ2SEM1U0lKZ05xd3J2Z0FuN1haT3dVTVVYWXdDM1B0Y0FqNjg5TzYzdU5paWNQVGV6SGk3ZzNBSzQyUzUza1I1M2tvRU96NE52b2RTU3dLQUtteDg2eFR4TEZfUnp3VlRsNWJ1ak5hM0pzcVd1Zk1CWDZwS0dzeGc0N2RjVldhcWRadmlYeGs5bFBWTThyN1hobHZzSy01X29zVERhQTJzUg?oc=5)
-
-## 🌍 世界
-
-- [What happened in the failed execution of Christa Pike - and what next?](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
-- [Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral](https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss)
-- [Tennessee halts executions after Christa Pike survives two lethal injection attempts](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
-- [Chinese hackers impersonated AI experts to target US policy minds](https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss)
-- [What a Pearly King taught me about Cockney rhyming slang and East London history](https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney)
-- [Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack](https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack)
-
-## 🔬 科学
-
-- [With most information hidden, the game Stratego](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
-- [Here’s how brain-eating amoebas may infect people](https://www.sciencenews.org/article/brain-eating-amoebas-naegleria-fowleri)
-- [This giant stick insect fooled scientists for decades](https://www.sciencedaily.com/releases/2026/09/260930020315.htm)
-- [New “plant armor” more than triples strawberry yields](https://www.sciencedaily.com/releases/2026/09/260930020257.htm)
-
-## 🧑‍💻 HN 精选
-
-- [[1585分/1058评] Gemini 4 Argon](https://news.ycombinator.com/item?id=49913571)
-- [[397分/86评] StreetComplete on iOS is now in public beta](https://news.ycombinator.com/item?id=49920160)
-- [[362分/242评] Why the Bronze Age Collapsed](https://news.ycombinator.com/item?id=49890732)
-- [[287分/148评] The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://news.ycombinator.com/item?id=49915082)
-- [[268分/258评] Returning from vacation? The government can search your phone without a warrant](https://news.ycombinator.com/item?id=49920234)
+## 🧑‍💻 HN 精选  
+- [[1600分/547评] Pi 1.0](https://news.ycombinator.com/item?id=49926069) Pi 1.0版本发布，引发广泛讨论。  
+- [[591分/212评] Clef: Open-weight decision models, and new RL fine-tuning platform](https://news.ycombinator.com/item?id=49923692) Clef平台推出开权决策模型和新的强化学习微调工具。  
+- [[514分/478评] Git 3.0's upcoming SHA-256 default will be a costly mistake](https://news.ycombinator.com/item?id=49924179) 有人认为Git 3.0默认使用SHA-256将是一个代价高昂的错误。  
+- [[494分/353评] Several vulnerabilities have been discovered in the Linux kernel](https://news.ycombinator.com/item?id=49928121) Linux内核中发现多个漏洞。  
+- [[465分/64评] Pi Durable](https://news.ycombinator.com/item?id=49925969) Pi Durable项目引发技术社区关注。
