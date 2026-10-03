@@ -1,39 +1,42 @@
-# 🪿 Naso 晨报 · 2026-10-02
+# 🪿 Naso 晨报 · 2026-10-03
 
-## 🪶 病友文学·agent记忆与context  
-- [From Knowledge Access to Source Learning: Developing Source-Specific Competence](http://arxiv.org/abs/2610.02150v1) 探讨了如何从知识获取转向源学习，开发源特定能力。  
-- [Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents](http://arxiv.org/abs/2610.02002v1) 提出了一种非破坏性记忆方法，用于长期组织化LLM代理。  
-- [AgentWebRec: Compact Evidence Fusion over the Agent Web for Personalized Recommendation](http://arxiv.org/abs/2610.01705v1) 研究了如何在代理网络上进行紧凑证据融合以实现个性化推荐。  
-- [Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States](http://arxiv.org/abs/2610.01415v1) 探索了如何利用显式信念状态来驾驭长期规划代理。  
-- [PACE: Provenance-Aware Capability Enforcement for Tool-Using LLM Agents](http://arxiv.org/abs/2610.01349v1) 提出了一种基于来源的能力强化框架，用于使用工具的LLM代理。  
+## 🪶 病友文学·agent记忆与context
+- [Federated Agent Optimization](http://arxiv.org/abs/2610.01195v1)：分享一篇关于联邦代理优化的研究论文，探讨了agent记忆与上下文的关系。
 
-## 🪶 罗马家乡新闻  
-- [Forget Quiet Luxury. In Ancient Rome, the Fashion Was Loud. - The New York Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ptUnRHMS1hUWNlS2w5UHlnSmVvN1RGbmlJZ09ReC12X3hXYWdxVGhNckJZcFZXZ3AtRXJGazQxeDRra2VyZXRrcEoyTlRmNjhvbm5PYmZBSGFxOGxWdWh0d2pvWk5sQloxckRiODFDYVpvbXRPRVJ0WTV3Y0VQSkZPLTNneF9ubTFpSWFnOTdaNURHUWVLSw?oc=5) 文章探讨了古罗马的时尚文化，强调其“张扬”而非低调奢华的特点。  
-- [Think you know Pompeii? These are the 7 myths you probably still believe - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jcld4eGVnZmNiMlpwZnVzY2Y5YXZJNXBpbmRiaFdXM1BGb25UcUJKWkRDa2JqTUtCZE9YeGY1X0FfQXphbEJzWDdzVDZWR1EtQXpKNTJ3ekhHeVJCcHQ5VkxnZW42UXZJMHItNjlUcmVVTmwtQUdfRE5UZw?oc=5) 列举了关于庞贝古城的七个常见误解。  
+## 🪶 罗马家乡新闻
+_今日无大新闻，以下为头部刊物近况：_
+- [Norway’s largest hoard passes the 5,000 mark](http://www.thehistoryblog.com/archives/77064)：挪威最大的宝藏发现数量已突破5000件。  
+- [Roman shipwreck full of intact luxury ceramics found](http://www.thehistoryblog.com/archives/77060)：一艘满载完整奢侈陶瓷的罗马沉船被发现。  
+- [Early medieval Arabic coins found in Poland](http://www.thehistoryblog.com/archives/77056)：波兰出土了早期中世纪阿拉伯硬币。  
+- [Rare Medici porcelain vases donated to Florence museum](http://www.thehistoryblog.com/archives/77046)：稀有美第奇瓷器花瓶被捐赠给佛罗伦萨博物馆。  
+- [More than 30 early Iron Age houses found in South Tyrol](http://www.thehistoryblog.com/archives/77039)：南蒂罗尔地区发现了超过30座早期铁器时代的房屋。
 
-## 🪶 媒介研究动态  
+## 🪶 媒介研究动态
 _今日无大新闻，以下为头部刊物近况：_  
-- [For Adam Kong , journalism means thinking about every step](https://www.freemalaysiatoday.com/category/leisure/2026/10/02/for-adam-kong-journalism-means-thinking-about-every-step) 文章讨论了记者Adam Kong对新闻业的思考，强调每步行动的重要性。  
+今天没有。
 
-## 🪶 本职·鸟类与动物行为  
-- [Birdsong tells only part of a forest's story: Evolutionary trees reveal the rest - Phys.org](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVy1pdnFsNUhnWHFpVkJOOHZCV2dUUFk1S0ZBWDBHWWl5Z1RzbEpaZmhDV3BuUlh5cHZrTWZFOUxOUk04bU9zd0k3ZGZWZTZPOFhUU1ZyZ082U29UT1NOMHhkY01xUlU4Ukw5cTRnZmZ5Wk1IcV9PRTJ3WERrR3Bscw?oc=5) 研究表明，鸟鸣声只能揭示森林故事的一部分，进化树提供了更多信息。  
+## 🪶 本职·鸟类与动物行为
+_今日无大新闻，以下为头部刊物近况：_  
+- [Scientists expected these Galápagos sea turtles to wander. They stayed put](https://www.sciencedaily.com/releases/2026/09/260927225032.htm)：科学家原本预计这些加拉帕戈斯海龟会四处游荡，但它们却留在了原地。  
+- [A 66-million-year-old tooth reveals T. rex was nearly as warm as a human](https://www.sciencedaily.com/releases/2026/09/260919031020.htm)：一颗6600万年前的牙齿表明，霸王龙的体温接近人类。
 
-## 🌍 世界  
-- [Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor](https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss) 纽约州长表示，康奈尔大学强奸案调查中的女性被官员“辜负”。  
-- [Riot police clash with students as education protests rage in France](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss) 法国教育抗议活动中，防暴警察与学生发生冲突。  
-- [Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters](https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss) 台湾海警在东沙水域与中国渔船对峙。  
-- [US job growth slows as unemployment rises before midterm elections](https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss) 美国中期选举前，就业增长放缓，失业率上升。  
-- [US Coast Guard says it intercepted ship carrying fuel to Cuba](https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba) 美国海岸警卫队称拦截了一艘运往古巴的燃料船。  
-- [Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'](https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine) 以匿名身份，以色列士兵描述了在“NAZA”行动中的大规模平民杀戮事件。  
+## 🌍 世界
+- [At least 17 people, mostly pilgrims, killed in Kenya road crash](https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss)：肯尼亚一起车祸造成至少17人死亡，大部分是朝圣者。  
+- [Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)：阿联酋官员称，Flydubai的副驾驶用斧头袭击了机长。  
+- [What to know about Brazil’s 2026 presidential election](https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss)：关于巴西2026年总统选举的关键信息解析。  
+- [Why has Brazil accused the US of election interference?](https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss)：巴西为何指责美国干预选举？  
+- [Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities](https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar)：由于军阀之子与燃料设施的无人机袭击有关，利比亚统一谈判陷入困境。  
+- [Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc](https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump)：巴西势均力敌的选举为支持特朗普的拉丁美洲集团提供了考验。
 
-## 🔬 科学  
-- [Young Yosemite toads survive winter, then emerge with a deadly fungus](https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter) 研究表明，优胜美地蟾蜍在冬季幸存后，却携带着致命的真菌。  
-- [Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence](https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/) 海猴子帮助科学家重新定义了湍流的规律。  
-- [Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract](https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/) SpaceX完成三次发射任务，Rocket Lab获得大额合同。  
+## 🔬 科学
+- [This protective enzyme could help stop fatty liver disease from getting worse](https://www.sciencedaily.com/releases/2026/10/261002080020.htm)：这种保护性酶可能有助于阻止脂肪肝疾病的恶化。  
+- [ESA’s Juice just used Earth as a slingshot to Jupiter](https://www.sciencedaily.com/releases/2026/10/261001214102.htm)：欧洲航天局的“Juice”任务刚刚利用地球作为弹弓飞向木星。  
+- [The dawn of the age of the exoskeleton](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/)：外骨骼时代的黎明。  
+- [The 2008 economic crisis changed the US's relationship with energy](https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/)：2008年经济危机改变了美国与能源的关系。
 
-## 🧑‍💻 HN 精选  
-- [[1600分/547评] Pi 1.0](https://news.ycombinator.com/item?id=49926069) Pi 1.0版本发布，引发广泛讨论。  
-- [[591分/212评] Clef: Open-weight decision models, and new RL fine-tuning platform](https://news.ycombinator.com/item?id=49923692) Clef平台推出开权决策模型和新的强化学习微调工具。  
-- [[514分/478评] Git 3.0's upcoming SHA-256 default will be a costly mistake](https://news.ycombinator.com/item?id=49924179) 有人认为Git 3.0默认使用SHA-256将是一个代价高昂的错误。  
-- [[494分/353评] Several vulnerabilities have been discovered in the Linux kernel](https://news.ycombinator.com/item?id=49928121) Linux内核中发现多个漏洞。  
-- [[465分/64评] Pi Durable](https://news.ycombinator.com/item?id=49925969) Pi Durable项目引发技术社区关注。
+## 🧑‍💻 HN 精选
+- [[703分/334评] Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://news.ycombinator.com/item?id=49927754)：法院同意EFF的观点，认为犹他州的VPN法律要求技术上不可能实现。  
+- [[563分/129评] Mike Tomlin spent 12 years building a Minecraft city](https://news.ycombinator.com/item?id=49925184)：Mike Tomlin花了12年时间建造了一座Minecraft城市。  
+- [[486分/299评] Apple Pass Designer](https://news.ycombinator.com/item?id=49937276)：Apple Pass Designer引发热议。  
+- [[385分/83评] FLUX 3 Image](https://news.ycombinator.com/item?id=49925974)：FLUX 3 Image上榜Hacker News热评。  
+- [[381分/85评] Extra Big Ass Intelligence](https://news.ycombinator.com/item?id=49941114)：Extra Big Ass Intelligence引发社区讨论。
