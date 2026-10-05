@@ -1,41 +1,53 @@
-# 🪿 Naso 晨报 · 2026-10-04
+# 🪿 Naso 晨报 · 2026-10-05
+
+_毛坯版：未配置 API key 或压缩失败，原料直出。_
 
 ## 🪶 病友文学·agent记忆与context
 
-今天没有。
+- [EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures](http://arxiv.org/abs/2610.03394v1)
+- [Follow the Winners: Conservative Policy Improvement with the Cross-Entropy Method for Critic-Free RFT](http://arxiv.org/abs/2610.03361v1)
+- [VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction](http://arxiv.org/abs/2610.03286v1)
+- [Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models](http://arxiv.org/abs/2610.03139v1)
+- [Investigating the Role of Reasoning-Language Alignment in Monolingual Retrieval-Augmented Generation](http://arxiv.org/abs/2610.03136v1)
 
 ## 🪶 罗马家乡新闻
 
-_今日无大新闻，以下为头部刊物近况：_
-
-- [韩国最古老的已知枪支在排雷中被发现](http://www.thehistoryblog.com/archives/77076)
+- [Jordan Charles Rehm, 86, Herculaneum - Leader Publications](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa1l2T1c1dFNBRU9Zd29qSVhzcTZnWEFhLWZKWDhxRnU5SGYxWUU4MzVvTVEwNWxBcVAyUkRqRkphZDY3NS1XMlpTNzE4WFZsbkFSampWbEF5cFNDcmIwVFYxZk5jZXlvbmVXTXpCS3Y5Sy1VcUJqSi1hLVJnQXhjdHVkNHFyaURxUkgwc0VUWS0xM2RLRDZXQmwwS0w3OFQwQnJMRFMwRGZJU00xWWw3TFRTbmJNRnJGRjZER0VfdTUwWkNqelp2Q0lsZXNRRUtOVDlwNA?oc=5)
+- [TODAY: Bartolo Longo’s 1st feast as Saint is his 100th anniversary - aleteia.org](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXR1Tng2ckFiVDNtTmdwSlJfREFwYUtkZ3FRRm9DQnlqZTV5MjZKQkV6cjZMTTVOTlIxc21LdEc2SFR5QnVzMnJWdkdjbmdKblFZSUhXOW55dG5ZdHdkNnFKNlBEUTdOeG9oZ2JQZkYydDN0czhPRW4zbFZXdEl1UE5aVENfa0VNeUtWNnU0Z3JndkNvZzl2OExkVjM?oc=5)
 
 ## 🪶 媒介研究动态
 
-今天没有。
+_今日无大新闻，以下为头部刊物近况：_
+
+- [Finding Ritual in the Archive: Preservation of Raphael Montañez Ortiz’s Found Footage Films, Guest Lecture by Prof. Chon Noriega - UCI School of Humanities](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFAyTk1yYi1kLV9sVzNNMHduc1ROZnhDMm5Sc2ZwekFDX0hBV0JNcGdGeEtYemdiN1ZhZkxPTmY3ZDFGenlXNzhBMnZwQU9jRE5qLVZkX25HWmc4TURFeTY3WUpnOWwwTGs5aGxsWjlVQjlta1dkaHVFSjFZcjRPRUFwNFQ2dkUtclVsY0hFUFNLVXlaOUg4aFdXdnNIaE1od0ZCZGRBWHlBNDBfbGduM25LZFcwNFFtZnJMdXNPY3M?oc=5)
 
 ## 🪶 本职·鸟类与动物行为
 
-- [一名14岁的哥伦比亚发明家开发了一种设备，通过振动让聋哑儿童感受到鸟鸣](https://news.google.com/rss/articles/CBMilAJBVV95cUxQcVpqVGg4MXI4NU5pSTd1ejV1aWUtbUYxMnNYb2dZSzJaOXlvV1o1a2dCQmp3dFUxRVBOdnppVzFfUW1WNHZHamlsUU5IczVfSjlsYjRGelptdV9YcXROSF82Q3NXN3dTODE4VHVjdi1feTVMek1hRkJ3RlU1Y0Q4X0x0a3BUSEt2MmxIOFYwS2NNOTRCQXlFQkEtZlh3ZkRJRlJ2RVFwUlZGaG1iQ3o5WXE5MlQ0ZmhUUktkQUR3bDBGWEtxcmpVdVNlWE1namlQRXpHUGNTWGVZdjV2WVE3eWgwcVl2V2l3d1BzWlBCTkduUWdhdzV3c1J5T0VGZkxvNWNHd2JyY0hKbzZuNDFPZHpES2fSAZoCQVVfeXFMTW9IMVU4Ym10QmpDaDE2UXRUZVNuclpSQm9vSC1waUhMTm5jY0EtTkFNYjl1QnlDLVVvUEJjM0djLUdYWkRNRGswX1FaLVlxS1U3OGR2M3RKcFpKZ3B4WjdWU1ptVlVCdjczcVdWQkhxcGh0ajFfdFRYckF5cHZaaTgwT1hVbVBrWGRpRGJzazhvSkxHOUxaXzdUQ2dSZnNMZXItcXBBTF9Yc2RpVVhUbWJ0MnkyaVBPM3RJeTQwcXJ4VllxTXpsa2VSYlVFV29jWm0wdW9IcmdMX1pOSmkwZDQxcUhGS0hPbWZsX0VBVHlXeGVPLW54LVFtRjBoRGI1cWI2dWdrMUJpZXdNX1dleVBnTzVPR1dyLWVB?oc=5)
+- [Yalies gather bird migration data on campus roofs with Law School grant - Yale Daily News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1ZoRC05WXZOSWZlM0RzLWtXc3hpalB5X3VWWlI5empLRTRTQWQ3cVZzcENGTFN1a3pOUENTR3B2QjdkdW16UEdWVkpaS3NvRnJNLWx1cEZjRXBBU3plVGlqN0UwNFJ6NHdmYnZBbmFJeUhlWVIxQnV3M3JPSEg1TWRsYWY2aVY0M2dDM2JrclFHMHRNZkhVZzc5dVhPWHdNWkY1amRNQnRVUQ?oc=5)
+- [A picnic table, binaural birdsong and double forest POTA ATNO action! – EI3LH - Adafruit](https://news.google.com/rss/articles/CBMisAFBVV95cUxObUdPMzV1alpkYkVWQ2ZxYTZQeG9yZ3lzUnBKZ0o4LWFwSWp3Nlc1OWV0cmpzOEREVm91Q2gyR21PWTVSTlNxOG93TllHcHhfVHJXT2pYTWJGdFZFRnBJeUNuemo1R3ZEeHlGTWFpcFJMSEJWOXJBOGlKcktFRlFIQUZsanVNM3JnOTBONTRoM1VhQW1QVjV0QmtpWEdMOUV1eWdZODJRZmFZa2haSXZDcw?oc=5)
+- [Protect Your Flock from Highly Pathogenic Avian Influenza During Fall Wild Bird Migration - Park Hills Daily Journal](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ09uQm5CRUpMbGktclJsQktta2hhU1p0d2U1bjlPY0FxRlFsdlpGcnVUSHptQmR1eEEwNWdjYS1JMzRBWFdOMW50dmRIanlPWjBOMG5EMi1CU3BqUkJ5bEgzWVpOWU9aY3NmRlZFVmZrZzRHVnk1U0VIUGpucVpMbzhMMkVlb1V1NXRocU5iZW1NV1ZSelNlSFBqU1dvUUg3XzVXZ2dmVkNORG9ONVJDQVRPTFQ1dHpGZ2RxTWdnOTc2SWN3anBOU3BmR29BVkRsWVVRdTQtWDhhYy1wM0syUg?oc=5)
+- [Del Suggs to headline Birdsong Nature Center 40th anniversary concert - Tallahassee Democrat](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMUdNTUw3azdoNDVRYlVKUkNZb25KRlQzX1BuRE9DWEZSejRqMUtUd2FyM1FWUEJ2ZWxJVWlrQ3VFSHNhUS13d3lmMTVHR1dUeDRtQmZGRy1FLWhKNlg4V0ZYZnNrWGRNUjNNekNTTTJFN3AyQ3ZYU1ZrSDZCd1NLd2ZMVktTZzNVNEJaeWNjeXZIMWUzRzFLNldxSlFMcmFqeTI0TjJwYmw4OE9JdGs4SjZfallJQlhGTl9CNmJ1c0Y0MUdILVAwVEpUM25rOGhmUFJsTG5fQko?oc=5)
 
 ## 🌍 世界
 
-- [美国为何想驱逐Salah Sarsour？](https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss)
-- [以色列为何拒绝承认10月7日事件的责任？](https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss)
-- [埃及一名记者面临恐怖主义指控](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom)
-- [驻日本冲绳的美国海军陆战队成员因涉嫌谋杀一名女性被捕](https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa)
-- [俄罗斯袭击基辅桥梁事件的最新进展](https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss)
+- [Spain PM pins hopes on housing crisis to help win snap election](https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss)
+- [Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war](https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss)
+- [UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate](https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss)
+- [Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge](https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula)
+- [Teenager's hand blown off during confrontation between France school protesters and police](https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss)
+- [Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory](https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory)
 
 ## 🔬 科学
 
-- [科学家发现非洲野生动物的多样性](https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/)
-- [陨石撞击俄克拉荷马州的时间比科学家之前认为的晚了1亿年](https://www.sciencedaily.com/releases/2026/10/261002080012.htm)
-- [科学家发现宇宙膨胀速度不一致的线索](https://www.sciencedaily.com/releases/2026/10/261002080026.htm)
-- [电气化的挑战](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/)
+- [Scientists may have seen dark matter. If they did, what exactly is it?](https://www.sciencenews.org/article/dark-matter-supersymmetry-higgsino)
+- [A ‘phoenix’ planet was born from the ashes of its dead star](https://www.sciencenews.org/article/baby-planet-from-dead-star-phoenix)
+- [Is AI the End of Math As We Know It?](https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/)
+- [Vagus Nerve Stimulation Could Help New Skills Stick](https://www.sciencedaily.com/releases/2026/10/261002080034.htm)
 
 ## 🧑‍💻 HN 精选
 
-- [[661分/131评] Bob Cringely去世](https://news.ycombinator.com/item?id=49949438)
-- [[530分/277评] 我们需要对所有事物设置硬性预算上限](https://news.ycombinator.com/item?id=49949235)
-- [[379分/67评] Valve的Timur Kristóf在改善Linux上旧AMD GPU的工作](https://news.ycombinator.com/item?id=49946895)
-- [[351分/594评] 我因OpenAI文化问题辞职](https://news.ycombinator.com/item?id=49944227)
+- [[420分/304评] Denmark Data Breach Exposes 8.8M People's Personal Data](https://news.ycombinator.com/item?id=49962012)
+- [[377分/187评] Web Search API](https://news.ycombinator.com/item?id=49963171)
+- [[372分/126评] A browser-native classic Visual Basic VB6 IDE](https://news.ycombinator.com/item?id=49956681)
+- [[356分/198评] Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://news.ycombinator.com/item?id=49964303)
+- [[286分/43评] We ported the original Doom to SQL](https://news.ycombinator.com/item?id=49948300)
