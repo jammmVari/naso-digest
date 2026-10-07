@@ -1,45 +1,51 @@
-# 🪿 Naso 晨报 · 2026-10-06
+# 🪿 Naso 晨报 · 2026-10-07
+
+_毛坯版：未配置 API key 或压缩失败，原料直出。_
 
 ## 🪶 病友文学·agent记忆与context
 
-- [Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1) 探讨了递归视频在上下文学习中的应用，用于增强机器人代理的智能。
-- [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](http://arxiv.org/abs/2610.06830v1) 提出了一种按需多模态记忆管理框架，用于优化LLM代理的性能。
-- [Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving](http://arxiv.org/abs/2610.06597v1) 探讨了代理束与推理引擎之间的通信协议HEAR。
-- [PACMI: Provenance-Aware Cascading Memory Invalidation for Long-Term LLM Agents](http://arxiv.org/abs/2610.05732v1) 研究了一种支持长期LLM代理的级联记忆失效机制。
-- [MMPostTrainBench: Benchmarking Autonomous Research for Multimodal Post-Training](http://arxiv.org/abs/2610.05398v1) 提出了一个多模态后训练自主研究基准测试框架。
+- [Towards In-Parameter Memory Augmentation for Large Language Models](http://arxiv.org/abs/2610.08630v1)
+- [Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](http://arxiv.org/abs/2610.08378v1)
+- [Beyond Corrected Memory: Execution Consistency in Multi-Agent Systems](http://arxiv.org/abs/2610.08101v1)
+- [DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks](http://arxiv.org/abs/2610.08048v1)
+- [ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents](http://arxiv.org/abs/2610.07863v1)
 
 ## 🪶 罗马家乡新闻
 
-- [How blended cement, used everywhere from ancient Rome to modern London, could help counter climate change - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tSXd2OEQya090NThSenNtZm9WQ2JCbjNObjhEZkZLUVFScUpyQXZwVFZNSmdmaUJkc1BoWHB4aEZIWVExSzVwYzlKSElRbDAyOXR4MXRUekJ1WDVHaEZPMw?oc=5) 探讨了混合水泥从古罗马到现代伦敦的广泛应用，及其在应对气候变化中的潜力。
+- [Death frozen in ash: The haunting story behind Pompeii's human casts - Türkiye Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUpsSTIxamhCTTZmblZ6c0ZpSVU5U1NEemJaaWdjVzM5UzBZb0ZpVjN2UXZCNVNHWml5NmFzc1pQSU5vTkFXMGxaRG83VWxuNFZzcXgyZFMtTkIzaDlIMjY1RHNJUmV0MVphLXZvT0NnaFo1VGVTN2txemxHUHhRaGhHMElJbFlFbVFUSzlfeDBzYXRUXzJOcmxDcXpwWEM2RmJTOVlocldyUG1fb0NoUQ?oc=5)
+- [The eruption that destroyed Pompeii is helping scientists date Earth’s history - Technology Org](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTBOU1NjcDdNV1hpWUZHdk9DVExVVTZKYnItQnpZMnpGUWhXTGpyWlZlU1JXV2dKbUNYczFjYkJRYlNnLW1YWXJoY2tkTlRuQkNfS0dlQWRibV9rTTgzOWg3aDV6LWVueFZaMF92VFhVdElHbnBGekpSbWNCODlUOGtycDhJdURXdktBTk9Gd3hLbThyc2s2OGx4WW5vVjFwdFJuMFkzQTA2STJUX0ozTGRaZVRXTnc?oc=5)
 
 ## 🪶 媒介研究动态
 
-今天没有。
+_今日无大新闻，以下为头部刊物近况：_
+
+- [SRHR misinformation and digital platform governance - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0xSMzNkRE9HN3pYd3FwblRpM1BCcThjLTFWUDhwRUM3SWhRX0RiaUZnNGlUc2JFT1hPR29ucF9mT2tLNnFaeE9OSHN2aFdodjlWU0kwcGw0eDJNZHZ3VDJVUjhjUHhaQTdYaU9CX2dPOUt3emkwVUhpNmNqYTNmNnRTcVp6eVFTUWhFcUcwQTdjd2lKUEdXUXFJQ0c1bmJtTkc4RVFHMUoxQzZybjhyZFh3WDZ4QW9YcFgzMHJqOXY?oc=5)
 
 ## 🪶 本职·鸟类与动物行为
 
-今天没有。
+- [Hasanna Birdsong leaves CEO role at Lehigh Valley Public Media - Current](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVNkdEFqU1dEZnFidVBxUVhsaWtLN0tXVkFHRXNQU3NtZXhvRk9LNFNleGxYQnRrel9xODg5STNzdXlMcDhsOFNXaUFSZHViMVJEYjRsSzF0UHFBMGpiWVRMNzl3bFZTYmE0ZkN4dlozbTFwcUNVMEpMU09WNHZfa2FpS2g1RVRVcTA3Y0s0b09CZFF3SGc?oc=5)
+- [Ex-Jaguars social media director sues team, claims racial discrimination, retaliation - News4JAX](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFdoWUFfTk5tZ3JPUzRwODAwLTdMaTVkM3NWOThHLWpXcG5DVjNTWkhBc05adGJJUXNzcmJmeEhURS1KcjB1NWM2dzJZSUlwNlhRMWt2QUlrTGhmSFZaZkYycldaeTd3Sm5SS19IUTVhZDRUUExHVzlIelk5YUdvNmFtMGQxVnAzbEx3dUtacXJpRFE5M3JxUUdFYzZhVTlVY1RKMWg5YWc0UF9KSXZaUHFPcThBaVNuWUZOTGdBWnIyMkVGdHJOT2oxZw?oc=5)
 
 ## 🌍 世界
 
-- [Kenya confirms first Ebola case after patient from DR Congo dies in Nairobi](https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss) 肯尼亚确认首例埃博拉病例，患者来自刚果民主共和国并在内罗毕去世。
-- [Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss) 德约科维奇赢得中国公开赛，阿尔卡拉斯赢得日本公开赛。
-- [Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom](https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom) 特立尼达和多巴哥通过一项可能威胁新闻自由的警察法案，引发强烈抗议。
-- [White House defends Trump comment to let Iran 'take out' LA and San Diego](https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss) 白宫为特朗普关于让伊朗“摧毁”洛杉矶和圣地亚哥的言论辩护。
-- [Kenya confirms its first Ebola death as outbreak spreads](https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss) 肯尼亚确认首例埃博拉死亡病例，病毒在刚果民主共和国省扩散。
-- [Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province](https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc) 肯尼亚确认首例埃博拉病例，病毒在刚果民主共和国省迅速蔓延。
+- [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
+- [Canada suspends plans to expand assisted dying to people with mental illness](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss)
+- [Over 100 arrested in Belgium student protests over education costs](https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss)
+- [US mortgage rates hit their highest level in three years](https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss)
+- [‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil](https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election)
+- [Gut microbes followed migrating humans across continents, new study suggests](https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane)
 
 ## 🔬 科学
 
-- [Neutrino physicist wins 2026 Nobel Physics Prize](https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/) 中微子物理学家弗朗西斯·哈岑荣获2026年诺贝尔物理学奖。
-- [‘A Mother’s Brain’ explores the neuroscience of motherhood](https://www.sciencenews.org/article/mommy-brain-neuroscience-book) 《母亲的脑》一书探讨了母亲身份的神经科学。
-- [Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/10/261005011249.htm) 斯坦福科学家发现一种再生软骨并阻止关节炎的方法，或可替代关节置换。
-- [The world’s loudest bird could drown out a rock concert](https://www.sciencenews.org/article/worlds-loudest-bird-jackhammer-volume) 世界上最响亮的鸟的叫声甚至能盖过摇滚音乐会。
+- [As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/)
+- [A quake on Mars may have set these rocks rolling](https://www.sciencenews.org/article/mars-quakes-falling-boulders)
+- [NASA’s Webb finds signs of Mars-sized worlds smashing together](https://www.sciencedaily.com/releases/2026/10/261007042108.htm)
+- [Remember the ‘caregiving kills’ study? Reality is more nuanced](https://www.sciencenews.org/article/caregiving-kills-nuance-benefit)
 
 ## 🧑‍💻 HN 精选
 
-- [[941分/633评] Mistral Large 4](https://news.ycombinator.com/item?id=49977979) Mistral Large 4 在HN上引发热议，获得941分和633条评论。
-- [[513分/165评] Beam: Reflection's 501B open-weight model](https://news.ycombinator.com/item?id=49969183) Beam 的501B开放权重模型获得了513分和165条评论。
-- [[464分/447评] JetBrains reported a net financial loss first time in its tracked history](https://news.ycombinator.com/item?id=49977072) JetBrains首次报告净财务亏损，引发464分和447条评论。
-- [[444分/304评] Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://news.ycombinator.com/item?id=49970667) Opus 5.5代理发现两种室温磁性半导体候选材料，获得444分和304条评论。
-- [[358分/108评] Nobel Prize in Physics goes to Francis Halzen](https://news.ycombinator.com/item?id=49976265) 2026年诺贝尔物理学奖授予弗朗西斯·哈岑，获得358分和108条评论。
+- [[368分/226评] Shipping JPEG XL in Chrome](https://news.ycombinator.com/item?id=49991227)
+- [[308分/55评] A font recreated from photographs of classic Commodore 64 keycaps](https://news.ycombinator.com/item?id=49990224)
+- [[237分/38评] Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://news.ycombinator.com/item?id=49990470)
+- [[214分/93评] Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://news.ycombinator.com/item?id=49993914)
+- [[202分/158评] GitHub Incident with Git Operations, Pull Requests and Actions](https://news.ycombinator.com/item?id=49994027)
