@@ -1,54 +1,36 @@
-# 🪿 Naso 晨报 · 2026-10-08
+# 🪿 Naso 晨报 · 2026-10-09
 
-_毛坯版：未配置 API key 或压缩失败，原料直出。_
+## 🪶 病友文学·agent记忆与context  
+- [Use and Disuse: Intent-Structured Experience Consolidation for Memory and Learning in LLM Agents](http://arxiv.org/abs/2610.12124v1)：研究LLM代理如何通过意图结构化的经验整合提升记忆与学习能力。  
+- [Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents](http://arxiv.org/abs/2610.11920v1)：提出一种基于事件记忆和查询感知图增强的长期对话代理框架。  
+- [Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](http://arxiv.org/abs/2610.11794v1)：通过反思规则书实现模型递归自改进。  
+- [MemTrial: Learning When to Trust Memory in LLM Portfolio Agents](http://arxiv.org/abs/2610.11732v1)：探索LLM组合代理何时应信任记忆的机制。  
+- [A 3D Characterization Framework for Intelligent Sequential Decision Making](http://arxiv.org/abs/2610.11696v1)：提出一种三维表征框架，优化智能序列决策。  
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 罗马家乡新闻  
+- [Two area cities join lawsuit over annexation law - Leader Publications](https://news.google.com/rss/articles/CBMilgJBVV95cUxNQXJ4V1NxRUJvSGRVbEhLQ0Y0SU1WRm9LSDBzVUMzS215eGFrbFp5MENsSzZweVlCUkhUUXF5emFkdmVXSXFGSGo2dFBQczU3a05VS3YyRU1lRWlSNVFiQjBuODJMbUZFWWZwcmRqZmZlUTR0UzJWSmk4dXN6dVQ0QnRlbkg2cWRoVjZzV1FKdl9Gc3ZNNzl6emFEYlNRQk5ONEhEaFY4Y2FGTjZoazd2LTBfdjVrLW1VWXRJN1Q4ekNSTW9GRmxic0hZQngtM19hQVF0anpBdUc3UlUtRlNHQ01hR1FQZy1ObFFCN1JPWDRoZVE4RnpWVGRuZ0xTWDJTcGxWUGJHRVM2R3NZR1Rwd3V1YlU0dw?oc=5)：两座城市加入起诉附件法案件。  
+- [Ancient Rome's founding fathers: the extraordinary stories of the city's first kings - HistoryExtra](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQW1mNkdWTjJTbHpGdWdDOXN0Y2hBbTdnZUR4Nk1DNVc0cXhlcHBuSWtZdVVFMmM1Y3RuQVZNS2VPaGIxV0tkaFduRmlqOWV2eXNnUGYtbjJwbVhGU1U2TVgwQXNTUDlWZWZVLTJ2NG1hSkFXNjl3cFZnd1NVWGY5dGtQRTJUcXg0YkNUUy1PaGpUWS1Ha3l4MWJWS1JHT2plMlZGZ3doOTFkVnRvQ2hPdjRVZnN2U3FrblBFM05GcXBoQQ?oc=5)：讲述古罗马首位国王的非凡故事。  
+- [2,100-year-old shipwreck reveals ancient Rome's version of fine china, expert says - Fox News](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tZWNjN0tqR3gxcEM4NEFELS1pVlo2eDlaT0w1SlkzSjVjSlMyeWM3cTRUN2tacEJLQXdMME9qd2ZvSlRLTGhieTdXV0NYaXpUTDF4UXhB?oc=5)：2100年前的沉船揭示了古罗马的“瓷器”文化遗产。  
 
-- [LOCAA: An Agentic System for Automated Lossy Compressor Tuning](http://arxiv.org/abs/2610.10487v1)
-- [Stale, Misattributed, or Late: Where Personal Memory Fails Before Generation](http://arxiv.org/abs/2610.10265v1)
-- [HGP:An on-device personalized agent memory via hybrid graph storage](http://arxiv.org/abs/2610.10071v1)
-- [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](http://arxiv.org/abs/2610.09872v1)
-- [SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles](http://arxiv.org/abs/2610.09832v1)
+## 🪶 媒介研究动态  
+- [Climate Change Disinformation| Climate Change Disinformation—Introduction](https://ijoc.org/index.php/ijoc/article/view/28653)：探讨气候变化虚假信息的背景与影响。  
+- [Climate Change Disinformation| Harvesting Denial: Mapping Primary and Secondary Climate Obstruction in Brazil](https://ijoc.org/index.php/ijoc/article/view/26240)：研究巴西气候变化否认的源头与次级阻碍。  
+- [Climate Change Disinformation| Unraveling Debunked Climate Change Disinformation and Responses to Fact-Checks: Evidence From the United States, Netherlands, and…](https://ijoc.org/index.php/ijoc/article/view/26253)：分析被揭穿的气候变化虚假信息及其应对。  
 
-## 🪶 罗马家乡新闻
+## 🪶 本职·鸟类与动物行为  
+_今日无大新闻，以下为头部刊物近况：_  
+- [Scientists changed how zoo lions eat. Their wild side came out](https://www.sciencedaily.com/releases/2026/10/261005071535.htm)：科学家改变动物园狮子的进食方式，激发其野性本能。  
 
-- [2,000-year-old marble torso symbolizes the dawn of ancient Rome - Yahoo](https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2ZHdkI2RDM2aVU2a2FHSjNkUGlsay1VNk1uVjBiUzVqR2JNYnFseEZTS3FWSWVpcTVoMEpxOE9tbzhDTUY3ZWxWcFdVOGJTWFV6dGpQcU1mRVNyZndBVzI2eGVVLXVfQUxUVTg1eENSTlhkbEFEZVBPcmJ4eUJ6UnF3N0s?oc=5)
-- [Pompeii lights Casina dell'Aquila in amaranth for children at war - inITALY](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXZGRmQ1Z203UVJramZFZUhlRW1FMzhCcm5aZGhJUTY4MVN3SW93RnBCSk92NWxGcl9Nb0dUeFBDMG9nT21hcnVtNllHOUZha0t1MWpOMUlncmQ0R09Lam5nNzVTam1hRUJfUXNJVWpHdjA5XzhqN1ZobVpPaDhPejBzSnQtWXROVDRuc3YxZHJLeUhWM3BFUkFQWkhxZEozZlIwOXlWVjRCQmdUb21yalBCckE?oc=5)
-- [An artist’s rendering of a planned expansion at Kade’s Playground in Herculaneum. - Leader Publications](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ2JEWGt4NlVmMUpLMHoxeFVyR3ZGbGhxcTF2OTE4a2t0ckFDX3dYT2dDV3AzRC03QXB1T19vdlZ5VFR6bTNseXpfQlVpX0YwNWlYWUhCLUM1OERWaG5ZLUdKcjhMY1lJS3o2cm9KYkpSRWJoejlGVFFGd3M4VjkwLVZWMFFaRF9IOU82empaU1JSeE54Q1lHaXlzZkR3UGpySXdfSy1EcElQWEtWRElheldWOWV5Y1Fma2NKdU52V2FsNXByeXFISW9VVTdJa1lkYnFEMkI4bDFVMW91cEdiU1dQNUlYcGZqZ2xlOVpUMA?oc=5)
+## 🌍 世界  
+- [US immigration officials defend ICE agents who shot man in same car as child](https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss)：美国移民官员为ICE特工射杀与儿童同车的男子辩护。  
+- [Drone strike kills 30 people in Sudan’s Blue Nile region](https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss)：无人机袭击造成苏丹青尼罗地区30人死亡。  
+- [Palestinians seek protection from violent settlers during olive harvest](https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss)：巴勒斯坦人在橄榄收获季寻求保护，免受暴力定居者侵害。  
 
-## 🪶 媒介研究动态
+## 🔬 科学  
+- [How the Grand Canyon could have lost 1 billion years of geologic history](https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff)：探讨大峡谷可能丢失的10亿年地质历史。  
+- [Scientists find hidden materials that could improve batteries and solar fuels](https://www.sciencedaily.com/releases/2026/10/261007042118.htm)：科学家发现可能提升电池和太阳能燃料性能的隐藏材料。  
 
-_今日无大新闻，以下为头部刊物近况：_
-
-- [From Code to Communication: PhD Grad Uses Computer Science to Rethink Media Studies - Education Monitor News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTFJT0JTT2VBbkJ1R015Mnkwd25CUGt1LVpSWXFVNS1IMGhBX2pUcnV0UWRCcTM2dHNFUlNqQnF2bXVIS2s1My10M3JVa1RXZTZmWjVhek9NNFNjUEwyOHNBOVI5YnpnNVltWkNPWUxnWDE3all2dlMxTXNuaTFnbEpraXlWSlFRdEdtbVAwMDZXUWZndnFiUUtpMnVXczYwZW14d2xSN0ZlRTA3?oc=5)
-
-## 🪶 本职·鸟类与动物行为
-
-- [Oklahoma plays key role in peak bird migration season - KOCO](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2F5ZXp3dnZNVUlHVHhpYkZKcExQdXloUEJXd0VkTk9uYUE4TWlEUm9fUFpwaGk1T2l2UUZ1d0U2V3RCWk94cG5pR0MwV2pvcHVRVlV6SThlZnFXOERZU0lMZmFSY3RxaU15NTRSYV9qSVhlXzJEUVBMS2xWMFZLQVZyWGNoNHZRaXdybHlJVlVrZw?oc=5)
-- [Protect Your Flock from Highly Pathogenic Avian Influenza During Fall Wild Bird Migration - Wayne County Journal Banner](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOby13eWppZ1FKOUhVZFYxNU1OWVZncUs3SkNUc1BVVE9vWV9IT21lVlR5NFFzNl9UU3QzYldSM3ZCOV9tWDJZdzgwMFgzT2JpR0xYa1pWVVd0b210blVBYk8xVkZyZS04TFcyOFMwNEVwNVZZblVQS1g2V3gtRUJoaG4xdkZia29GWVJTaFVTMUhTamtyQU1jdmE2Q2xJdm5kRnAwb01ON3VoQVlRdXRlVHRiYWs1UHFvSVhMMmNmNDQ4SU00WGF6RHBMOTQzMXptWC15WlVUc2xEYTF6SThRblY1RQ?oc=5)
-- [Edward Robert Stecher Obituary (2026) - Philadelphia, PA - Birdsong Cremations - Humble - Legacy | Obituary](https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWhmQThydDY4TGYyNFZBa0U1RWZDNjhWVUUyRXppLTBCQzlHcG9VajhjWE93Z0hqYnZKbG82V0RiRWE4LVNEUVJRUUUxRFAtOXI5NEFJdTRHLUZnd2JhMWJQVUU2VE5keWZ2M0sxT1BUcVp5UlBvWjlTQ3FKVUhIM25wTQ?oc=5)
-- [Look up! Why up to 20K birds are flying over Cleveland tonight - FOX 8 News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUE4YVFYR0VaZk9QUTdUMnpVLTI5b1RNZkk4d0dsT0xULXdvcEE0NlRtN1pXeVNGQW1idGdsbjJkcGk1N19hYTMxQUNSRGVlMWJrQnJ1RmhOeHRUVi1JTm1EQ0txTHhZM3NoR2hiSnQ0S0hCaC1kWHViVmlKQkhwcHc4TmJLSWYtWldiVtIBkgFBVV95cUxOTy1idWFCVmlxSXUwSUhSM0VPMEJYRC1ISWhWMGUtUl92Rjl4ak9tUE5CTm1PQWhjbWMtbm5xcjFQX0RYTmQ3TnprNkxQdzdibEUxRmd1RUNXV2VzMnk4NnhvVWYwSmxublFoakEya1l3ZHNqd2pxOHpYcF9YR09xUl9ZeE5LT0xpYTVHQ1puSV9KZw?oc=5)
-
-## 🌍 世界
-
-- [Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture](https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss)
-- [Syria calls for independent probe into sinking of ship in Black Sea](https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss)
-- [US suspends Microsoft and Adobe from visa programme amid fraud claims](https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss)
-- [US deportations to African countries unlawful and exploit suffering, rights group says](https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss)
-- [Seychelles giant tortoise numbers hit record 180,000 in conservation triumph](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)
-- [Ethiopia launches drone attack against Eritrean troops who crossed into Tigray](https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray)
-
-## 🔬 科学
-
-- [FDA-approved epilepsy drug may help reverse osteoarthritis damage](https://www.sciencedaily.com/releases/2026/10/261006234528.htm)
-- [Scientists accidentally discover a genetic code that breaks the rules of life](https://www.sciencedaily.com/releases/2026/10/261007233136.htm)
-- [An experimental drug kills fat cells, rather than shrinking them](https://www.sciencenews.org/article/experimental-drug-kills-fat-cells)
-- [Gene therapy and special goggles give some blind people limited sight](https://www.sciencenews.org/article/cells-detect-light-blind-vision)
-
-## 🧑‍💻 HN 精选
-
-- [[1311分/1485评] Sharing AI progress in mathematics](https://news.ycombinator.com/item?id=49984923)
-- [[1011分/474评] Claude Haiku 5.5](https://news.ycombinator.com/item?id=49996437)
-- [[650分/151评] Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://news.ycombinator.com/item?id=49994443)
-- [[552分/562评] “Math 2.0” will need to value mathematical progress more holistically](https://news.ycombinator.com/item?id=50002008)
-- [[510分/129评] Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
+## 🧑‍💻 HN 精选  
+- [[977分/888评] Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://news.ycombinator.com/item?id=50000488)：探讨行业对DeepSeek 4.1 Flash反应冷淡的原因。  
+- [[873分/172评] Whistle: Speech to Text in 16.9 MB](https://news.ycombinator.com/item?id=50008427)：介绍大小为16.9MB的语音转文本工具Whistle。  
+- [[675分/361评] Deno Is Joining Cloudflare](https://news.ycombinator.com/item?id=50019911)：Deno宣布加入Cloudflare引发热议。
