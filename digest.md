@@ -1,44 +1,35 @@
-# 🪿 Naso 晨报 · 2026-10-13
+# 🪿 Naso 晨报 · 2026-10-14
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 病友文学·agent记忆与context  
+- [ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1) 提出了一种用于机器人代理的行动分块方法，旨在提升任务执行效率。  
+6- [Hybrid Reasoning Agents](http://arxiv.org/abs/2610.18861v1) 探讨了混合推理代理的潜力，结合逻辑与概率推理以增强智能体能力。  
+7- [AReaL-RSI: Adaptive Scaling and Coordination of Recursive Self-Improvement](http://arxiv.org/abs/2610.18083v1) 研究了递归自我改进的自适应扩展与协调问题。  
+8- [Can Agents Forget When Asked? A Benchmark for Memory Unlearning in LLM Agents](http://arxiv.org/abs/2610.18052v1) 为LLM代理的记忆遗忘能力提供了基准测试框架。  
+9- [Can Agents Truly Forget? Explore Machine Unlearning for LLM Agents](http://arxiv.org/abs/2610.17659v1) 探讨了LLM代理是否真正实现记忆遗忘的机制。  
 
-今天没有。
+## 🪶 罗马家乡新闻  
+_今日无大新闻，以下为头部刊物近况：_  
+- [Rare Bronze Age deer antler axes found in Sweden](http://www.thehistoryblog.com/archives/77138) 瑞典发现罕见的青铜鹿角斧头，可能与古代狩猎文化相关。  
+- [Rare Roman window grill found at Augusta Raurica](http://www.thehistoryblog.com/archives/77131) 在Augusta Raurica遗址发现罕见的罗马窗户格栅。  
+- [Fayum portrait Tondo of the Two Brothers restored](http://www.thehistoryblog.com/archives/77125) 修复完成的Fayum肖像“两兄弟圆盘”展现了罗马时期的艺术风格。  
 
-## 🪶 罗马家乡新闻
+## 🪶 媒介研究动态  
+今天没有。  
 
-- 专家推荐的十部历史准确性较高的古罗马电影。[链接](https://news.google.com/rss/articles/CBMicEFVX3lxTE12SWxpYmQwTkVLdHNaQ2VoVnd4Tm84ZDluSllJSGZ0bWl1QVAwSnJkM1hpNVNGMXNnVGt5SVdZM25SUklPSHFJaTVMcDEwSXM0WThuR2pMOVZPcTVyUWZHNkNobHM3Q1gxS1JMY3ZwSm4?oc=5)
-- 地理空间、3D 和 AEC 行业的最新动态，包括数字孪生、古罗马和陆地海洋仪器。[链接](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXYtYXcxcXY1bUhneTV4WlZmU2RTeEVaUUVqZ18yYlV5a1E0Y3B0SHV6aC1jT3NBTG0ySlV1ejlHa0VGT2ZldTlsUGdCZlNaelRmTmdEcWlJeWZQN2h6MjUyX2pfdlBTTzBFUllaUTRDa3M3UjVnekxlSWZDczV1amI4eEE4TlFTVnVSZzdINW8zYVVGalVsQnlfZEUzMnZVMDhSVXJCZTRvOW83ZDVmd1VteDdlcDRaNC1RX1hGVGZjbWNocU5Gd2VtVmNKNUZm?oc=5)
+## 🪶 本职·鸟类与动物行为  
+今天没有。  
 
-## 🪶 媒介研究动态
+## 🌍 世界  
+- [US inflation rises before midterm elections, fuelling rate hike fears](https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears?traffic_source=rss) 美国中期选举前通胀加剧，引发市场对加息的担忧。  
+- [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial) 几内亚比绍否认批准新生儿疫苗试验，强调安全性问题。  
+- [Pope walking and recovering 'as expected' after surgery, doctors say](https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss) 教宗手术后恢复顺利，医生称其行走和恢复情况“符合预期”。  
 
-_今日无大新闻，以下为头部刊物近况：_
+## 🔬 科学  
+- [Tiny implants can use the body itself to talk to each other](https://www.sciencenews.org/article/implants-body-electric-signal-tissue) 微型植入物可利用人体组织间传递电信号实现通信。  
+- [Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/) 三个“幽灵”星系的发现为暗物质的本质提供了新线索。  
+- [Voyager 1 is nearly one light-day from Earth. What’s out there?](https://www.sciencenews.org/article/voyager-1-light-day-exploration) 旅行者1号距离地球接近一光日，探索太阳系边缘的未知领域。  
 
-- 2026 年巴西选举将成为 AI、平台和选举治理界限的重大实验。[链接](https://news.google.com/rss/articles/CBMiekFVX3lxTE1FYVNNQjZBNzJ3RWNfeG9ZWjhfeWRFMUxFaGN3NmRJS0xSTzN0emRmTmprMHFDNkJub3dteUdXV2xZT2FfVXRvSW9IR09FYmRYQlh1RDhUTEhZT0doX0lyekNiejU2XzBaR19NMkduTTVtRjJ0eF9ZYnV3?oc=5)
-
-## 🪶 本职·鸟类与动物行为
-
-- Robert Floyd "Dr. Bob" Ezell 博士的讣告发布，他在鸟类学研究领域有着深厚影响。[链接](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRktVeDByNW80dHdYa2czTUZ3Uk9WV2FEOWd2dHVYbS1TSTBNLXdfMlU5SnA3ZFV4QklBREJ3akhXWEJHd3hTOUVDejJ5c1dFa0Y1WEI1ZmlLNThhU05SRGpWejliVW81V3BZV2xwT1l1N1RnWFlWQ09ReTgxVlR3Tw?oc=5)
-
-## 🌍 世界
-
-- 康奈尔大学因性侵指控禁止所有兄弟会派对。[链接](https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss)
-- 加州沿海房屋在周末强烈的海浪和洪水袭击后受损严重。[链接](https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods)
-- 梵蒂冈宣布教皇肺部肿块手术成功完成。[链接](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
-- 美国最高法院同意审理关于 Elon Musk 的 DOGE 记录的监督案件。[链接](https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss)
-- 特朗普称普京和泽连斯基都希望结束俄罗斯对乌克兰的战争。[链接](https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss)
-- 英国请求国际刑警组织拒绝阿根廷对福克兰群岛石油逮捕的“政治动机”请求。[链接](https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests)
-
-## 🔬 科学
-
-- 研究显示，要使物体隐形，需要调整光的传播路径。[链接](https://www.sciencenews.org/article/invisibility-tweak-path-light-cloak)
-- 太阳调暗的模拟战争结果显示情况比预期更糟。[链接](https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
-- 一对研究者逆流而上，解释了人类耐力的起源。[链接](https://www.sciencenews.org/article/origin-human-endurance-dive-evolution)
-- 高速视频揭示了蜜蜂尾针如何泵送毒液。[链接](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
-
-## 🧑‍💻 HN 精选
-
-- 黑客激活了欧洲超市冰箱的自动解冻功能，引发热议。[链接](https://news.ycombinator.com/item?id=50055304)
-- GLM-Legal 项目引发关注。[链接](https://news.ycombinator.com/item?id=50058507)
-- AI 是一项工具，用好它需要技巧。[链接](https://news.ycombinator.com/item?id=50063427)
-- 在 Rust 借用检查器中发现了 11 年未解决的漏洞。[链接](https://news.ycombinator.com/item?id=50069499)
-- Gemini 4 Argon 项目引发讨论。[链接](https://news.ycombinator.com/item?id=50073879)
+## 🧑‍💻 HN 精选  
+- [[525分/146评] Show HN: Guitoro, a virtual吉他可用键盘弹奏](https://news.ycombinator.com/item?id=50077020) Guitoro是一款用键盘弹奏的虚拟吉他工具，引发开发者热议。  
+- [[454分/177评] Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://news.ycombinator.com/item?id=50084240) Iosevka 是一款开源等宽字体，包含无衬线和粗衬线设计。  
+- [[388分/637评] The United Kingdom generates less electricity per person than in the 1970s](https://news.ycombinator.com/item?id=50072994) 英国人均发电量低于1970年代，引发对能源政策的讨论。
