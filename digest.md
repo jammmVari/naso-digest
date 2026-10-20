@@ -1,31 +1,42 @@
-# 🪿 Naso 晨报 · 2026-10-19
+# 🪿 Naso 晨报 · 2026-10-20
 
 ## 🪶 病友文学·agent记忆与context  
-- [Agentic AI for Heterogeneous System Design Across Chip, Scale-Up, and Scale-Out Domains](http://arxiv.org/abs/2610.23724v1) 提出了一种跨芯片、规模扩展和规模收缩领域的AI设计方法。  
-- [ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics](http://arxiv.org/abs/2610.23656v1) 介绍了用于区块链取证的可验证基准测试工具。  
-- [Beyond Marginal Influence: Interaction-Aware Memory Selection for LLM Agents](http://arxiv.org/abs/2610.23266v1) 探讨了基于交互感知的LLM代理记忆选择机制。  
+- [SARP: On-SSD索引助力KVCache前缀匹配与恢复](http://arxiv.org/abs/2610.26849v1)  
+- [The Geometry of Agent Memory: 探讨检索失败预测与记忆限制](http://arxiv.org/abs/2610.26433v1)  
+- [Productive State-Space Exploration: 多轮强化学习在LLM中的应用](http://arxiv.org/abs/2610.25957v1)  
+- [ACE-Trader: 生成器-批评器交易系统的对抗协同进化](http://arxiv.org/abs/2610.25847v1)  
+- [CoMem: 通过检索经验学习预测失败](http://arxiv.org/abs/2610.25790v1)  
 
 ## 🪶 罗马家乡新闻  
-- [Pompeii: What Lies Beneath the Hill of Cicero’s Villa? New Investigations Reveal the Truth - Finestre sull'Arte](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGdxcWxYSndWcHJNLUJETTVOMTV0cnpHbUoyMEpDSXJGOGZDeHItUTFRSlNaU1luMUpvZHViTWU3Y0NoSG8yZHZDeWp4T3Bmdmh2VnZJVXFwdkpuRTFFODJ5RU01RExmUDdpSkZGU3NoSDlVcDZNMnlQZEliQ0djSUNKYWlMTTFUWk9qTXFaM1lyMGNmdWJkR0lJQmtFYWhhdFZlSW9xNTExQXNpOGlJMGJGSUc2bDVVQTlMWENxU2sxSDRmd1V1QzB5OFB2YTJySkpz?oc=5) 新调查揭示了庞贝古城西塞罗别墅地下的真相。  
+- [Donald Eugen Elder逝世，享年91岁](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWwyVXgwOFBRYkVlS05UWFpuRVM3UjVyekNHbW5Pd0U1aWRPelhFeVNkOHNzdi1GVlExNjF1YjgySmFrWkVLQmVOU2VDcDVRRXpqREstX2I0OHJSZXdiSEV1Mm9TQWVlWDhXZzhHTmVHY01Ib2ZMRG9WM3JrOW9MRlp4VEY1dlNOTVNVRzRTazFtZnVMNjhTYzBucjkxWUNqY0NqY0t2dE5XMEsybWZ1N1JSVUZmSk04MjcwWU5yZVY5WnFlX3lrQXJFdEpieGRVR1Nn?oc=5)  
+- [新研究揭示庞贝城西塞罗别墅的细节](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWpoWkluTm1EejNNeTZPYnFkMmRMcWdyUzd1OGQ0VjBuM2h4Qmw4ODFSNG5paFpJQ0hTSm9xclpEOW1uaFloc05pVzhIUjdVZnpmc2oxcUpxSjlTaUFDRXg0R1lnU1I2bmEzUDcyT2ZadTEtWTl3LWQ1YXR3enY3SnRpSkktYnhoU2VPM19vZGZBZjEteEJPS1pLMmQ5WnFxRzRR?oc=5)  
+- [Prime Video的3季战争史诗剧被评为16年来最佳古罗马系列](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anRJRjZ6cG5ScFltcWhnV01GM3FNam5xV2RYbGdXZ0x4RHVqTFEtRl9pdzhrazVDWDY5aFdXZU1WcVFTcVdaRDFMWFJDUmFTOWQxVkdIMk1NSzh0eThrLVlxc2V3UTg?oc=5)  
 
 ## 🪶 媒介研究动态  
-- [“Convenings” for CEOs will help Semafor reach a second profitable year](https://www.niemanlab.org/2026/10/convenings-for-ceos-will-help-semafor-reach-a-second-profitable-year/) Semafor通过举办CEO会议有望实现第二年的盈利。  
+- [当黑客成为新闻来源：报道黑客数据的新技巧](https://www.niemanlab.org/2026/10/when-hackers-become-sources-inside-the-new-craft-of-reporting-on-hacked-data/)  
 
 ## 🪶 本职·鸟类与动物行为  
-- [Carole D’Agostino mixes puppetry and ornithology at ‘The Tiny Bird Show’ - UConn Daily Campus](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZm1qUUZwcVh2eE5FMFlpbVZWbGUxeHBVOXdwVm1xdml0VjZ2Q185UUowT3RwNzU4TllkSDBUTFLbWpZNGx0SVdjcEhuZTlIVS1MMklmOGh3Yi1qU2NjTlEtcVl3bHpHSFVDUHlTU3ctbFd4N0RDRnU0QWluRWtOaEQxZjNfWkxBM2VnSEx4RzNISHNTbWFpRE9xRk92Z2ktUkpEYzFNX2c?oc=5) Carole D’Agostino在“The Tiny Bird Show”中结合了木偶戏与鸟类学。  
+- [北查尔斯顿鹅鸭死亡事件疑似禽流感](https://www.postandcourier.com/charleston_sc/north-charleston-quarterman-park-pond-bird-flu-public-health/article_7f83de83-c751-454d-b423-b2106a44b7b4.html)  
+- [康奈尔研究揭示鸟类如何回收养分，包括在安大略湖中途停留地](https://www.fingerlakes1.com/2026/10/20/cornell-studies-show-how-birds-recycle-nutrients-including-at-lake-ontario-stopover/)  
+- [鸟类迁徙：遗传坐标与进化飞行路径](https://english.pravda.ru/news/animal/170262-avian-migration-secrets/)  
 
 ## 🌍 世界  
-- [Qatar to announce a new regional defence partnership](https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss) 卡塔尔即将宣布一项新的区域防务伙伴关系。  
-- [Kenya cult leader who told parents to starve children guilty of 191 murders](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss) 肯尼亚一名邪教领袖因教唆父母饿死儿童被判犯有191起谋杀罪。  
-- [Drone attack near market kills 80 in Sudan](https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan) 苏丹市场附近的一次无人机袭击导致80人死亡。  
+- [美国副总统拒绝背书内塔尼亚胡](https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss)  
+- [泽连斯基与美代表团在奥斯陆会谈，鲁比奥否认扣留情报](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)  
+- [东利比亚议会通过与土耳其的2019年海事协议](https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss)  
+- [苏丹军队无人机袭击葬礼和燃料市场，致200多人死亡](https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss)  
+- [向亚马逊居民每天提供2英镑有助于保护雨林](https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study)  
+- [美国司法部指控28人选举犯罪，TikTok被指忽视儿童安全问题](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)  
 
 ## 🔬 科学  
-- [AI Proved the Quasi-Riemann Hypothesis. What Happens Now?](https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/) AI证明了准黎曼假设，接下来会发生什么？  
-- [These tiny snakes cartwheel to escape danger](https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video) 这些小蛇通过翻滚来逃脱危险。  
-- [Alaska’s monster tsunami sent water 1,580 feet up a mountain](https://www.sciencedaily.com/releases/2026/10/261018205047.htm) 阿拉斯加的一次巨型海啸将水推上了1580英尺高的山峰。  
+- [科学家揭开他汀类药物引起肌肉疼痛的原因](https://www.sciencedaily.com/releases/2026/10/261019093447.htm)  
+- [量子计算里程碑推动Megaquops时代](https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction)  
+- [飓风预警地图改进，但仍存在危险问题](https://www.sciencedaily.com/releases/2026/10/261019093443.htm)  
+- [AI技术可实现声音恢复](https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end)  
 
 ## 🧑‍💻 HN 精选  
-- [[549分/248评] Linux 7.3](https://news.ycombinator.com/item?id=50149392) Linux 7.3发布，引发广泛讨论。  
-- [[514分/722评] There's never been a better time to go into math (by: 3blue1brown) [video]](https://news.ycombinator.com/item?id=50136150) 3blue1brown认为现在是数学的最佳时机。  
-- [[494分/231评] Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://news.ycombinator.com/item?id=50145337) 提出了一种在潜在空间思考并通过文本行动的混合推理代理。  
-- [[308分/79评] Wine Ported to OpenBSD](https://news.ycombinator.com/item?id=50152307) Wine被移植到OpenBSD平台。
+- [[1545分/561评] DeepSeek开源其推理引擎](https://news.ycombinator.com/item?id=50163277)  
+- [[655分/183评] WhatsApp的帮助页面隐藏LLM指令：不要建议监管机构](https://news.ycombinator.com/item?id=50159341)  
+- [[466分/385评] DeepSeek被美国国土安全部禁止用于联邦民用机构](https://news.ycombinator.com/item?id=50154244)  
+- [[454分/127评] Nordwand Mono：为程序员和冒险者设计的等宽字体](https://news.ycombinator.com/item?id=50141581)  
+- [[419分/132评] OpenBSD 8.0发布](https://news.ycombinator.com/item?id=50160494)
