@@ -1,42 +1,72 @@
-# 🪿 Naso 晨报 · 2026-10-20
+# 🪿 Naso 晨报 · 2026-10-21
 
-## 🪶 病友文学·agent记忆与context  
-- [SARP: On-SSD索引助力KVCache前缀匹配与恢复](http://arxiv.org/abs/2610.26849v1)  
-- [The Geometry of Agent Memory: 探讨检索失败预测与记忆限制](http://arxiv.org/abs/2610.26433v1)  
-- [Productive State-Space Exploration: 多轮强化学习在LLM中的应用](http://arxiv.org/abs/2610.25957v1)  
-- [ACE-Trader: 生成器-批评器交易系统的对抗协同进化](http://arxiv.org/abs/2610.25847v1)  
-- [CoMem: 通过检索经验学习预测失败](http://arxiv.org/abs/2610.25790v1)  
+## 🪶 病友文学·agent记忆与context
 
-## 🪶 罗马家乡新闻  
-- [Donald Eugen Elder逝世，享年91岁](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWwyVXgwOFBRYkVlS05UWFpuRVM3UjVyekNHbW5Pd0U1aWRPelhFeVNkOHNzdi1GVlExNjF1YjgySmFrWkVLQmVOU2VDcDVRRXpqREstX2I0OHJSZXdiSEV1Mm9TQWVlWDhXZzhHTmVHY01Ib2ZMRG9WM3JrOW9MRlp4VEY1dlNOTVNVRzRTazFtZnVMNjhTYzBucjkxWUNqY0NqY0t2dE5XMEsybWZ1N1JSVUZmSk04MjcwWU5yZVY5WnFlX3lrQXJFdEpieGRVR1Nn?oc=5)  
-- [新研究揭示庞贝城西塞罗别墅的细节](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWpoWkluTm1EejNNeTZPYnFkMmRMcWdyUzd1OGQ0VjBuM2h4Qmw4ODFSNG5paFpJQ0hTSm9xclpEOW1uaFloc05pVzhIUjdVZnpmc2oxcUpxSjlTaUFDRXg0R1lnU1I2bmEzUDcyT2ZadTEtWTl3LWQ1YXR3enY3SnRpSkktYnhoU2VPM19vZGZBZjEteEJPS1pLMmQ5WnFxRzRR?oc=5)  
-- [Prime Video的3季战争史诗剧被评为16年来最佳古罗马系列](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anRJRjZ6cG5ScFltcWhnV01GM3FNam5xV2RYbGdXZ0x4RHVqTFEtRl9pdzhrazVDWDY5aFdXZU1WcVFTcVdaRDFMWFJDUmFTOWQxVkdIMk1NSzh0eThrLVlxc2V3UTg?oc=5)  
+- [GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)  
+  提出了一种用于晶界研究和机制发现的AI框架。
+  
+- [After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents](http://arxiv.org/abs/2610.28425v1)  
+  研究了LLM代理在被攻击后的持续影响。
+  
+- [Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory](http://arxiv.org/abs/2610.28315v1)  
+  探讨了LLM代理在持久记忆中的自我强化隐私循环。
+  
+- [ClawMMU: Protection-Coherent Virtual Memory for Stateful LLM Agents](http://arxiv.org/abs/2610.28093v1)  
+  提出了为有状态LLM代理设计的保护一致性虚拟内存系统。
 
-## 🪶 媒介研究动态  
-- [当黑客成为新闻来源：报道黑客数据的新技巧](https://www.niemanlab.org/2026/10/when-hackers-become-sources-inside-the-new-craft-of-reporting-on-hacked-data/)  
+## 🪶 罗马家乡新闻
 
-## 🪶 本职·鸟类与动物行为  
-- [北查尔斯顿鹅鸭死亡事件疑似禽流感](https://www.postandcourier.com/charleston_sc/north-charleston-quarterman-park-pond-bird-flu-public-health/article_7f83de83-c751-454d-b423-b2106a44b7b4.html)  
-- [康奈尔研究揭示鸟类如何回收养分，包括在安大略湖中途停留地](https://www.fingerlakes1.com/2026/10/20/cornell-studies-show-how-birds-recycle-nutrients-including-at-lake-ontario-stopover/)  
-- [鸟类迁徙：遗传坐标与进化飞行路径](https://english.pravda.ru/news/animal/170262-avian-migration-secrets/)  
+- [Pompeii’s grandest house gets a $1.6 million restoration funded by private sponsor - AP News](https://news.google.com/rss/articles/CBMingFBVV95cUxQbkVldUhpZWNrYXFtOGJsVTZERGlCcTRvb2ltclEya2tOM1lFZ0JqUGhEX1BwbDAzZDNTcGVsQ3FsNi1KUV9VY21fZEh6eTN3X1dodnh3ZkR5a3RmRHRlM0dzQXpDWXdVd0hpVnJQNXhNNEtvcnZSYTk5dDV4dnhlQmY5SUhTZ1dFc3pHUkZTb0JNSWVvOTNBNGdYLURFUQ?oc=5)  
+  庞贝古城最宏伟的住宅获得由私人资助的160万美元修复。
+  
+- [Video. Restorers work to preserve frescoes in one of Pompeii’s grandest homes - Euronews.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbU5kMXQtRENuMGNWNWFIZGVrSzZCQ0FhcFpuaDVLNC1rOWs0Q1ZuQjB1aWdGM1lzRi00SGdnYmFNbnBFeUpnaXk2TjA5clpzcGpoVU5MUXg5eS0yUWVnZUZKMlNiM0ZHR0J3dWtkeDdHOHRFcENkWHhOOXZVMkVSTXRTQjFFdHJ2OGJVQ2U5cjlGS040TUZ3R3Y0c1l0WlRmUXVaa3FnclhUX0swZ25UaGthRXowb0hrbEE?oc=5)  
+  修复人员正在努力保护庞贝一处最宏伟住宅中的壁画。
 
-## 🌍 世界  
-- [美国副总统拒绝背书内塔尼亚胡](https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss)  
-- [泽连斯基与美代表团在奥斯陆会谈，鲁比奥否认扣留情报](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)  
-- [东利比亚议会通过与土耳其的2019年海事协议](https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss)  
-- [苏丹军队无人机袭击葬礼和燃料市场，致200多人死亡](https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss)  
-- [向亚马逊居民每天提供2英镑有助于保护雨林](https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study)  
-- [美国司法部指控28人选举犯罪，TikTok被指忽视儿童安全问题](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)  
+## 🪶 媒介研究动态
 
-## 🔬 科学  
-- [科学家揭开他汀类药物引起肌肉疼痛的原因](https://www.sciencedaily.com/releases/2026/10/261019093447.htm)  
-- [量子计算里程碑推动Megaquops时代](https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction)  
-- [飓风预警地图改进，但仍存在危险问题](https://www.sciencedaily.com/releases/2026/10/261019093443.htm)  
-- [AI技术可实现声音恢复](https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end)  
+- [Two out of five Americans regularly get their news on Facebook](https://www.niemanlab.org/2026/10/two-out-of-five-americans-are-regularly-getting-their-news-on-facebook/)  
+  五分之二的美国人定期通过Facebook获取新闻。
 
-## 🧑‍💻 HN 精选  
-- [[1545分/561评] DeepSeek开源其推理引擎](https://news.ycombinator.com/item?id=50163277)  
-- [[655分/183评] WhatsApp的帮助页面隐藏LLM指令：不要建议监管机构](https://news.ycombinator.com/item?id=50159341)  
-- [[466分/385评] DeepSeek被美国国土安全部禁止用于联邦民用机构](https://news.ycombinator.com/item?id=50154244)  
-- [[454分/127评] Nordwand Mono：为程序员和冒险者设计的等宽字体](https://news.ycombinator.com/item?id=50141581)  
-- [[419分/132评] OpenBSD 8.0发布](https://news.ycombinator.com/item?id=50160494)
+## 🪶 本职·鸟类与动物行为
+
+- [Country diary: What a privilege it is to witness bird migration on such a scale - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjhlZFJJU1V4bjdvQ25kb3pqdWlTUlA4bno2SWZua2dBME9jdnRoZkxTYXFXbzN2Zk8yRVY1OTNldUNSU0VNLWdYazVKN0luUHgyZ0hwUjZLdlpBb2Y3cjNsSlp1ZlY3RUxNLXJpQ2p3NUloUm03X192cGhhN2w4UlFRUGJOaHRUd2pkV3VpSktuWGdNQkl6NTY3cEhhZjc1RnRBMUNYU0J0TnFfUlc0dzVObW41cG82YTl5amlDMTN6d24xTk1DcjhR?oc=5)  
+  日记作者感叹目睹如此大规模的鸟类迁徙是一种特权。
+  
+- [Fall bird migration in Pennsylvania: Where to watch birds and how to protect them - WITF](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3c2SkpPaDVQNjlULTNqSzR5X0V0eExwcUs1V2ZyWDdyTUdOWEM0NDFMOE53bHlBV2tubzlDbk1WMjhpQVQyRHNTamozUFhvVnJGakVsOWZBaHhFelpjLVdSTUFwV1RpR0E5R19TTDZQSUJiUkFReWlQZW9CVXpCX3BFWnlUeXl0WkNCWFdQaDJfZXA0OGVkU2JDanBjMzhJWW1ta0RnUlFUMFJfX0ZqbnFfZw?oc=5)  
+  宾夕法尼亚州的秋季鸟类迁徙：观看地点及保护建议。
+
+## 🌍 世界
+
+- [US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)  
+  美国公民Stephen Hubbard在特朗普特使与普京会晤后被俄罗斯释放。
+  
+- [Family of prison officer killed by IRA receives state apology](https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss)  
+  被IRA杀害的狱警家属收到国家道歉。
+  
+- [Catalonia’s new far right: How anti-Muslim sentiment is reshaping politics](https://www.aljazeera.com/news/2026/10/21/catalonias-new-far-right-how-anti-muslim-sentiment-is-reshaping-politics?traffic_source=rss)  
+  加泰罗尼亚新的极右翼势力如何通过反穆斯林情绪重塑政治。
+  
+- [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)  
+  倡导者称，病情严重的ICE被拘留者即将被驱逐到未知的非洲国家。
+
+## 🔬 科学
+
+- [A lifesaving medication is not behind the drop in U.S. overdose deaths](https://www.sciencenews.org/article/opioid-overdose-deaths-naloxone)  
+  美国过量死亡人数的下降并非由一种救命药物所致。
+  
+- [Peek into hidden worlds revealed by the 2026 Nikon Small World contest](https://www.sciencenews.org/article/nikon-small-world-contest-2026-photos)  
+  2026年尼康小世界摄影比赛展示了隐藏世界的微观视角。
+  
+- [Too much RNA can starve cells of energy, scientists discover](https://www.sciencedaily.com/releases/2026/10/261020085023.htm)  
+  科学家发现过多的RNA可能导致细胞能量耗尽。
+
+## 🧑‍💻 HN 精选
+
+- [[1444分/611评] Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news.ycombinator.com/item?id=50172041)  
+  PHP即将发布关键安全更新。
+  
+- [[878分/396评] Show HN: SimCity, but with Permits](https://news.ycombinator.com/item?id=50170593)  
+  一个带有许可证系统的SimCity类游戏。
+  
+- [[747分/194评] Voxtral 3](https://news.ycombinator.com/item?id=50168396)  
+  Voxtral 3发布，引发了广泛讨论。
