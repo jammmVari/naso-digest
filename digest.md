@@ -1,54 +1,33 @@
-# 🪿 Naso 晨报 · 2026-10-22
+# 🪿 Naso 晨报 · 2026-10-23
 
-_毛坯版：未配置 API key 或压缩失败，原料直出。_
+## 🪶 病友文学·agent记忆与context  
+- [AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents](http://arxiv.org/abs/2610.31366v1)探讨了LLM代理中信息删除后持久性的审计问题。  
+- [SARIA: Persistence-Aware KV Caching with Coordinated DRAM--SSD Reload for LLM Agents](http://arxiv.org/abs/2610.31169v1)提出了针对LLM代理的持久性键值缓存方案。  
+- [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](http://arxiv.org/abs/2610.30755v1)质疑复杂代理记忆的必要性，认为Naive RAG可能比想象中更强。  
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 罗马家乡新闻  
+- [A Businessman Read a Book About Pompeii. Now He’s Funding a $1.6 Million Restoration of Its Grandest Home](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkZwenBmVmFtNVJlVkdmZnB0OEhHOGVka3h1QjlQZlFYaHVpa3gwTWdYSTFpejlJc3RQSldtUUZfQkV2YnpUQ0h2dkl2S3BWZVY1czZEcXI5Sk45QWRweXJIdGhXMVA0aDVhYkJzSUtKQzFXU2dTR0pZM2RVTmFPWlBVeWFCcDNjeHJvT2g2QVpGY0NtTWR6ellsLUlYU0k5ZjhEWnhzTVk?oc=5)一位商人因阅读庞贝书籍，决定出资160万美元修复其最宏伟的住宅。  
+- [Beyond satyr: a Manhattan apartment decorated with cheeky Pompeian murals](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0VWZVpOX1BjWXdfN0wwajc5MXJSMGhjNmZNZHFQazUxZzFyYVM5QVFCZkVUSVpKNjl2ckVJOHBhcU8zYS1EU1ZFTnBCcWlMNHA1RVd4dFdralExQ1F4MTEzOG9acmtWbmQyN1FhNkVsUXFKMlB6ZUhkTXQ0cTBrNVlUMWpXSEk3VGlKdVoxYw?oc=5)曼哈顿一套公寓以俏皮的庞贝壁画装饰，风格独特。  
 
-- [5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond](http://arxiv.org/abs/2610.29155v1)
-- [PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust](http://arxiv.org/abs/2610.28987v1)
-- [The Butterfly Effect in LLM Social Simulations: From Architecture Sensitivity to Robustness Audits](http://arxiv.org/abs/2610.28981v1)
-- [Self-Improving Agents with World Model Predictive Paths](http://arxiv.org/abs/2610.28945v1)
+## 🪶 媒介研究动态  
+- [Publishers pressure Meta to nix new terms that would let the company scrape their websites](https://www.niemanlab.org/2026/10/publishers-pressure-meta-to-nix-new-terms-that-would-let-it-scrape-their-websites/)出版商施压Meta，要求其放弃允许抓取其网站的新条款。  
+- [The Ringer bets on Substack’s network over its own website](https://www.niemanlab.org/2026/10/the-ringer-bets-on-substacks-network-over-its-own-website/)The Ringer选择押注Substack的网络，而非自己的网站。  
 
-## 🪶 罗马家乡新闻
+## 🪶 本职·鸟类与动物行为  
+- [What to Do This Weekend: Look for Migrating Birds at a Park Near You](https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRGJoUHpLZkpyTl93d3hKR2YwQlBRUjhpd0tVbW40bVoyd1owQlRJbGY3Rno0TzM5SHM4Q2pEUG4xeGtvTTdxQ0daOFMzZWRobHJGQjNGY0s0LWxwbEZRN29FTVRrZTBDSTFfcQ?oc=5)建议本周末在附近的公园观察迁徙的鸟类。  
 
-- [Pompeii's Destruction Was Worse Than You Thought - Yahoo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTI4Um1OdU9qSTJGR1E0c1pEM21pb2h3WjlSa1BMZGRyQ3VNbk1wenFzenUwWWdTVlZkR01tTVp1RnY3UXg0RmhKajE3ampmOHBfZkxDTlN4SmQyS0JidkJVTThJVmQ4OFpDYlFsQ19JSUVsUTZzNnczYWRkNW85SFprV0xsTlM3c2xV?oc=5)
-- [Pompeii’s grandest ancient residence gets €1.4 million restoration, with private sponsor covering entire - The Times of India](https://news.google.com/rss/articles/CBMilwJBVV95cUxPelNmN01uLVFiSjR3c1pIME5sS2pqN0hYQlNMQVVNYlV5RzlKcnpLLWhuaXh4eWptRzg4RUhOWFNKTkszc29XXzhnRno1V3ZpSGhlc2RMQWFxN01TRURJZnJwZERRdm9yYmhTbW51TFoyeW9xbVc4a3BCQU0tUWxhbVE0bjVQTDR1b2JCTFRZV0pTcEdlNklPUzQ1ckxxR2c2emJwOGlZZjRwV2VUTlc4dXlBNThwWFgxUFJRb2VjcDNNeU9tVlA0bm0yaGhEOFdiU2FWMWJYcGJfQjgxUVF4U1Qyc1F0bzRxYnJiTXdLRVVRR3lWd0dpY0NDOHhmdkVJVFpOZ1R3eW5hUG42dnBZQVRKbFlDRGvSAZwCQVVfeXFMT0ZkdHRfbWMzQUZaQ1EwRW5lLVNlYUc4NEZ1OUJreUl4T2pEbHU1aHF6QXFYeEtZbHpJclJyOG9ham5YbU5ndUt2bk9HOE1GSGF4bnFIa3BoR1V4X3d1d3NWTWFqV2JiUTVrMFpmZjJhLU5yVld3cXdmelhKTkpSYlJfVzFYQUREcFlrdDgtU2UwamdkeW0wb05UTDRmMFQxN0c5M1YzS1R3RXUySzZaN1lZbTFRX2xwajVLQ1ZwOVJoMk9jVHRVR0Q3Y21EUV91R2FiZWNOX2FXaDNPOFRVLVVXcjktWjREYWVpVzVJakh5b1BRU3NWNzdZRDJ2Y3Z6RUloTWFpcC1VclY3eE1nVVJWS1MwQU9nTGxsWEU?oc=5)
-- [Pompeii mansion undergoes million-dollar restoration - Central Oregon Daily](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1ZsVm9CQXNUZU81VUgwNXJOcnFJelFEdUE3ZzgyM0xFV1JTakJVTmNCOU0zVjNyeHBTMWlWaGdvSDFOUjJRZmlKMjh6QzE4VnF0SlgxSW9qVF92OWZOOTd3NkJOeE9VX0czYVI2bnZLeXY5dWxiMkwxQ1dKakJ1WWtfcjNRcUsxWTVadkM5bHpKWVRBZzhqZmdRM1RiYVBFSXBnaEFqdktUU2ZQVHZrcDJzZFNxdDRhTERsbGV4MVZMd2s3TzV2SVEwc0NXdEZuSENaTGlza0FpbzgyTzdwano5aDJlLU90?oc=5)
+## 🌍 世界  
+- [White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'](https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss)白宫称梅拉尼娅·特朗普促成了乌克兰一座濒临灾难城市的停火协议。  
+- [Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)两名以色列士兵被枪杀后，以色列军方开始拆除希伯伦的巴勒斯坦建筑。  
+- [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)尼日利亚埃博拉感染来源不明，引发对病毒传播的担忧。  
 
-## 🪶 媒介研究动态
+## 🔬 科学  
+- [Eating too much sugar on antibiotics could squash helpful gut bacteria](https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria)服用抗生素期间摄入过多糖分可能抑制有益肠道细菌。  
+- [Malaria Parasite Caught in the Act of Breaking and Entering](https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/)研究人员捕捉到疟原虫“破门而入”的过程。  
+- [One of Earth’s most powerful supervolcanoes is refilling with fresh magma](https://www.sciencedaily.com/releases/2026/10/261023003214.htm)地球上最强大的超级火山之一正在重新注入新鲜岩浆。  
 
-- [In the AI age, publishers who understand what readers want will do best, a new report argues](https://www.niemanlab.org/2026/10/in-the-ai-age-publishers-who-understand-what-readers-want-will-do-best-a-new-report-argues/)
-- [U.K. politicians and German publishers call on regulators to pause Meta’s new terms before October 30 deadline](https://www.niemanlab.org/2026/10/u-k-politicians-and-german-publishers-call-on-regulators-to-pause-metas-new-terms-before-october-30-deadline/)
-- [The Wall Street Journal’s new AI tool, “Doppler,” forecasts the issues that will shape the midterm elections](https://www.niemanlab.org/2026/10/the-wall-street-journals-new-ai-tool-doppler-forecasts-the-issues-that-will-shape-the-midterm-elections/)
-
-## 🪶 本职·鸟类与动物行为
-
-- ['A really special region for birds': The Nat’s new curator on birding, collections and climate - KPBS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeTFzNVBQQk5SclJyTUZ4RHlObDRMZlNNZFdmQk13UF9zUHVuQ0h2Y2pMSXpmT1dZRVpKbUp3QVZJYl9MT0trNnFaZEZ3WnZQRzVJdU1QYkduZHI0TmtXVE1ZaVlBN0NaQk5EV3owaUJ3VWhJUlRYajBNa0VnREF1Rk5mc194MnlwZ1hBMXR5R3pESjBjTW5vU1RCRUluTjVRZXR6RTR0Ymc4SndEYk1lbVFFMEIxUDRCMjFWLVFNUDdVSGFIYmwyOS1BcG9Ld21zb0Vxdw?oc=5)
-- [Birds are more afraid of women than men. Scientists have no idea why - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1WZ2NlY3htcVRiNW5QVGVxWlRBdV8ycF9UNGItZDNPNHBhSDd3MHlVdVUwSUFYSjJmWHUwVkFOU3NkREFGTGxYYml1R09Ca2xGU0NpSGp0dThvZGNjUHpLZWhNX2ltWnZxbFppVno3UQ?oc=5)
-- [WATERLINE: For centuries, bird migration was a mystery - yoursun.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHJOeVBIQmNNQVA1V0ViWnl0ZEVEeWp2dk1VTy0weFpCT1Vzclk2R1RaTC1ybEJ4ZGY1YUY0WmVGeVF6Vmd2OWpzMjdTRDROSmE1U2JrLXNJT2QzZ2hVX0NFelZ3NmpmNExmanpndllqMmdoaTN3V2NKWEE1NHYyWS10SVZpdnEtUXVlcUNPTDlrLVEzdGk0MEhualRwT18xSXU5RjhudnNkZjU1dnoybkRpVGhYNDRLSm5IS29BZjR1NFF5cVR4WWp0M1BGVEpwRXRvd1liX2ZoSlZEMHFpLWVxd0VfOTg?oc=5)
-- ["She built a 28-foot bird tower in her garden." 19 extraordinary birding women who changed science forever, but were written out of history - BBC Wildlife Magaz…](https://news.google.com/rss/articles/CBMibEFVX3lxTFBmdUxKMUc0djVOU2VRN1ZVeGd2c2cwb09OX0laUVdSOFkzbl9HMm8tbG56Q0tUNkpCMGp2ekNPamxZNkNMYTY3TnF2ekhQOFJhTVJzbF9PNGRRakYwaHBpTzBNVDg1Q3VyczU0Ng?oc=5)
-- [Khalid Birdsong (@khalidbirdsong): "Drawing this dude, and his ears, was a lot of fun! " - Substack](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LZ3htVjU1STVHaWVPNjJ2QXd6czlZOENUQ1pYR1Q2N3lWY1hBTl9FV1VEWm9OM2RMRUZkcmpGNXd2bllmb2d0NEh4c3dpVjlFNmFRVTV5Y3FfOXBOVGdGVEdvOA?oc=5)
-
-## 🌍 世界
-
-- [Italy and Spain lift border controls after months of tension over Ceuta](https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss)
-- [Newborn twins fight for survival as conflict fuels Yemen's hunger crisis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss)
-- [Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal](https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss)
-- [French weekend protests to be limited to union demos only, says Macron](https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss)
-- [Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates](https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino)
-- [U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging](https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla)
-
-## 🔬 科学
-
-- [Was van Gogh’s ‘The Starry Night’ a flight of fancy or a real sky?](https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars)
-- [This ‘living drug’ could change the course of autoimmune disease](https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases)
-- [Birds are more afraid of women than men. Scientists have no idea why](https://www.sciencedaily.com/releases/2026/10/261021231250.htm)
-- [Oxford scientists discover how viruses build themselves without a blueprint](https://www.sciencedaily.com/releases/2026/10/261021231248.htm)
-
-## 🧑‍💻 HN 精选
-
-- [[573分/186评] Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://news.ycombinator.com/item?id=50181114)
-- [[547分/318评] Security Disclosure](https://news.ycombinator.com/item?id=50188228)
-- [[503分/460评] Claude Duet](https://news.ycombinator.com/item?id=50186037)
-- [[434分/159评] Jailbreaking the Switch 2](https://news.ycombinator.com/item?id=50192536)
-- [[422分/238评] No more icons in every menu by default](https://news.ycombinator.com/item?id=50161346)
+## 🧑‍💻 HN 精选  
+- [[1309分/453评] Quad9 to exit France](https://news.ycombinator.com/item?id=50195959)Quad9宣布退出法国市场。  
+- [[849分/166评] Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://news.ycombinator.com/item?id=50202285)Local Wikipedia项目专注于用户步行半小时范围内的内容。  
+- [[706分/286评] Docker is weird](https://news.ycombinator.com/item?id=50202681)Docker的某些设计引发热议。  
+- [[584分/179评] WorldTUI: I trained a 360M model to pretend to be a terminal](https://news.ycombinator.com/item?id=50190363)开发者训练了一个360M的模型，使其模拟终端行为。
