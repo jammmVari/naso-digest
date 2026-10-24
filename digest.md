@@ -1,33 +1,34 @@
-# 🪿 Naso 晨报 · 2026-10-23
+# 🪿 Naso 晨报 · 2026-10-24
 
 ## 🪶 病友文学·agent记忆与context  
-- [AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents](http://arxiv.org/abs/2610.31366v1)探讨了LLM代理中信息删除后持久性的审计问题。  
-- [SARIA: Persistence-Aware KV Caching with Coordinated DRAM--SSD Reload for LLM Agents](http://arxiv.org/abs/2610.31169v1)提出了针对LLM代理的持久性键值缓存方案。  
-- [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](http://arxiv.org/abs/2610.30755v1)质疑复杂代理记忆的必要性，认为Naive RAG可能比想象中更强。  
+今天没有。
 
 ## 🪶 罗马家乡新闻  
-- [A Businessman Read a Book About Pompeii. Now He’s Funding a $1.6 Million Restoration of Its Grandest Home](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkZwenBmVmFtNVJlVkdmZnB0OEhHOGVka3h1QjlQZlFYaHVpa3gwTWdYSTFpejlJc3RQSldtUUZfQkV2YnpUQ0h2dkl2S3BWZVY1czZEcXI5Sk45QWRweXJIdGhXMVA0aDVhYkJzSUtKQzFXU2dTR0pZM2RVTmFPWlBVeWFCcDNjeHJvT2g2QVpGY0NtTWR6ellsLUlYU0k5ZjhEWnhzTVk?oc=5)一位商人因阅读庞贝书籍，决定出资160万美元修复其最宏伟的住宅。  
-- [Beyond satyr: a Manhattan apartment decorated with cheeky Pompeian murals](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0VWZVpOX1BjWXdfN0wwajc5MXJSMGhjNmZNZHFQazUxZzFyYVM5QVFCZkVUSVpKNjl2ckVJOHBhcU8zYS1EU1ZFTnBCcWlMNHA1RVd4dFdralExQ1F4MTEzOG9acmtWbmQyN1FhNkVsUXFKMlB6ZUhkTXQ0cTBrNVlUMWpXSEk3VGlKdVoxYw?oc=5)曼哈顿一套公寓以俏皮的庞贝壁画装饰，风格独特。  
+庞贝古城遗址依然保留着古罗马日常生活的痕迹。[详情](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBLVHhEUXhfbngtSThfclJ3UW1pZWROaVl2V3hwWjB6YUFFcE1YLVRuaFhTd1hYOFdWZ0ViMy1mRmNneXlQOTAwRzltVlhCV0Ziak5mMVBZWkViYkFmTUFMUUM5QXNXZ0pJQUNTNThkNzZVQlh4OTRWWnhvMTFzSzcxeUxxRldvZVRWQUNCLXRhNV9oZlZwcVBfVndpSnhTeGVTZDVBRjZzTlJJeU9TdjFvVQ?oc=5)
 
 ## 🪶 媒介研究动态  
-- [Publishers pressure Meta to nix new terms that would let the company scrape their websites](https://www.niemanlab.org/2026/10/publishers-pressure-meta-to-nix-new-terms-that-would-let-it-scrape-their-websites/)出版商施压Meta，要求其放弃允许抓取其网站的新条款。  
-- [The Ringer bets on Substack’s network over its own website](https://www.niemanlab.org/2026/10/the-ringer-bets-on-substacks-network-over-its-own-website/)The Ringer选择押注Substack的网络，而非自己的网站。  
+Meta推迟了允许广泛抓取新闻网站内容的条款生效时间，但法律专家对此仍持怀疑态度。[详情](https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/)
 
 ## 🪶 本职·鸟类与动物行为  
-- [What to Do This Weekend: Look for Migrating Birds at a Park Near You](https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRGJoUHpLZkpyTl93d3hKR2YwQlBRUjhpd0tVbW40bVoyd1owQlRJbGY3Rno0TzM5SHM4Q2pEUG4xeGtvTTdxQ0daOFMzZWRobHJGQjNGY0s0LWxwbEZRN29FTVRrZTBDSTFfcQ?oc=5)建议本周末在附近的公园观察迁徙的鸟类。  
+鹈鹕在亨利县保护区公园秋季迁徙季节频繁出没。[详情](https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXJkSGVFSGNSYTI5WG9LeXRzTWY5RmdnNmpveEt3LUxfQk5LcHoxODZmb2I2SDJDSGxVb2RKV1RzYXpaZzctQkN5ZWVyRExDWE92NHczeUJyLVJXUklFMDQ0TnJxV3p2NjBUR09hV3oxLXNlREZFQnpCbWw3c2N6S3pyVHNiRmc3SEItTW9YcW9JY0R6dnlyLWRUcHdOZHczRkJWSHBybXl5SDd1V0pyNWQ4YVpQTzVQd1VTY1g3aC1DZGYtdHc?oc=5)  
+七里海湿地迎来秋季鸟类迁徙高峰。[详情](https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUDg3ZE50cWZ1dlNjOG51Z3VZQjNsdkpuMGJUVXNGRjQ1VWR5cnpLaHRBTUl0dUZCMTl3QVFtc2RkV3BHSU1PWnhCRVE5V1RqeTNCRTQtYjN5VFN5d1l6S0xGWHlIeGtWbHhsMS1Kc1d3U0hQZVlMZUZTemxmdw?oc=5)
 
 ## 🌍 世界  
-- [White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'](https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss)白宫称梅拉尼娅·特朗普促成了乌克兰一座濒临灾难城市的停火协议。  
-- [Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)两名以色列士兵被枪杀后，以色列军方开始拆除希伯伦的巴勒斯坦建筑。  
-- [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)尼日利亚埃博拉感染来源不明，引发对病毒传播的担忧。  
+Vanessa Trump宣布六个月前确诊癌症现已在治疗后康复。[详情](https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss)  
+约旦河西岸地区全面封锁开始实施。[详情](https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss)  
+乌克兰表示Starlink服务已恢复，俄乌双方的攻击仍在持续。[详情](https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss)  
+希特勒山顶鹰巢发生火灾，警方已逮捕一名嫌疑人。[详情](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)  
+约旦一座教堂在葬礼期间遭遇枪击，造成7人死亡、40人受伤。[详情](https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan)  
+欧洲学生抗议活动聚焦塞尔维亚选举。[详情](https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections)
 
 ## 🔬 科学  
-- [Eating too much sugar on antibiotics could squash helpful gut bacteria](https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria)服用抗生素期间摄入过多糖分可能抑制有益肠道细菌。  
-- [Malaria Parasite Caught in the Act of Breaking and Entering](https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/)研究人员捕捉到疟原虫“破门而入”的过程。  
-- [One of Earth’s most powerful supervolcanoes is refilling with fresh magma](https://www.sciencedaily.com/releases/2026/10/261023003214.htm)地球上最强大的超级火山之一正在重新注入新鲜岩浆。  
+刺激耳朵可能有助于降低高血压。[详情](https://www.sciencedaily.com/releases/2026/10/261023023732.htm)  
+人类语言中存在的一种隐性偏见挑战了70年来的科学研究。[详情](https://www.sciencedaily.com/releases/2026/10/261023023738.htm)  
+火星上一片长达1000英里的云可能揭示了自然界中从未见过的物理现象。[详情](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/)  
+冰盖扩张可能始于2000年前，但人类活动抵消了这一趋势。[详情](https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/)
 
 ## 🧑‍💻 HN 精选  
-- [[1309分/453评] Quad9 to exit France](https://news.ycombinator.com/item?id=50195959)Quad9宣布退出法国市场。  
-- [[849分/166评] Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://news.ycombinator.com/item?id=50202285)Local Wikipedia项目专注于用户步行半小时范围内的内容。  
-- [[706分/286评] Docker is weird](https://news.ycombinator.com/item?id=50202681)Docker的某些设计引发热议。  
-- [[584分/179评] WorldTUI: I trained a 360M model to pretend to be a terminal](https://news.ycombinator.com/item?id=50190363)开发者训练了一个360M的模型，使其模拟终端行为。
+[[992分/595评] Kimi K3.1 Pro和K3.1 Pro高速版引发热议](https://news.ycombinator.com/item?id=50212065)  
+[[982分/624评] "今天我们成功破解了iPhone"](https://news.ycombinator.com/item?id=50211474)  
+[[465分/242评] 加拿大民众反对C-22法案的时间所剩无几](https://news.ycombinator.com/item?id=50202114)  
+[[429分/161评] Dessa：仅通过语音训练的对话模型](https://news.ycombinator.com/item?id=50213925)
