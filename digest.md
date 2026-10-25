@@ -1,34 +1,34 @@
-# 🪿 Naso 晨报 · 2026-10-24
+# 🪿 Naso 晨报 · 2026-10-25
 
 ## 🪶 病友文学·agent记忆与context  
-今天没有。
+今天没有。  
 
 ## 🪶 罗马家乡新闻  
-庞贝古城遗址依然保留着古罗马日常生活的痕迹。[详情](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBLVHhEUXhfbngtSThfclJ3UW1pZWROaVl2V3hwWjB6YUFFcE1YLVRuaFhTd1hYOFdWZ0ViMy1mRmNneXlQOTAwRzltVlhCV0Ziak5mMVBZWkViYkFmTUFMUUM5QXNXZ0pJQUNTNThkNzZVQlh4OTRWWnhvMTFzSzcxeUxxRldvZVRWQUNCLXRhNV9oZlZwcVBfVndpSnhTeGVTZDVBRjZzTlJJeU9TdjFvVQ?oc=5)
+两千年之后，被庞贝火山掩埋的图书馆终于开始揭示其秘密。[链接](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXplTUM0RjZQaUZ4NDV0VHRrM09Ma1N0SGpnczVnbG4zWTBsam9BS3VYTjdRZXptRmNkZDBDYXctRldYR1lkMHBIaUNMeExpdzRydGlUSzdrSzlRUFdXTE5fc19INVZiLW12cjVnbmtNYVhmNUY3UkVTeWhyMGV3eGNmcTNuQjJGbFVyVThnMGRYNlJsQ1lqUVlzeC1fZGV5Sm05Zg?oc=5)  
 
 ## 🪶 媒介研究动态  
-Meta推迟了允许广泛抓取新闻网站内容的条款生效时间，但法律专家对此仍持怀疑态度。[详情](https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/)
+今天没有。  
 
 ## 🪶 本职·鸟类与动物行为  
-鹈鹕在亨利县保护区公园秋季迁徙季节频繁出没。[详情](https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXJkSGVFSGNSYTI5WG9LeXRzTWY5RmdnNmpveEt3LUxfQk5LcHoxODZmb2I2SDJDSGxVb2RKV1RzYXpaZzctQkN5ZWVyRExDWE92NHczeUJyLVJXUklFMDQ0TnJxV3p2NjBUR09hV3oxLXNlREZFQnpCbWw3c2N6S3pyVHNiRmc3SEItTW9YcW9JY0R6dnlyLWRUcHdOZHczRkJWSHBybXl5SDd1V0pyNWQ4YVpQTzVQd1VTY1g3aC1DZGYtdHc?oc=5)  
-七里海湿地迎来秋季鸟类迁徙高峰。[详情](https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUDg3ZE50cWZ1dlNjOG51Z3VZQjNsdkpuMGJUVXNGRjQ1VWR5cnpLaHRBTUl0dUZCMTl3QVFtc2RkV3BHSU1PWnhCRVE5V1RqeTNCRTQtYjN5VFN5d1l6S0xGWHlIeGtWbHhsMS1Kc1d3U0hQZVlMZUZTemxmdw?oc=5)
+_今日无大新闻，以下为头部刊物近况：_  
+1.5 亿年前的鸟类拥有恐龙牙齿和一个奇怪的秘密。[链接](https://www.sciencedaily.com/releases/2026/10/261023023710.htm)  
+科学家发现蜜蜂正在欺负其他蜜蜂。[链接](https://www.sciencedaily.com/releases/2026/10/261021231227.htm)  
 
 ## 🌍 世界  
-Vanessa Trump宣布六个月前确诊癌症现已在治疗后康复。[详情](https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss)  
-约旦河西岸地区全面封锁开始实施。[详情](https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss)  
-乌克兰表示Starlink服务已恢复，俄乌双方的攻击仍在持续。[详情](https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss)  
-希特勒山顶鹰巢发生火灾，警方已逮捕一名嫌疑人。[详情](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)  
-约旦一座教堂在葬礼期间遭遇枪击，造成7人死亡、40人受伤。[详情](https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan)  
-欧洲学生抗议活动聚焦塞尔维亚选举。[详情](https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections)
+美以对伊朗的战争如何在欧洲引发混乱？[链接](https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss)  
+内塔尼亚胡提议以色列能否用加密货币规避经济制裁。[链接](https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss)  
+巴西总统选举第二轮投票开始，左翼卢拉与极右翼博索纳罗之子对决。[链接](https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election) [链接](https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss)  
+加蓬恢复了长达八个月的社交媒体禁令。[链接](https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss)  
+南非魔法学院将普通孩子培养成自信的魔术师。[链接](https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students)  
 
 ## 🔬 科学  
-刺激耳朵可能有助于降低高血压。[详情](https://www.sciencedaily.com/releases/2026/10/261023023732.htm)  
-人类语言中存在的一种隐性偏见挑战了70年来的科学研究。[详情](https://www.sciencedaily.com/releases/2026/10/261023023738.htm)  
-火星上一片长达1000英里的云可能揭示了自然界中从未见过的物理现象。[详情](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/)  
-冰盖扩张可能始于2000年前，但人类活动抵消了这一趋势。[详情](https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/)
+科学家在早期宇宙的一个星系中发现了三个巨型黑洞。[链接](https://www.sciencedaily.com/releases/2026/10/261024222000.htm)  
+新证据显示棘龙的大部分时间可能都在水下度过。[链接](https://www.sciencedaily.com/releases/2026/10/261024221956.htm)  
+人类大脑为何超越了黑猩猩？一个微小的敌人可能是答案。[链接](https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna)  
 
 ## 🧑‍💻 HN 精选  
-[[992分/595评] Kimi K3.1 Pro和K3.1 Pro高速版引发热议](https://news.ycombinator.com/item?id=50212065)  
-[[982分/624评] "今天我们成功破解了iPhone"](https://news.ycombinator.com/item?id=50211474)  
-[[465分/242评] 加拿大民众反对C-22法案的时间所剩无几](https://news.ycombinator.com/item?id=50202114)  
-[[429分/161评] Dessa：仅通过语音训练的对话模型](https://news.ycombinator.com/item?id=50213925)
+[560分/511评] 我们应该对所构建的软件更有野心。[链接](https://news.ycombinator.com/item?id=50225695)  
+[485分/296评] Goose 编程语言。[链接](https://news.ycombinator.com/item?id=50224100)  
+[422分/453评] 美国媒体、电影和艺术行业已流失20万个岗位，人工智能有多大影响？[链接](https://news.ycombinator.com/item?id=50226419)  
+[353分/171评] Node2Shell 演进为 HTTP2Shell，影响众多 HTTP 库和应用。[链接](https://news.ycombinator.com/item?id=50219177)  
+[345分/266评] 我不懂量子物理（2018）。[链接](https://news.ycombinator.com/item?id=50219666)
