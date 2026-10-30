@@ -1,30 +1,35 @@
-# 🪿 Naso 晨报 · 2026-10-29
+# 🪿 Naso 晨报 · 2026-10-30
 
 ## 🪶 病友文学·agent记忆与context  
-- [When the Critic Falls Behind: Co-Evolving Rubrics and Harnesses for Continual Agent Self-Improvement](http://arxiv.org/abs/2610.36826v1)：研究者探讨了如何在持续自我改进中协同演化评鉴标准和约束机制。  
+- [Don't Lose the Thread](http://arxiv.org/abs/2610.40350v1) 提出了一种认知资源自分配方法，以增强长期 LLM 代理的表现。  
+- [MAServeBench](http://arxiv.org/abs/2610.40293v1) 开发了一种多代理 LLM 服务系统基准测试工具，用于评估分层协作工作负载。  
+- [AI Cosmos](http://arxiv.org/abs/2610.40031v1) 介绍了情境学习的代理基础设施，旨在推动 AI 在实际环境中的应用。  
+- [NORmal](http://arxiv.org/abs/2610.40000v1) 提出了一种基于三维铁电 NOR 闪存的主内存架构，以支持智能手机中的 200B 级别多代理 LLM。  
+- [Finding Is Not Returning](http://arxiv.org/abs/2610.39781v1) 对代理社会重返进行了多维评估，揭示了重返与重建之间的差异。  
 
 ## 🪶 罗马家乡新闻  
-- [Pompeii cupboard opens window onto life before Vesuvius erupted - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3dyT0xxVXM0QjVEX05XQnNVMFU0U21VZTRaNVN4ZnczTmxtUHV0ejJMaHFuem1lQ2pRVjJJc1hFZHloSXIyWi1kWWFpOVRpMXR2RjRkTVpLZUYxeGd4ay11MDVvWlFxaUxjM1NzVnA3aGZESkV1OWpmSXhjWm1pY256WkhzcG9qeGVscDJ1TDVDTFM5V1NnaUZpckhWNURhTVF1bXJtNnh4LTBQU2c?oc=5)：庞贝古城一密封2000年的橱柜揭示了维苏威火山爆发前的生活细节。  
-- [In Pompeii, a woman's wardrobe resurfaces with beauty items and jewels - Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZm5obWJaQUd5WkctSnBRNXpQVGFhMWsxckp0dXB2VUJtTVpiYXhZbHZVck1wbzJiQjJFN3R1eFQ3UWNGb0VmVVduYVdVMUk0dGVQeFUyN3FwZFdZSl9SZVZlelFRdVhHRXRPQUJZZjJzWkQ3VlZOLVJOcGV6ZkRidjRNLS1QVm5yeVBPRGRZLW1JMEs2dXpHbDRUWHVHZlhGZmpuRmNUZw?oc=5)：庞贝古城发掘出一位女性的衣橱，内含化妆品和珠宝。  
+- [Pompeii wardrobe found untouched since 79 CE](https://news.google.com/rss/articles/CBMihwFBVV95cUxNa0VYakh4Q2NwSEI0Qzc1eTBpcllkWGRBQi1KQjM3anBxOThjOWpqQUExVXhMNXVoLTdzTS1WLXpnbW5hNmhBREdFVzVsdXFmTEtTUTNTX1UzWVEtMThJMlpScFdtTG9LVDRqR08ybUpwYlBkUkZVd2tWMWRKUV80YTVfcUtBRjQ?oc=5) 报道了庞贝古城中发现的一件保存完好的衣柜，内含硬币、项链和两只老鼠骨骼。  
+- [Ancient cosmetics, coins, mouse skeletons found in Pompeii home](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDJaTE1SREZNR1drcUVLaXJ5aEhqVHptLXAzdVV0QlYzNEhZVXpnd2ljNmF3bkl1dENkODBuN3lvS1VCOE5sYXRhYkQybFRLUjBnNGNIUlJaRjFlQ1d0SXpjMFU5Tm5NWW8tQWRVbmJNLVFvMzRZeDBLYXpuSXlDa0pB?oc=5) 揭示了庞贝古城中一位女性居民的生活细节，包括化妆品、硬币和老鼠骨骼等文物。  
 
 ## 🪶 媒介研究动态  
-- [The New York Times is adding more AI features to its Cooking app, and users aren’t thrilled](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/)：《纽约时报》在其烹饪应用中增加更多AI功能，但用户反响不佳。  
-- [Meta pledges to consult publishers before finalizing its new terms](https://www.niemanlab.org/2026/10/meta-pledges-to-consult-publishers-before-finalizing-its-new-terms/)：Meta承诺在最终确定新条款前与出版商协商。  
+- [Press Forward gave $20 million to 205 local newsrooms](https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/) 报道了“Press Forward”项目向 205 家地方新闻机构提供了 2000 万美元资助的使用情况。  
+- [Only 32% of Americans have high confidence that news orgs will report midterm election results accurately](https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/) 调查显示，仅有 32% 的美国人对新闻机构准确报道中期选举结果有高度信心。  
 
 ## 🪶 本职·鸟类与动物行为  
 今天没有。  
 
 ## 🌍 世界  
-- [EU chief lays out vision for new Canada partnership at Montreal summit](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss)：欧盟领导人在蒙特利尔峰会上提出了与加拿大新合作的愿景。  
-- [European Central Bank President Lagarde to step down early](https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss)：欧洲央行行长拉加德宣布将提前卸任。  
-- [US and Japan agree to establish a Japanese facility for joint missile production](https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production)：美国和日本同意在日本设立联合导弹生产设施。  
+- [US inmate Christa Pike says she woke up 'confused and in pain' after failed execution](https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss) 美国死刑犯 Christa Pike 因执行失败后醒来，称自己“困惑且疼痛”。  
+- [Canada stops using 'avalanche dogs' for rescues in Rocky Mountains](https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss) 加拿大决定在落基山脉救援中停止使用雪崩搜救犬，引发争议。  
+- [Police in Scotland launch Andrew and Epstein royal castle investigation](https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss) 苏格兰警方启动对安德鲁王子和爱泼斯坦相关皇家城堡的调查。  
+- [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance) 区块链情报公司将 Binance 63 亿美元的黑客攻击与朝鲜联系起来。  
 
 ## 🔬 科学  
-- [Some of the world’s biggest bats are getting smaller](https://www.sciencenews.org/article/bats-get-smaller-madagascan-flying-fox)：研究发现，世界上最大的蝙蝠之一——马达加斯加狐蝠体型正在缩小。  
-- [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)：文章解释了科学家如何拍摄黑洞的照片。  
-- [Six popular sugar substitutes linked to faster brain aging](https://www.sciencedaily.com/releases/2026/10/261028234238.htm)：六种流行的人工甜味剂可能会加速大脑衰老。  
+- [NASA’s Swift telescope will face a fiery demise after a failed rescue](https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst) NASA 的 Swift 望远镜因救援失败将面临坠毁命运。  
+- [A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy](https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/) 一份新的“空旷”空间地图挑战了银河系的宁静图景。  
+- [Physicists created a tiny universe and watched time emerge without a clock](https://www.sciencedaily.com/releases/2026/10/261028234703.htm) 物理学家创建了一个微型宇宙，并观察到了无时钟情况下时间的涌现。  
 
 ## 🧑‍💻 HN 精选  
-- [[714分/619评] StackOverflow now gets fewer than 1000 questions a month](https://news.ycombinator.com/item?id=50282454)：StackOverflow每月提问量已降至1000条以下。  
-- [[663分/139评] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://news.ycombinator.com/item?id=50282838)：Qwenputer展示了在Qwen3.5中运行的确定性RISC-V CPU。  
-- [[646分/165评] We're releasing the weights of Mistral Large 4](https://news.ycombinator.com/item?id=50289418)：Mistral Large 4的权重被公开发布。
+- [[1690分/1136评] Binance-hacker-1029 – $5.6B stolen from Binance](https://news.ycombinator.com/item?id=50296470) Binance 遭遇黑客攻击，损失达 56 亿美元，引发热议。  
+- [[530分/363评] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://news.ycombinator.com/item?id=50302814) 美国民主党议员提出决议，反对为科技巨头提供 AI 泡沫救助。  
+- [[373分/153评] We ran AI agent swarms in Minecraft and Mindustry](https://news.ycombinator.com/item?id=50296486) 有团队在 Minecraft 和 Mindustry 中运行了 AI 代理群实验，引发关注。
