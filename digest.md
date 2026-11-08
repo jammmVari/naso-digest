@@ -1,34 +1,43 @@
-# 🪿 Naso 晨报 · 2026-11-07
+# 🪿 Naso 晨报 · 2026-11-08
 
-## 🪶 病友文学·agent记忆与context  
-今天没有。  
+## 🪶 病友文学·agent记忆与context
 
-## 🪶 罗马家乡新闻  
-庞贝古城一封闭近 2000 年的木质衣柜首次被考古学家打开，内含大量珍贵文物。[链接](https://news.google.com/rss/articles/CBMigAJBVV95cUxPdDM1Yjk1NW9CeHZ0UHF1bU50WVhrZ1BnWWpUa2htQlIxV2NJdlJZNlk1a21BU2VfNkUwV1BnbVRxNi05TmtOdFBCX2hteF9QSE9XMkdiLWptelZrcFJXZ0Y3TG9ST3hmWjFRYmNWZUdRMmFEeHQyZ1ZqMjBmVUZEa244SHNqUXg1UUI0Vk9POVA0cTdXZ1JrV1QzUzhrRENDaGllUFZ6Q0ZkaWIyY294ZTBfQkROWDZDQjhOLUpBaWVWalV2bUZpVFJ4bm1UcmRZaDNYN3FMdmpzY2QwMGYtTDViYlQwSEh5RnZPaUhaTFRORi1kdkliWTY3UnFUUkV0?oc=5)  
-考古学家在庞贝古城发现一件橱柜，内含公元 79 年火山爆发时埋藏的 38 枚硬币和一袋童年护身符。[链接](https://news.google.com/rss/articles/CBMic0FVX3lxTE9qY2xsRTZjTzBlX0NWN2o5bmpEVDdwTFEzRVYzYmhnejVTdC1Vcks5akJjZFhlMmpnMDFKeWotZTBFWjlGU25CMmc0VnMtTi1fU3kwMEMwUHBScVprNE9ZSVk3RjdRY0VMazQ2YWpMUjMwTU0?oc=5)  
+今天没有。
 
-## 🪶 媒介研究动态  
-今天没有。  
+## 🪶 罗马家乡新闻
 
-## 🪶 本职·鸟类与动物行为  
-随着气温下降和鸟类迁徙季节的到来，禽流感在德国再次蔓延。[链接](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNmJweHBrcElxbVVUOVh4V1hwU0c4QlB5aFY4TGRmMDNlWnRKbnBnNi1MLU9MWWlxOHl3bW1VX3RCeTI5eThEbTZIMHVQekJ0cktwZ0lMeFlySm5jVENWRklTZ0lRUC10a3Q1UHhfMmp3UE53QlJwT09zVTlPaGVKSEcybkZBby12LU1lNHNmcEdyX0ZCNENZT01qVmZaZFhEZXdpekY1czRmNVNuLWNtajlrWnpiUGZiQl83R0ljT1BWWi1xdUtfTlNuOUl0Y2VSNU05NkhpWlFZZ0R3SFJjU2tyQkNaMVZ4cGNn?oc=5)  
+据报道，育碧正在开发两款新的《刺客信条》游戏，其中一个设定在古罗马。[链接](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yaV9ObElfZDk0NGY2YThFOVkzS2J2SG85TDE3ejk5cTNEYlc4c0ZEcGpuZDlwQkZOWHY3ZEd3OVllRHR1NzZLclNJYjBZZVc5R0FvWnRWV2ZScWxOdEJ1VVJxSQ?oc=5)  
+另一则消息称，《刺客信条：Hexe》推迟一年发布，同时育碧正开发另一款设定在古罗马的《刺客信条》游戏。[链接](https://news.google.com/rss/articles/CBMigAJBVV95cUxPV3dfMzNvUFBCRGptbzRWQk0wRnZaclF0TlJTRUZoZEl2SkhpbFhQenpDRGdFa1kxeDVDTjUtOUdyNkxWRUs5Z0ZCS2RfSGxBLW0tTTdmTS1rc0x1ZXJ2RzhWbS1hZWJsYndDWmxPZkZISmFNVVRleU5FWjhxMVBJaF9Ial9SU1F6dnFpbGtLbmtLSTRLOERUTEhJYldzT2pySDRLZ1JlU1NMVER5NzZDZU5CRDdVbjBCTnhlWkotMmV1WDhfLUF6eUQ3ZGlHU3daY2hwVGp6RkpwSUJncW5zUjRxakVfdFV2MXp2dU12VHVvRlZvTFZwb2J5NkZPVHBo?oc=5)  
+未公布的两款《刺客信条》游戏可能分别设定在古罗马和耶路撒冷。[链接](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0piT0hJMUtnazU1UldQN3J5blNKREg1X3ZWWW4zeWdQblNvTWZTMnktSzJXZU1BbEJqQ01fanZHM0Y1U1YtdG5zb0tqRFh0Rm4zYVpWU3EzWlZhamhPWjZaWGdnXy1PNUk4RkwyQVVhajZXcHR5V3VLSF9UbkxvM3p6NkVNSThoVG80RWZOQzlmR196ZDdlV2RGTHVHRGtwRW5JQ3I4RFlnaGJtNVFhMHNTRUFKei13TnEzb2ZNSk5XUQ?oc=5)
 
-## 🌍 世界  
-意大利外长称黑客泄露了他的个人数据。[链接](https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss)  
-以色列在黎巴嫩南部修建了 90 公里的军事道路网络。[链接](https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss)  
-危地马拉一名议员和三名警察在武装袭击中身亡。[链接](https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss)  
-新西兰大选结果未出现明显赢家。[链接](https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss)  
-巴拉圭被罢免总统被软禁，银行业危机导致该国 60% 的人无法访问账户。[链接](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts)  
+## 🪶 媒介研究动态
 
-## 🔬 科学  
-Bantu 扩张改变了非洲，科学家仍在追溯其影响。[链接](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/)  
-人类仅通过维持生命每年就产生 20 亿吨二氧化碳。[链接](https://www.sciencedaily.com/releases/2026/11/261104012305.htm)  
-科学家发现欧洲古代森林与我们所想象的完全不同。[链接](https://www.sciencedaily.com/releases/2026/11/261104012333.htm)  
-地球动荡的地幔可能创造了“大不整合”地质现象。[链接](https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/)  
+今天没有。
 
-## 🧑‍💻 HN 精选  
-Libghostty 1.0 发布，获得 894 分高分。[链接](https://news.ycombinator.com/item?id=50399933)  
-Jev 可通过询问 Opus 获得帮助，在 4 倍低成本下实现 Opus 的准确性。[链接](https://news.ycombinator.com/item?id=50397429)  
-《极品飞车：地下狂飙 2》可在浏览器中在线游玩。[链接](https://news.ycombinator.com/item?id=50403052)  
-每部 Mac 都配备了一个未记录的家庭成员分类功能。[链接](https://news.ycombinator.com/item?id=50403097)  
-美国 FAA 宣布将在 2028 年前逐步淘汰空中交通管制中的软盘。[链接](https://news.ycombinator.com/item?id=50388001)
+## 🪶 本职·鸟类与动物行为
+
+研究发现，鸟类鸣叫可能塑造了人类语言的演变，两者存在相似性。[链接](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdEJleXBGQXlYeS1VY1IweTUxOEl5ZjFVYzBDWjBWVFc1RzE1WFNrM0ZSaHJlTU0wcHdNdjZPanRJanZENXVUdk1lQjFjc3BmQ2tHWkNHTnRsakxwb3V0THZtNEh5NDlQRzdiR1FZRzNzQW8zTG1OSjFROFNHa0FtaktUdU5DYnh2QnpJY1JtLTBMdFdjVUE?oc=5)  
+麦吉尔大学研究发现，人类语音与鸟类鸣叫有许多共同点。[链接](https://news.google.com/rss/articles/CBMiWkFVX3lxTE01bVFFT04wYzFWY2hoSDhvR1gxWldacHNyRU5KcDhITjJyTFQ5LWlWZFY3Ujh2Y05WOHMxUGU3WlhLLXo2T0l3Y2hOWTFtZG94dHNndE5OaEF1UQ?oc=5)
+
+## 🌍 世界
+
+马德里竞技对阵巴塞罗那的西甲比赛正在进行中。[链接](https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss)  
+印度的“蟑螂”运动旨在恢复问责文化。[链接](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss)  
+新西兰大选未产生明确赢家，领导人将进入数周的谈判阶段。[链接](https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks)  
+埃及两列火车相撞，至少4人死亡。[链接](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision)  
+教皇利奥在乌拉圭成功访问后，启程前往阿根廷。[链接](https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina)  
+克拉科夫发生枪击事件，目前已知信息汇总。[链接](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss)
+
+## 🔬 科学
+
+物理学家通过监听电噪声破解了超导体之谜。[链接](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/)  
+核爆炸可能拯救地球免受小行星撞击，但存在一些限制。[链接](https://www.sciencedaily.com/releases/2026/11/261106174532.htm)  
+一座西伯利亚古墓揭示了2800年前使用大麻的惊人秘密。[链接](https://www.sciencedaily.com/releases/2026/11/261106174528.htm)
+
+## 🧑‍💻 HN 精选
+
+有用户分享了他在10美元OpenStick家庭实验室上运行的内容，获得691分/125评。[链接](https://news.ycombinator.com/item?id=50406670)  
+一篇题为“再见Claude，你好Pi”的帖子引发热议，得分546分/346评。[链接](https://news.ycombinator.com/item?id=50410107)  
+Claude Code的“不再询问”功能暴露了1122个GitHub文件中的密码，引发500分/359评的讨论。[链接](https://news.ycombinator.com/item?id=50407882)  
+一篇帖子称“每个Windows 11应用都应终结Electron，Discord展示了原因”，获得406分/407评。[链接](https://news.ycombinator.com/item?id=50403507)  
+MaxxBench的深度软件工程评分引发355分/100评的讨论。[链接](https://news.ycombinator.com/item?id=50406222)
