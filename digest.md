@@ -1,43 +1,46 @@
-# 🪿 Naso 晨报 · 2026-11-08
+# 🪿 Naso 晨报 · 2026-11-09
 
 ## 🪶 病友文学·agent记忆与context
 
-今天没有。
+- [MemoryDojo：通过LLM代理记忆进行中毒测试的基准](http://arxiv.org/abs/2611.09721v1)  
+- [TwinHash：面向高效时序和能量管理的工作流工具](http://arxiv.org/abs/2611.09254v1)  
+- [ODD+LLM：为可复现的社会模拟指定LLM代理行为](http://arxiv.org/abs/2611.08932v1)  
 
 ## 🪶 罗马家乡新闻
 
-据报道，育碧正在开发两款新的《刺客信条》游戏，其中一个设定在古罗马。[链接](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yaV9ObElfZDk0NGY2YThFOVkzS2J2SG85TDE3ejk5cTNEYlc4c0ZEcGpuZDlwQkZOWHY3ZEd3OVllRHR1NzZLclNJYjBZZVc5R0FvWnRWV2ZScWxOdEJ1VVJxSQ?oc=5)  
-另一则消息称，《刺客信条：Hexe》推迟一年发布，同时育碧正开发另一款设定在古罗马的《刺客信条》游戏。[链接](https://news.google.com/rss/articles/CBMigAJBVV95cUxPV3dfMzNvUFBCRGptbzRWQk0wRnZaclF0TlJTRUZoZEl2SkhpbFhQenpDRGdFa1kxeDVDTjUtOUdyNkxWRUs5Z0ZCS2RfSGxBLW0tTTdmTS1rc0x1ZXJ2RzhWbS1hZWJsYndDWmxPZkZISmFNVVRleU5FWjhxMVBJaF9Ial9SU1F6dnFpbGtLbmtLSTRLOERUTEhJYldzT2pySDRLZ1JlU1NMVER5NzZDZU5CRDdVbjBCTnhlWkotMmV1WDhfLUF6eUQ3ZGlHU3daY2hwVGp6RkpwSUJncW5zUjRxakVfdFV2MXp2dU12VHVvRlZvTFZwb2J5NkZPVHBo?oc=5)  
-未公布的两款《刺客信条》游戏可能分别设定在古罗马和耶路撒冷。[链接](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0piT0hJMUtnazU1UldQN3J5blNKREg1X3ZWWW4zeWdQblNvTWZTMnktSzJXZU1BbEJqQ01fanZHM0Y1U1YtdG5zb0tqRFh0Rm4zYVpWU3EzWlZhamhPWjZaWGdnXy1PNUk4RkwyQVVhajZXcHR5V3VLSF9UbkxvM3p6NkVNSThoVG80RWZOQzlmR196ZDdlV2RGTHVHRGtwRW5JQ3I4RFlnaGJtNVFhMHNTRUFKei13TnEzb2ZNSk5XUQ?oc=5)
+- [育碧据传正在开发以古罗马和耶路撒冷为背景的《刺客信条》新作](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUi15SmtoTkJXNWJHLUJLaVhHSGRyODdpendPT0FhVHZVTkxCZjlqX3kxejFEZFFPVTdId3RhdDg5VlBEUmxlR3MwY1pMNmg2ZkRzYndHVW8wRGZrTDB5aG1WMmk3Zng0N3djNlpuZ1pWN1N6XzF0UFdoM1BvN2FnWGdOMktxaFBUTVI3QVJTbktZWE00S21CeWNIYkNZMWYwMlFhcDEzOEF3OVpGZS13YzFaOFE?oc=5)  
 
 ## 🪶 媒介研究动态
 
-今天没有。
+- [加拿大延长地方新闻倡议项目和新闻税收抵免政策](https://www.niemanlab.org/2026/11/its-either-this-or-death-frankly-canada-renews-the-local-journalism-initiative-and-extends-journalism-tax-credit/)  
+- [学生记者为真实受众报道更多地方新闻，但教授们倍感疲惫](https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/)  
 
 ## 🪶 本职·鸟类与动物行为
 
-研究发现，鸟类鸣叫可能塑造了人类语言的演变，两者存在相似性。[链接](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdEJleXBGQXlYeS1VY1IweTUxOEl5ZjFVYzBDWjBWVFc1RzE1WFNrM0ZSaHJlTU0wcHdNdjZPanRJanZENXVUdk1lQjFjc3BmQ2tHWkNHTnRsakxwb3V0THZtNEh5NDlQRzdiR1FZRzNzQW8zTG1OSjFROFNHa0FtaktUdU5DYnh2QnpJY1JtLTBMdFdjVUE?oc=5)  
-麦吉尔大学研究发现，人类语音与鸟类鸣叫有许多共同点。[链接](https://news.google.com/rss/articles/CBMiWkFVX3lxTE01bVFFT04wYzFWY2hoSDhvR1gxWldacHNyRU5KcDhITjJyTFQ5LWlWZFY3Ujh2Y05WOHMxUGU3WlhLLXo2T0l3Y2hOWTFtZG94dHNndE5OaEF1UQ?oc=5)
+- [鸟类迁徙模式的最新研究发现](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SRFQzZGdXOHFPQ1dWd3VQY3ZLZXZMTVF6aDFsY0l3dTYzVWtGOGEwVHNkOUxMUmdiODZ5TDU5MUpoNXJ4OFd3OHR2dzV3NEU1SVpDRjVlWnp2NWp2N2xfUC00enlQb2hkRlHSAX5BVV95cUxNN2xBa0IzS2lFQndqcnVrUGh3NEF3V1BtQl9VSC1PeGlFWEZ4LVUySnJpZzQ1M1JtbkEwWl80ay1wZUNiT0NJVURGN3pvVEZ6c1NpQXV3czl6ek5fNkI3UUh6RjJWM296anJQNFdwUXZlZzZUZU1PZU9TNndwaGc?oc=5)  
+- [威斯康星州家禽和乳制品生产者被敦促在鸟类迁徙期间加强生物安全措施](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbzBuVjBNREFQOFI2ZWJBSURNTEFWdVVhbXVLTGRvYVB5a1pnTzRoME92Y1N0OVUyWEpNaDQ3bVZac3ZBNS1feHhGT1JVX0E4VXhFdzlJcVRzNGwyV21MVV9GdUdHZ0wxX3NlNmo3LUlsc0V1bzcxcHdvVHFzVjFoWl9HYWo4a3RPdmJSanNuaEtGMjlBajRHSHZUNmlDWlhaTzFZOU5EdUQxdkRWZlhqWTk1dng5aTExQVAwajd3bWs1MXM5NkVSbXFhdUJPd3dC?oc=5)  
+- [巨型发光鸟巢雕塑可响应人类声音播放鸟鸣](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TYkpSaExIN1I1M1NMbm9kVWg2al9QMHRXOG9kNFV4NFAxQjBua0tsT2M0RHZBamFjYXBvNjhEalNqOHR1ZTNMNXlpRTBYVlBSYk9NTm5BT3o?oc=5)  
 
 ## 🌍 世界
 
-马德里竞技对阵巴塞罗那的西甲比赛正在进行中。[链接](https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss)  
-印度的“蟑螂”运动旨在恢复问责文化。[链接](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss)  
-新西兰大选未产生明确赢家，领导人将进入数周的谈判阶段。[链接](https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks)  
-埃及两列火车相撞，至少4人死亡。[链接](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision)  
-教皇利奥在乌拉圭成功访问后，启程前往阿根廷。[链接](https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina)  
-克拉科夫发生枪击事件，目前已知信息汇总。[链接](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss)
+- [共和党议员将推动对国防部长赫格斯进行弹劾投票](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss)  
+- [法官驳回林赛·克兰西谋杀案的撤诉动议](https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss)  
+- [COP31在能源危机中开幕，活动人士要求采取气候行动](https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss)  
+- [前马来西亚总理纳吉布·拉扎克将被转移至居家监禁吗？](https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss)  
+- [排灯节烟花加剧季节性污染，新德里被浓雾笼罩](https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution)  
+- [英国喜剧演员拉塞尔·布兰德因强奸和性侵被判10年以上徒刑](https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced)  
 
 ## 🔬 科学
 
-物理学家通过监听电噪声破解了超导体之谜。[链接](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/)  
-核爆炸可能拯救地球免受小行星撞击，但存在一些限制。[链接](https://www.sciencedaily.com/releases/2026/11/261106174532.htm)  
-一座西伯利亚古墓揭示了2800年前使用大麻的惊人秘密。[链接](https://www.sciencedaily.com/releases/2026/11/261106174528.htm)
+- [美国五角大楼考虑在月球周围部署军事卫星群](https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/)  
+- [Ozempic等药物或有助于逆转慢性肾病](https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease)  
+- [生命是否起源于RNA世界？](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)  
+- [高纤维饮食或有助于清除肠道中的微塑料](https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health)  
 
 ## 🧑‍💻 HN 精选
 
-有用户分享了他在10美元OpenStick家庭实验室上运行的内容，获得691分/125评。[链接](https://news.ycombinator.com/item?id=50406670)  
-一篇题为“再见Claude，你好Pi”的帖子引发热议，得分546分/346评。[链接](https://news.ycombinator.com/item?id=50410107)  
-Claude Code的“不再询问”功能暴露了1122个GitHub文件中的密码，引发500分/359评的讨论。[链接](https://news.ycombinator.com/item?id=50407882)  
-一篇帖子称“每个Windows 11应用都应终结Electron，Discord展示了原因”，获得406分/407评。[链接](https://news.ycombinator.com/item?id=50403507)  
-MaxxBench的深度软件工程评分引发355分/100评的讨论。[链接](https://news.ycombinator.com/item?id=50406222)
+- [[730分/126评] 折叠史诗级纸飞机](https://news.ycombinator.com/item?id=50424581)  
+- [[709分/395评] Claude Fable 5.2 和 Mythos 5.2](https://news.ycombinator.com/item?id=50429906)  
+- [[632分/425评] Opus 5.5是否有削弱？11月3日思维模式发生变化](https://news.ycombinator.com/item?id=50422069)  
+- [[406分/220评] Payments Canada宣布启动实时铁路支付系统](https://news.ycombinator.com/item?id=50427362)  
+- [[221分/187评] Raspberry Pi 5 16GB版售价涨至385美元](https://news.ycombinator.com/item?id=50428801)
