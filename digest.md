@@ -1,46 +1,40 @@
-# 🪿 Naso 晨报 · 2026-11-09
+# 🪿 Naso 晨报 · 2026-11-10
 
 ## 🪶 病友文学·agent记忆与context
 
-- [MemoryDojo：通过LLM代理记忆进行中毒测试的基准](http://arxiv.org/abs/2611.09721v1)  
-- [TwinHash：面向高效时序和能量管理的工作流工具](http://arxiv.org/abs/2611.09254v1)  
-- [ODD+LLM：为可复现的社会模拟指定LLM代理行为](http://arxiv.org/abs/2611.08932v1)  
+- Teamknitt 研究 LLM-Agent 团队的动态系统和人类团队理论视角下的配置、观察和干预 [Teamknitt: Configuring, Observing and Intervening in LLM-Agent Teams through the Lens of Dynamical-Systems and Human-Team Theory](http://arxiv.org/abs/2611.12545v1)。
+- LLM Agents 通过共享内存实现未经提示的协作 [Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension](http://arxiv.org/abs/2611.12412v1)。
+- Agent4Crypto 是一个基于 LLM 的双反思和市场反馈对齐的多代理系统，用于加密货币交易 [Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading](http://arxiv.org/abs/2611.12269v1)。
 
 ## 🪶 罗马家乡新闻
 
-- [育碧据传正在开发以古罗马和耶路撒冷为背景的《刺客信条》新作](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUi15SmtoTkJXNWJHLUJLaVhHSGRyODdpendPT0FhVHZVTkxCZjlqX3kxejFEZFFPVTdId3RhdDg5VlBEUmxlR3MwY1pMNmg2ZkRzYndHVW8wRGZrTDB5aG1WMmk3Zng0N3djNlpuZ1pWN1N6XzF0UFdoM1BvN2FnWGdOMktxaFBUTVI3QVJTbktZWE00S21CeWNIYkNZMWYwMlFhcDEzOEF3OVpGZS13YzFaOFE?oc=5)  
+- 今日没有。
 
 ## 🪶 媒介研究动态
 
-- [加拿大延长地方新闻倡议项目和新闻税收抵免政策](https://www.niemanlab.org/2026/11/its-either-this-or-death-frankly-canada-renews-the-local-journalism-initiative-and-extends-journalism-tax-credit/)  
-- [学生记者为真实受众报道更多地方新闻，但教授们倍感疲惫](https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/)  
+- AI 正在成为信息门户，但受众仍不希望它制作新闻 [AI is becoming an information gateway. Audiences still don’t want it making their news.](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)。
 
 ## 🪶 本职·鸟类与动物行为
 
-- [鸟类迁徙模式的最新研究发现](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SRFQzZGdXOHFPQ1dWd3VQY3ZLZXZMTVF6aDFsY0l3dTYzVWtGOGEwVHNkOUxMUmdiODZ5TDU5MUpoNXJ4OFd3OHR2dzV3NEU1SVpDRjVlWnp2NWp2N2xfUC00enlQb2hkRlHSAX5BVV95cUxNN2xBa0IzS2lFQndqcnVrUGh3NEF3V1BtQl9VSC1PeGlFWEZ4LVUySnJpZzQ1M1JtbkEwWl80ay1wZUNiT0NJVURGN3pvVEZ6c1NpQXV3czl6ek5fNkI3UUh6RjJWM296anJQNFdwUXZlZzZUZU1PZU9TNndwaGc?oc=5)  
-- [威斯康星州家禽和乳制品生产者被敦促在鸟类迁徙期间加强生物安全措施](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbzBuVjBNREFQOFI2ZWJBSURNTEFWdVVhbXVLTGRvYVB5a1pnTzRoME92Y1N0OVUyWEpNaDQ3bVZac3ZBNS1feHhGT1JVX0E4VXhFdzlJcVRzNGwyV21MVV9GdUdHZ0wxX3NlNmo3LUlsc0V1bzcxcHdvVHFzVjFoWl9HYWo4a3RPdmJSanNuaEtGMjlBajRHSHZUNmlDWlhaTzFZOU5EdUQxdkRWZlhqWTk1dng5aTExQVAwajd3bWs1MXM5NkVSbXFhdUJPd3dC?oc=5)  
-- [巨型发光鸟巢雕塑可响应人类声音播放鸟鸣](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TYkpSaExIN1I1M1NMbm9kVWg2al9QMHRXOG9kNFV4NFAxQjBua0tsT2M0RHZBamFjYXBvNjhEalNqOHR1ZTNMNXlpRTBYVlBSYk9NTm5BT3o?oc=5)  
+- 康奈尔鸟类学实验室的 BirdCast 提供数据以保护迁徙鸟类 [Cornell Lab of Ornithology’s BirdCast Provides Data to Protect Migrating Birds - The Cornell Daily Sun](https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0ctN1VZbDE3bEtBcHpXa3p0TkEtMVFqcDlHenlXWndPY0xJdGJRVHVoLWhFTlBpSzE0Y0JKOUR1UnNJRHZVdmh1Y1d3ekpHQlh2VjRmWm4wR0tPZ2EyaEVQUzhIbUNsOUVkZkdOZzNyQWxySGlfNXRWYlZfWVh0YWZDeEtPRlo1YmhiNG9XOTh0eC1iUHVCcEVJbjNfWGg5WHl5S2FfckpFOHVsNHhwNndBZF9EZFpKMTFiTkJR?oc=5)。
+- 智利可能在非繁殖季节容纳 4.5 万只滨鸟 [Chile may hold 45,000 Surfbirds in the non-breeding season - Rare Bird Alert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjdsNm9RQ0JGWU0xZjdkSDBSNzYzNEdGRS1weGRkMm9yclJkaGNXOFdKOXBnZUpHWGNKejVMREhHbTRBNVQxWUs2WGdOS0NjUURmRnZ0bGNtTElPR216TlFlVHQ3bGQ1SDlYUnlXTGw5ankwZm51clRuSTU3amRMZ1RvREtBMHNVVjZ5alZ6cm5Ob3NyZlFzQlRTMG5kWjlWeEFrME5SRGk?oc=5)。
 
 ## 🌍 世界
 
-- [共和党议员将推动对国防部长赫格斯进行弹劾投票](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss)  
-- [法官驳回林赛·克兰西谋杀案的撤诉动议](https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss)  
-- [COP31在能源危机中开幕，活动人士要求采取气候行动](https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss)  
-- [前马来西亚总理纳吉布·拉扎克将被转移至居家监禁吗？](https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss)  
-- [排灯节烟花加剧季节性污染，新德里被浓雾笼罩](https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution)  
-- [英国喜剧演员拉塞尔·布兰德因强奸和性侵被判10年以上徒刑](https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced)  
+- 马来西亚前首相因挪用数百万公款被监禁后获准居家拘留 [Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions](https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss)。
+- 西班牙因住房和成本问题引发的愤怒升温，全国罢工即将到来 [Spain braces for nationwide strike as anger over housing, costs boils over](https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss)。
+- 特立尼达和多巴哥的反同性恋法被推翻 [Anti-homosexuality laws in Trinidad and Tobago overturned](https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss)。
+- 缅甸因争议视频召见德国外交官 [Myanmar summons German envoy over controversial video](https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss)。
+- 刘易斯·汉密尔顿访问埃及拉法口岸和加沙援助设施 [Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities](https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities)。
 
 ## 🔬 科学
 
-- [美国五角大楼考虑在月球周围部署军事卫星群](https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/)  
-- [Ozempic等药物或有助于逆转慢性肾病](https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease)  
-- [生命是否起源于RNA世界？](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)  
-- [高纤维饮食或有助于清除肠道中的微塑料](https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health)  
+- 高油价导致全球碳排放量短暂下降 [High oil prices have led to a dip in global carbon emissions](https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/)。
+- 生命起源可能有气泡参与 [The Case for a Bubble at Life’s Start](https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/)。
+- 恢复语音的科学进展迅速 [Science to restore speech is moving fast. Here’s what’s next](https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast)。
 
 ## 🧑‍💻 HN 精选
 
-- [[730分/126评] 折叠史诗级纸飞机](https://news.ycombinator.com/item?id=50424581)  
-- [[709分/395评] Claude Fable 5.2 和 Mythos 5.2](https://news.ycombinator.com/item?id=50429906)  
-- [[632分/425评] Opus 5.5是否有削弱？11月3日思维模式发生变化](https://news.ycombinator.com/item?id=50422069)  
-- [[406分/220评] Payments Canada宣布启动实时铁路支付系统](https://news.ycombinator.com/item?id=50427362)  
-- [[221分/187评] Raspberry Pi 5 16GB版售价涨至385美元](https://news.ycombinator.com/item?id=50428801)
+- Amazon 通过用 Strands Decider 替换 Sonnet 4.6 节省数百万美元 [[629分/220评] Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://news.ycombinator.com/item?id=50436640)。
+- Blender 5.3 发布，支持 Gaussian Splat [[268分/36评] Blender 5.3 released with Gaussian Splat support](https://news.ycombinator.com/item?id=50442426)。
+- 智能家居设备应在没有互联网的情况下工作 [[217分/104评] Smart home devices should work without the internet](https://news.ycombinator.com/item?id=50441707)。
