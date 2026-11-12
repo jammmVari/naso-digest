@@ -1,46 +1,35 @@
-# 🪿 Naso 晨报 · 2026-11-11
+# 🪿 Naso 晨报 · 2026-11-12
 
 ## 🪶 病友文学·agent记忆与context  
-
-- 研究探讨何时让 LLM 代理记忆以优化自我演化：[When Should Agents Remember?](http://arxiv.org/abs/2611.14326v1)  
-- 证据链接的记忆策略可减少 LLM 代理的退化：[Don't Just Trust Your Memory](http://arxiv.org/abs/2611.14320v1)  
-- SHARP 提出语义层次推理框架用于动态记忆的 POI 预测：[SHARP](http://arxiv.org/abs/2611.14220v1)  
-- 研究 LLM 代理在知识工程中的应用及其运行时适应性：[Controlled Knowledge Engineering](http://arxiv.org/abs/2611.13966v1)  
-- TreeAgent 提出结构化记忆代理处理长层次数据：[TreeAgent](http://arxiv.org/abs/2611.13946v1)  
+今天没有。
 
 ## 🪶 罗马家乡新闻  
-
-- 赫库兰尼姆队在圣克莱尔队的橄榄球比赛结果：[Week 11 Football](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalRoSmw1aHkzNFk2WUpJeUJFMFg5SHphekM3cERoWkhtUHV3aTM0RUwzVzBmNVQ2TWhZaFh2bTNoNkFaR0lCSnZNQklCcWJDTkMwZk41X3BxcTQwZGZNaGQ3N3dLV19PZTVGTVRGcjlISzlPUzg3M2tVRTNmRW5fekFxX2ZTQkpxb3EzQ3ZSNlUtaWlVVjFmM19iTVRTRzJQakNrekQ0TXNfVjFIREV4WFU5SFFZQUtlVzBkZUtUNzR1LXgzRGZuWTVJVGFKWnBN?oc=5)  
-- 赫库兰尼姆队在校际越野锦标赛中横扫冠军：[Herculaneum Cross Country Sweeps](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVItVjVjWTlwdDA5bXlnVUtGRVp3bkUwM1lLdnJRZXFDV1pqeURSZGlpdmNHWkVLU1BrQktBQV83WVZmMnRCaUx5THlSMjluMU1VTlRMYTdwWXdRYVF0MzhGZlNJc0lvRW8xSUxNMkhhMUxPM2p3b0xPcmNjTmpSYnM3d1l4TllZNjZINg?oc=5)  
+今天没有。
 
 ## 🪶 媒介研究动态  
-
-- 部分地方新闻机构正失去实体新闻编辑室：[Some local news outlets are losing physical newsrooms](https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/)  
+由于活动成本上升和资金减少，新闻机构取消了会议并裁员。[链接](https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/)
 
 ## 🪶 本职·鸟类与动物行为  
-
-- 鸟类研究人员解码鸟鸣，或成首个可实现互动的物种：['The first species we might be able to communicate with…](https://news.google.com/rss/articles/CBMimAJBVV95cUxOTmtabWN6VDRQaEgtLXNlZVdkTi1fc2N5ZDN4cGF5SVF2ZVVkcnhzYUhYSWhjZ2N1UWZTT0pYMDZJc0Vqdjd2WFozM1B3bWlERUN4UkhBWW9mMEcyZGs1aFA5RGdxYzBKMll6bF92Mlo1eXYxUWRvVWk0bDFMd0ZIcmFkck15ZnU5aXF1VnkyZWN2bFJ5LWROOGozZXFjWHpkM3BpeGhMMG1oQllvMVl0aDVFU2xGZHRHTTFBU1dqSk9iWk0tSE5NY3h2dlZGaUJjR1hCeEl5WlZ1OFd1ZUJoQTZDSUtrailyLV9HWG8zWEQzR3NEQ2xKMVZWWWE5cVl1OV9WUHhkN2JkVmJaTlpnc01mS2lBT01r?oc=5)  
+- 加拿大地理杂志介绍了萨斯喀彻温省的大规模鸟类迁徙活动。[链接](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1ktVFd2N0N0M3Zlc3VSUl9jWWZpbTA2NnhOZFRvSEdwSGtPZVQ0SVNNWl9ITlZnVno3TW5oM1YwTkJRXzBTdU0teUg3NThnMm1VeURGTWNMNWc5Y1FXeGEzSWhHX0dRSHE0VEhLX1NTckMyeE5mZjZDZ0NTUlRCSUJvUXl1NjJsRlhEd18yQjlKdEdQVHJYdkU5aW8ydWZ6TXNqVVZuTV93QQ?oc=5)  
+- Delia Smallwood 的讣告提及她对鸟类的热爱。[链接](https://news.google.com/rss/articles/CBMihAFBVV95cUxObldZY1JuVDRvZkhuMC00VUhqSGFWeGk4dWkxNC1NLXRFdEM2NU1iVDdrSENJVXdOSDNQN0IxcnF2SThFWkEwc1JpSmQ2V2pLeWtCc3JabWt2X19ZN1ZOdjEwV3dheEYxcXZZWlVwQjNyOEZ2QVhDSXY1OUtHTWlVUTQ0dE0?oc=5)  
 
 ## 🌍 世界  
-
-- 意大利、苏格兰和北爱尔兰学校遭遇疑似炸弹威胁：[Schools hit by threats](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)  
-- 爱尔兰担忧海底电缆面临“恶意行为者”的威胁：[Ireland fears undersea cables face growing threat](https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss)  
-- 俄罗斯驻美大使亚历山大·达尔奇耶夫去世，享年 66 岁：[Russia’s ambassador to US dies](https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss)  
-- 南卡罗来纳州一名 11 个月大的婴儿被发现埋在一个板条箱中：[Missing baby found buried alive](https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss)  
-- 塞内加尔青年奥运会上的霹雳舞比赛：[Breakdancers compete in Senegal](https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing)  
-- 阿根廷律师讥讽英国对福克兰群岛石油主权的主张：[Argentinian lawyer mocks UK’s sovereignty claim](https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case)  
+- 纪念卫兵因训斥 Hegseth 和其他人而获得奖章。[链接](https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss)  
+- 一名亲巴勒斯坦的慈善家在西班牙面临美国的引渡听证会。[链接](https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss)  
+- 美国特使在与普京会晤后前往会见泽连斯基。[链接](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)  
+- 美国房屋销售创 2016 年以来新低。[链接](https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss)  
+- 美国特使在阿布扎比与乌克兰会谈后与普京会面。[链接](https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks)  
+- 印度尼西亚副总统因资格和学术背景问题辞职。[链接](https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned)  
 
 ## 🔬 科学  
-
-- IBM 计划在 2027 年提供双处理器量子系统访问：[IBM dual-processor quantum system](https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/)  
-- 研究揭示了一种致命的魔术蘑菇：[This magic mushroom can kill](https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin)  
-- 代谢优先理论探讨生命的起源：[Metabolic Spark Jump-Started Life](https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/)  
-- 科学家可能揭开毛发如何知道生长位置的谜团：[How hair knows where to grow](https://www.sciencedaily.com/releases/2026/11/261109205413.htm)  
+- 一颗系外行星的消失引发了科学界的关注。[链接](https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/)  
+- 量子杂志探讨了生命起源的新时代。[链接](https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/)  
+- 研究表明，大脑的恐惧中心可能是记忆的保存按钮。[链接](https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories)  
+- 化学如何演变为生物学的故事仍在不断发展。[链接](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)  
 
 ## 🧑‍💻 HN 精选  
-
-- Google 使用 48 个 AI 代理分析 NASA 激光雷达数据，72 小时内发现未被标记的玛雅金字塔：[Google SWE finds Maya pyramid](https://news.ycombinator.com/item?id=50452455)  
-- 在 macOS 上使用安全芯片保护 SSH 密钥：[Protecting SSH Keys with macOS Secure Enclave](https://news.ycombinator.com/item?id=50449748)  
-- 调查电视制造商如何监控用户：[TV manufacturer surveillance questions](https://news.ycombinator.com/item?id=50453474)  
-- Python 社区的 Tim Peters 去世：[Tim Peters has died](https://news.ycombinator.com/item?id=50450488)  
-- 一次误报的烟雾警报几乎淹没了 Jane Street 的唯一数据中心：[False smoke alarm almost drowns datacenter](https://news.ycombinator.com/item?id=50455394)
+- Jensen Huang 辞去了职务。[链接](https://news.ycombinator.com/item?id=50467087)  
+- Anthropic 计划进行 IPO。[链接](https://news.ycombinator.com/item?id=50465829)  
+- “苏格拉底导师”引发热议。[链接](https://news.ycombinator.com/item?id=50438261)  
+- 有人展示了系统任务在启动控制台上的实时树状图。[链接](https://news.ycombinator.com/item?id=50425017)  
+- 讨论了编写正确软件的难度。[链接](https://news.ycombinator.com/item?id=50465352)
