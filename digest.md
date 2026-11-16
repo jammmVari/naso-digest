@@ -1,35 +1,33 @@
-# 🪿 Naso 晨报 · 2026-11-15
+# 🪿 Naso 晨报 · 2026-11-16
 
-## 🪶 病友文学·agent记忆与context  
-今天没有。
+## 🪶 病友文学·agent 记忆与 context  
+[NeoResearch](http://arxiv.org/abs/2611.18235v1) 提出了一种基于文学和经验的自主时间序列模型发现方法。  
+[Who Should Be on the Panel?](http://arxiv.org/abs/2611.18150v1) 探讨了任务条件下 LLM 交易代理的角色选择问题。  
+[Forget the Lineage](http://arxiv.org/abs/2611.18133v1) 提出了一种面向 LLM 代理记忆的前向安全加密擦除方法。  
+[Agent-as-a-Judge](http://arxiv.org/abs/2611.18067v1) 研究了 LLM 作为评判者的潜力与挑战。  
 
 ## 🪶 罗马家乡新闻  
-_今日无大新闻，以下为头部刊物近况：_  
-- [铁器时代蛙类集体墓地之谜得到解释](http://www.thehistoryblog.com/archives/77363)  
-- [在马恩岛发现维京双人墓葬中的罕见文物](http://www.thehistoryblog.com/archives/77356)  
+[Pompeii home buried by Mount Vesuvius](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWUNaMG8tOFVqOVRZNUg3X3RoVy1TSXVKUE04QzNpb3FfaFlzdU9SbmM2YnM1OFF2YlZvLTJZdjIzdVZacmpGaDY1N3l4MWh0SG1jRzRXc0RKaG1lTjFNUlRvemVpbTVqcW9TSjBQcXo1SGNoLUNxTnAyWjN0OHptTnZJM1BlUTBVcGFta0NsWDFENFRxN1cxSVoxOFRINF85Ui1vZXB1cWpnYUlfcXVGRUkwdzl5VEJtUWRn0gHAAUFVX3lxTFBTWnZZZDgydXJNdTRWbVAzVkFTOG1TVGV4X1hzemFlUTJTMjRENkJDVVJwbW1UNkRaWXdYTVJaWXA1RmRabkNFQzRJZG5fX1JzLXc2eGttWXZHYnNZdEkyc2FMVV82SHI1SkVKb2s3a1RFcjhyN3VibFhBd1Nudm51SzI3YmItSnZRRUJiRVc3aHRNSVRSVU8wQXJKR0VLbXhPT2t5enVWMV9sWDZHYmdNcjE4Ty1zcmtWUC02X0ZReQ?oc=5) 挖掘出一座近 2000 年未曾动过的罗马住宅，揭示了许多珍贵文物。  
+[An underground site from ancient Rome](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbkdBMEhaQzlWWkRIczVVUTZpSXBCUzJ4R3JjTVNjaFBkS18zd3RGUHRhVTg4YVAxTUVtaEQyTEViM3hINjh5amFWRmNyTWNZbERjc2NkOFQ1TnY4Rlp5MDNMOW1RNDdLUVRocW5LNlMxVmNjbXlzekYyb0doMlI3V1ZaM21Qc1Y2R0ZsOGpkMVBUNS1JbDFjQ3ZOb1NJWGtvVFBPdnNubjFTemNhRFZuc3Y2QU5PbWcxelFVcHhzOVhidXFpNUJDcGMyUm5XMlpzeVRncWVSQjhqT2NReWRKM0IydE1mb0NkcE1z?oc=5) 报道了图拉真广场西图书馆遗址即将对公众开放的消息。  
 
 ## 🪶 媒介研究动态  
-_今日无大新闻，以下为头部刊物近况：_  
-- [媒介研究专家 Ruby Justice-Thelot 指出：Instagram 承担了四项功能，而一代初创企业正在将其拆解](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTUJxVnU0cUpJeU1BTjAzbzNsckE3ZXRWb1l2Znd5LVVoOGNOX2pLVXNpTnFYZ0ZVR0c0SjJWNFBKUDdjdlQ2SzdReGpKWVkwUGRBekxVVUcyX2M?oc=5)  
+[NPR makes fixing its app a key priority](https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/) 提到 NPR 将修复其应用程序列为新战略计划的关键任务。  
+[Traffic is declining for local newspapers](https://www.niemanlab.org/2026/11/traffic-is-declining-for-local-newspapers-here-are-some-things-that-helped-small-publishers-make-gains/) 分析了地方报纸流量下降的原因及小型出版商的应对策略。  
 
 ## 🪶 本职·鸟类与动物行为  
-今天没有。
+[Fall bird migration begins in New Mexico](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2lzNHZVZHdqbUZJZzl1cXUwY25CS0JJVFRTTDFTT3RuRGpLV1BXWnlpeV9GdExtYi1DVGtxUzRQQkg2NkxHbTdfdWx5azJjTkZMbUdKaG5YN1c2ZVV6Z3NPYnhTbTBWYWxfZzBDbUNncnZYUW4zbmZPVkJQWlNUZG5xNWg5VXhvVGc?oc=5) 报道了新墨西哥州秋季鸟类迁徙的开始。  
+[Guerrero Negro, a Key Site for Bird Migration](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU2I0YjJqdE5abE1Wbzd1SXRxczZLSXB6Y056aVZvaHZlRnBsSTN4RFRWeUtHMnJuREZqNWdIN1FyNXVKWEZHY3lpYlJyMWNFUDNESzdGem9BZzJfNmVsNUlIRHNmSDhEYnR1bWNLaDZ1cjM1dThmbzc5dlNUZndCR2xHX2R3b1RBLU1aSnJ3aDVXZ2ViMWNpVVFmeG1POGt3clVRakw0NDROaEIyMnNYcFFQRUFLRWplcENGOXkweXZSdTdwc201RUR3Mm1WYjc5aGhuaU94QQ?oc=5) 介绍了 Guerrero Negro 作为鸟类迁徙关键站点的重要性。  
 
 ## 🌍 世界  
-- [一天内近 1,500 名移民抵达西班牙加那利群岛](https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss)  
-- [摩洛哥成为首个进入 FIFA 男足排名前五的阿拉伯国家](https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss)  
-- [捷克民众抗议公共媒体资金改革计划](https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss)  
-- [法官阻止特朗普周日关闭华盛顿特区的“垃圾岛”高尔夫球场](https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss)  
+[Photos: California residents gather to watch massive El Nino-fuelled waves](https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss) 展示了加州居民观看厄尔尼诺引发的巨大海浪的照片。  
+[London Palestine Film Festival returns for 27th year](https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss) 报道了第 27 届伦敦巴勒斯坦电影节开幕的消息。  
+[U.N. talks seek to rein in 'killer robots'](https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones) 提到联合国会议正试图限制“杀人机器人”的发展。  
 
 ## 🔬 科学  
-- [研究发现，维生素 C 或可帮助阻断胃中与癌症相关的化学物质](https://www.sciencedaily.com/releases/2026/11/261114202236.htm)  
-- [一项新研究显示，常见骨质疏松药物可阻止脊柱损伤](https://www.sciencedaily.com/releases/2026/11/261113232105.htm)  
-- [人类按下暂停键时，全球火灾如何变化](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/)  
-- [《国家地理》纪录片《远征：拯救我们的海洋》呼吁全球行动](https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary)  
+[Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/) 指出超大规模数据中心消耗了美国 2% 的电力。  
+[We know how to stop computer worms](https://www.sciencenews.org/article/ai-computer-worm-cyberattack-octopus) 讨论了 AI 可能如何使计算机蠕虫更难以遏制。  
 
 ## 🧑‍💻 HN 精选  
-- [[1505分/1047评] SpaceX 成功回收 Starship，结束第 15 次飞行](https://news.ycombinator.com/item?id=50500963)  
-- [[947分/361评] Lovable 应用暴露护照细节及超过 20 万条私密信息](https://news.ycombinator.com/item?id=50499017)  
-- [[523分/305评] 所有 AI 生成代码应开源](https://news.ycombinator.com/item?id=50507303)  
-- [[398分/194评] 软件职位家族树](https://news.ycombinator.com/item?id=50499038)  
-- [[397分/180评] 法院驳回 DRAM 价格垄断案的撤案申请](https://news.ycombinator.com/item?id=50502988)
+[[797分/134评] How to make almost anything](https://news.ycombinator.com/item?id=50514470) 探讨了如何制造几乎任何东西的方法。  
+[[715分/447评] Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](https://news.ycombinator.com/item?id=50517488) 指出亚马逊“黑五”和“网一”的许多优惠并未真正让利。  
+[[271分/117评] Interpreting claims that a theorem is correct because it was checked in Lean](https://news.ycombinator.com/item?id=50515058) 讨论了使用 Lean 验证定理正确性的相关问题。
