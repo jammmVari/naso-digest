@@ -1,30 +1,36 @@
-# 🪿 Naso 晨报 · 2026-11-17
+# 🪿 Naso 晨报 · 2026-11-18
 
 ## 🪶 病友文学·agent记忆与context  
-
-研究人员近期探讨了代理编排框架中的授权与信任边界评估，以及大语言模型长期记忆的权重空间即时整合问题；此外，还研究了基于LLM的程序策略与目标编译器的演化，以及LoCoMo评分与记忆背景、答案提示的关系。[评价代理编排框架中的授权与信任边界](http://arxiv.org/abs/2611.21259v1)、[Instant Weight-Space Consolidation for Long-Term Memory in LLMs](http://arxiv.org/abs/2611.20759v1)、[Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax](http://arxiv.org/abs/2611.19537v1)、[What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges](http://arxiv.org/abs/2611.19199v1)  
+- [The Resolution Hypothesis](http://arxiv.org/abs/2611.23068v1)：研究提出“解决假设”，认为Agent进化的关键在于识别改进。  
+- [ForecastGym](http://arxiv.org/abs/2611.23045v1)：ForecastGym为预测Agent提供了一个实时、可控且可回放的基准测试平台。  
+- [LaFlash](http://arxiv.org/abs/2611.22746v1)：LaFlash通过QLC-HBF技术加速编码Agent的工作流程。  
+- [LMLineage](http://arxiv.org/abs/2611.22511v1)：LMLineage为LLM Agent提供内容追溯和上下文治理方案。  
+- [Think Once, Act Fast](http://arxiv.org/abs/2611.22432v1)：研究提出一种经济高效的递归自我改进方法，用于决策模型优化。  
 
 ## 🪶 罗马家乡新闻  
-
-*今日无大新闻，以下为头部刊物近况：*  
-日本研究者在资金挑战中深入探索古罗马文化，而赫库兰尼姆-佩夫利地区的圣诞游行将于12月3日举行。[Japanese researchers dig into ancient Rome amid funding challenges](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWQ3bEcwVks0Y2E0c1J0ZDk2VDRtNGNoVVBXUEhMZmVjbFBTZmNWTWtQV1phc2MtcFB6cGJJa2Z2RTJtOGNGdlUyQURaYTc0MXdVbVBJcV9fb1pnekJjZkctX3R0RUhadlduS1BXUlRlX1FPczdSTE55Y0k4NU9Id0NkRE9WWG9tUnB3aVNsdmxTOW50cEs4Zm5Jcw?oc=5)、[Herculaneum-Pevely Christmas Parade Set for Thursday December 3rd](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxDLTM2T09kNHRaZ195YWZHd2VFNDBwc1hnbTFabjl4cnNVb3RSX1pDU1V4dmZZTTU5UmR6YUVRQ2lqemtwRjl6ZEJ6RWZXb2hXTU5uaGk3M3ZMNGtBMU0tZ0xOUlU0blphLUJWMHdDbWcydWNqWm5sLURfeW5GTlcxV3BrVGJMRkNEdXFsbnFxN2ZJN2c?oc=5)  
+- [Pompeii home yields treasures untouched for nearly 2,000 years](https://news.google.com/rss/articles/CBMijwJBVV95cUxNWWdkZnZkMldVX0FpRGZILThWTElBMS1uLVh6SEppWmV1TjZlVWhRT0d2bjdDdWM4em0ySmN4MEtwQnUwSngxaXprblpxTndFNUpiZTRQd0FqR3pDdl9IQzZFeG4xekM4MC1xdEF4MWRwZnpkVXhSVkp0SDBYOEY5ZUd2bU5jYkFkOUt6MWRpVk9vUTlfTEIwME5yT2hKTE9IUERZeVB1aEpyTVpwdnJmbHQ3SXJESE9lWENhNnRiRkU5ZXc4dHprU2dzM3BmcHhiSENXM3VBcTFnSkwtR3g4bzVFVVAtZ2o2eVM5NkoybGZTa0JFVFhlODNhRTFmWWtSN0F0V0lnVmJOMUowV1ZJ0gGUAkFVX3lxTE50anQ1UUpnMXlhM1pJQ1lqTXBtS3dGbm9mWk9ZMVM0aUJDdkZpTlpLaHd1Ymx2ZVNjZl9yNUtWbkNIcGU5QldqVGtvWE9LaXd4UHFNQk56TlNJRTdRUXU0U2JfbFRNdnpQUVlLcDRGNm5lOEZzeUJLc3VTeTNTS2FlZzh4TXBmT2kxQnNia3N3enVYTjRvX1BLLV96dEJlaXdPREZGdVZOX0g4aHh5ZG0xbmpEdlRoUE05M2x4bllwMXRRbFFKc0RJTEswUHNULUlCZktlYmdkcTFsUmREdE1EMlZaUFo5U2JNalQwYS1DNVVXMktlajNmUDhtSmtJbk42bFlzcEczRG5TRzNKQ01yOHE5Nw?oc=5)：庞贝古城发现近2000年未被触碰的宝藏。  
+- [Ancient Roman closet found untouched for nearly 2,000 years](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaktQOXVIa2xDN0YtOFBSbUlSc1JqS21RV3c4cTUtazFUX1pYUmZtWFZHRVQ1dVdyYUhiLUNGVDEzNWJ0dlEzbmpvUC1COTh4aWR5clVJR1FZUGZITi1pSVk5QTdUOHZUbTBFbWoyUUQwdmtva2IxdFp5bUpFdngxaFlXWnBrb2l1TkU00gGQAUFVX3lxTE9pMkxjOW5EMWNSdDByQ1YyNHExMkJrY3FiRWJiX3cxZUVnSDBuVXMxSktmWGlXX0xBeDdDX2tUZzJ1T216Qk9GSVpORzdLbDZHdWNIdHFYaGs1Tnh0MkdHcmRQbVBXV3NfcFFEd2twV3g3aWo1YmlJN25CTHRzTjhndDVfU2hNQ1prUnczcHhJTQ?oc=5)：考古学家发现一座近2000年未被触碰的古罗马衣柜，内有个人物品。  
 
 ## 🪶 媒介研究动态  
-
-马萨诸塞州非营利新闻机构因海豹、建筑和中期选举等话题的报道而提升了流量。[Seals, construction, and midterms drive traffic gains at Massachusetts nonprofit news outlets](https://www.niemanlab.org/2026/11/seals-construction-and-midterms-drive-traffic-gains-at-massachusetts-nonprofit-news-outlets/)  
+- [After gutting newsrooms, McClatchy plans to rebuild itself around AI](https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/)：McClatchy在削减新闻编辑部后，计划围绕AI重建自身。  
+- [“A healthy degree of vitality”: Medill takes a look at the Twin Cities’ local news ecosystem](https://www.niemanlab.org/2026/11/a-healthy-degree-of-vitality-medill-takes-a-look-at-the-twin-cities-local-news-ecosystem/)：Medill研究指出双子城本地新闻生态系统具有“健康的活力”。  
 
 ## 🪶 本职·鸟类与动物行为  
-
 今天没有。  
 
 ## 🌍 世界  
-
-俄罗斯一架军用飞机坠毁，机上19人全部遇难；伊朗对巴林发动了第三轮袭击，美军第五舰队基地所在地成为目标；哥斯达黎加一名记者被枪杀，这是该国25年来首例此类事件。[Russian military plane crashes killing all 19 on board](https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss)、[Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet](https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain)、[Costa Rican journalist shot dead in first such killing in 25 years](https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead)  
+- [Israeli court extends Gaza doctor Abu Safia’s detention without charge](https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss)：以色列法院宣布延长加沙医生Abu Safia的无指控拘留期。  
+- [Israeli forces launch new military operation in central Gaza](https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss)：以色列部队在加沙中部发起新的军事行动。  
+- [William and Kate reflect on 'enduring' UK-India ties with Modi](https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss)：威廉与凯特与莫迪共同回顾了英印之间“持久的”关系。  
+- [Grand Theft Auto 6 is a masterpiece, say critics](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss)：评论家称《侠盗猎车手6》是一部杰作。  
 
 ## 🔬 科学  
-
-美国失去了其麻疹消除地位的认证，引发了关于疫苗接种的新讨论；科学家追踪儿童8年发现，屏幕时间的影响出人意料。[The U.S. just lost its measles elimination status. What now?](https://www.sciencenews.org/article/measles-us-elimination-status-vaccine)、[Scientists tracked kids for 8 years. What they found about screen time was surprising](https://www.sciencedaily.com/releases/2026/11/261116014725.htm)  
+- [Two stars in the Andromeda galaxy merged before astronomers’ eyes](https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao)：天文学家目睹仙女座星系中两颗恒星合并。  
+- [New discovery reveals what may be holding back room-temperature superconductors](https://www.sciencedaily.com/releases/2026/11/261116023358.htm)：新发现揭示了室温超导体发展可能的障碍。  
 
 ## 🧑‍💻 HN 精选  
-
-卡内基梅隆大学将计算机科学课程免费放上YouTube，引发了广泛关注；新证据显示学校手机禁令逐渐提高了学生的考试成绩。[Carnegie Mellon is putting computer science courses on YouTube for free](https://news.ycombinator.com/item?id=50522980)、[New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://news.ycombinator.com/item?id=50530163)
+- [[609分/220评] Unauthenticated remote code execution in Nginx](https://news.ycombinator.com/item?id=50547374)：Nginx被曝存在未经授权的远程代码执行漏洞。  
+- [[434分/136评] DNS resolvers are the wrong place to fight piracy](https://news.ycombinator.com/item?id=50545958)：DNS解析器并非打击盗版的合适场所。  
+- [[336分/121评] Inside Deutsche Bank](https://news.ycombinator.com/item?id=50547620)：深度揭秘德意志银行内部运作。  
+- [[273分/176评] Seven new models at scalable price-performance](https://news.ycombinator.com/item?id=50548021)：发布了七款具有可扩展性价比的新模型。  
+- [[271分/42评] Energy-Based Reasoners: 385x more efficient inference](https://news.ycombinator.com/item?id=50543989)：基于能量的推理器实现了385倍的推理效率提升。
