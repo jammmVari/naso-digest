@@ -1,47 +1,32 @@
-# 🪿 Naso 晨报 · 2026-11-19
+# 🪿 Naso 晨报 · 2026-11-20
 
-## 🪶 病友文学·agent记忆与context
+## 🪶 病友文学·agent记忆与context  
+近期多项研究聚焦LLM代理的高效服务与记忆管理。[TideCache](http://arxiv.org/abs/2611.26619v1) 提出了一种混合服务架构，通过透明缓存管理和分层流式传输提升效率；[Held While Waiting](http://arxiv.org/abs/2611.26480v1) 探讨了无服务器和代理运行时会话的资源预留问题；[Aggron](http://arxiv.org/abs/2611.26435v1) 则研究了请求队列头阻塞期间键值缓存的激进压缩技术；[How Much Should an Agent Remember?](http://arxiv.org/abs/2611.26361v1) 从自蒸馏记忆的角度总结了LLM代理部署的经验教训；[TwinLab-Bench](http://arxiv.org/abs/2611.26248v1) 提出了一种评估AI科学家的实验室孪生基准。  
 
-- [GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits](http://arxiv.org/abs/2611.24619v1) 提出了一种使用布尔电路进行低开销LLM监控的方法。
-- [Resolution as Attention for Efficient Agent Memory Perception](http://arxiv.org/abs/2611.24422v1) 探讨了分辨率作为注意力机制在高效Agent记忆感知中的应用。
-- [KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs](http://arxiv.org/abs/2611.24294v1) 介绍了通过多模态超图实现Agent知识工程的框架。
-- [Evaluating LIM Trading Agents: A Critical Review of Backtesting Validity and Reporting Practices](http://arxiv.org/abs/2611.24133v1) 对LIM交易Agent的回测有效性和报告实践进行了批判性评估。
-- [A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises](http://arxiv.org/abs/2611.24039v1) 提出了一个评估受监管企业中Agentic AI平台能力的框架。
+## 🪶 罗马家乡新闻  
+庞贝古城的厕所揭示了许多古代生活的秘密。[The Secrets Buried in Pompeii's Toilets - National Geographic](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlJGcFZMNEtIWFVONGNSTGx6cFhwZjZrN21qZm44SHZtMHR6MTBScjFjdmczai1WZTNwRzF3aWxPT252SmM0cGhJMVR1WDlSRXZHV1lSR1JyQk9MMFEzc3ZHNTBreGR5aWZTQVc1X2lGNkNBY0FhUDBhZ2taSHhWZkZnVWZoUENQcHlJYWF4Q0Y?oc=5)  
+图拉真广场的古罗马图书馆首次向公众开放。[Ancient Rome library in Trajan’s Forum opens to public for the first time - AP News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQd29lMDVXU3Fibm5NSzEwX3RHZjJMN1VUTWFCNmcwRlpMRklGalZzQTF3Y0t2RnhSdGNVSXFOSW9KV3I0T19vN3drMkp5M1k1cFdVV0hLNDFUU0dIMWdtNXVQWVhkX0lLX3NTNW10RmFFZHdzUVpLcEt6UGkxMHg3bEV0VzNvMWdXdXhuYTRXeTg1QXE2aVAyWjBSSklzeW5RTm5rcE05YTJkRkl1WVFlY2ZPMkhxUlA1b0lSYTJfOXgwQWNJTnYxb0x3?oc=5)  
 
-## 🪶 罗马家乡新闻
+## 🪶 媒介研究动态  
+尼尔曼实验室发布了最新一期的新闻知识测验。[The Nieman Lab News-About-News Quiz, November 20, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/)  
+关于公共媒体的联邦资助问题，是否需要更深入的反思仍在讨论中。[Federal funding for public media is coming back, one way or another. But is it time for a deeper rethink?](https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/)  
 
-- [A Pompeii worm keeps its tail end in water near 176 degrees Fahrenheit while its head pokes into seawater near 72 degrees - A-Z Animals](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1pHa1FDN0FzeFo5UVNPUW85VjE2LXlEMWNRSl9BSjVHVmZ0eWVMTjBkcWs5QU1Pb2Z2VmtJbEJKLUhVOTlYMXNtWlpNYk12SE9NZlRLUTFTNTZjSFBycWFXamNmQXZyNVpralhnWk1hdUFCLVRaTFZ5NnBXUDFBcFJGRVg2MjBBazkwazctZGZ1YldraXBzUHJlRWRXMmFSY3Z4eE1KTFNiUHVEQ3NHdTQxU1o2b3k0ejZzTG43bHlKMDltTjdkdE9uM2d0aENPRzFMU21SRFAwcExsbmF1ZXFGQmVvdw?oc=5) 庞贝蠕虫的尾部在接近176华氏度的水中，而头部则在72华氏度的海水中。
-- [A Technological History of Ancient Porn - Literary Hub](https://news.google.com/rss/articles/CBMia0FVX3lxTE14bHh4d1dlTlBGNUhFSzZHNDVsM1NBRjNUWG03V2Y2enR6VFlHQlJ1TEFWWkZXSmNoMzAzYk8xOEliSllOWERrVGRyaGVjV21tNmxSM2JleTY1UGF2dUFGaVB0MHFiYnRVSUhV?oc=5) 探讨了古代色情技术的演变。
+## 🪶 本职·鸟类与动物行为  
+中国鸟类学先驱的一生为中国鸟类研究奠定了基础。[A lifetime taking flight as China honors ornithology pioneer - China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE05cWZPQ0V2NGJLZGJHTVRWTVlzTVp0Z0NLVGVhMzgtVUxQblIzcFlOaFhLckRmZ2hDOEFyeEZhVTdHUjZfamlTYXBHQi1sOGFQeWp3X0s0YUhpRFMxUTAyb0ZRRFZqWF91cDd2UFM3NXF6YjVQbFJHNkN1MnNvZw?oc=5)  
 
-## 🪶 媒介研究动态
+## 🌍 世界  
+美国前国家安全顾问被学生质问加沙问题。[Former US national security adviser confronted by students on Gaza](https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss)  
+游泳课程为加沙儿童带来片刻的喘息。[Swimming lessons offer Gaza’s children a moment of relief](https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss)  
+一名印度男子因策划刺杀美国锡克教分离主义领袖被判19年以上。[Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader](https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss)  
+英国在达成协议后表示将与欧盟探索更紧密的合作。[UK to explore even closer ties with EU after agreeing deal, says Burnham](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)  
+特朗普吹嘘与习近平和普京的会晤，但成果寥寥。[Trump touts meeting with Xi and Putin but offers little results](https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference)  
+民主党试图阻止伊朗战争拨款，军队推迟爱荷华州的引爆计划。[Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa](https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army)  
 
-- [Election season lifted public radio sites. So did a Supreme Court scandal and license plate drama.](https://www.niemanlab.org/2026/11/election-season-lifted-public-radio-sites-so-did-a-supreme-court-scandal-and-license-plate-drama/) 选举季节推动了公共电台网站的访问量，最高法院丑闻和车牌事件也起到了作用。
+## 🔬 科学  
+一项研究指出女性最需要的性欲药物是睾酮。[The libido drug women want is testosterone](https://www.sciencenews.org/article/libido-drug-women-want-is-testosterone)  
+气候变化的加剧使加州面临的厄尔尼诺现象更加严重。[An El Niño amped by climate change has California bracing for the worst](https://www.sciencenews.org/article/el-nino-climate-change-california)  
+网络研究者提出了“完美韧性”理论。[Network Researchers Nail Down Theory of ‘Perfect Resilience’](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/)  
+火箭发射报告周末有起有落，Stoke庆祝发动机里程碑。[Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone](https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/)  
 
-## 🪶 本职·鸟类与动物行为
-
-- [Northward Range Shifts Can Counteract Earlier Spring Bird Migration Passage Trends - Bioengineer.org](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzZEek1qOHFjdkhSX1VUNUVhTnJFOEc2bXZ0M2lCWHdDdmtDd0s3LW5vejhQTVFndFRrYW1XRG10eGxBV3l3R3Y2YmxXNWswaEd1aFVxVVZVbUM1X0R4YXAzVnVZQndfc1RfVW9LZVpscjlIalZ0UE5iQThnRk1WSmxYeTVGTnh1T3pzVzJYTzFQak9vUW5TRnllYkdZNzhVaUZKOGVveWRuR2s?oc=5) 研究显示，鸟类向北迁徙的范围扩展可能抵消了早春迁徙的趋势。
-- [How technology is unlocking the secrets of bird migration - Princeton University Press](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzI5WGxROWJVeXJuLW0tSFVsVTUxX3NxVlQ5alBNX0dMektzb2pNS0FmLVJDQnlkcEtLVG5Qc2xla1VZYkxKVTQyamc0VElQQks3Rkdad3FLdnM5VE0yYlFidmR3RXlZLUw1LXlEY21KLURsN3dHMmVrWHRsMTh5dkNaVmxPaHE3YzFyVVlvNXdpc3RwVWc?oc=5) 技术正在揭示鸟类迁徙的秘密。
-
-## 🌍 世界
-
-- [Europe ready for talks with Russia on ending war in Ukraine, leaders say](https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss) 欧洲领导人表示愿意与俄罗斯就结束乌克兰战争进行谈判。
-- [Families flee Gaza’s Bureij camp as Israel launches new offensive](https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss) 以色列发动新攻势，加沙Bureij营地的家庭纷纷逃离。
-- [France awaits verdict six years after police beat Black music producer](https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss) 法国等待六年前警察殴打黑人音乐制作人案件的判决。
-- [Trump, Putin and Xi release 'peace declaration' after historic meeting](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss) 特朗普、普京和习近平在历史性会晤后发表了“和平宣言”。
-- [The U.N.'s top court rules Myanmar committed genocide against the Rohingya](https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya) 联合国最高法庭裁定缅甸对罗兴亚人犯下种族灭绝罪。
-- [Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker](https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic) Anthropic在IPO中募集超过1000亿美元，民主党提名Jeffries为众议院议长。
-
-## 🔬 科学
-
-- [A brain region known for listening helps us speak](https://www.sciencenews.org/article/brain-region-listening-speak-wernickie) 大脑中负责听力的区域也被发现有助于我们说话。
-- ["You’re right"—LLMs will get climate info wrong if you ask](https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/) 研究表明，LLM在提供气候信息时会出错。
-- [U.S. demand for menopause hormone therapy has more than doubled recently](https://www.sciencenews.org/article/menopause-hormone-therapy-demand-up) 美国对更年期激素治疗的需求最近翻了一番。
-- [Mouse fight club might explain why we like to watch violent things](https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/) 老鼠打斗俱乐部或许能解释我们为何喜欢观看暴力内容。
-
-## 🧑‍💻 HN 精选
-
-- [[582分/280评] How the European Commission rolled out Matrix to more than 40k staff](https://news.ycombinator.com/item?id=50558533) 欧盟委员会如何将Matrix推广到超过4万名员工中。
-- [[582分/246评] Garage Door Spam](https://news.ycombinator.com/item?id=50519231) 讨论了车库门垃圾邮件的现象。
-- [[398分/579评] Anthropic hits $2T in Nasdaq debut](https://news.ycombinator.com/item?id=50562754) Anthropic在纳斯达克首日交易中市值达到2万亿美元。
-- [[336分/136评] Ruby2ßhell: Pre-authentication RCE on stock Rails](https://news.ycombinator.com/item?id=50556287) Ruby2ßhell漏洞允许在未认证情况下对Rails进行远程代码执行。
-- [[331分/37评] 15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://news.ycombinator.com/item?id=50556533) 在一台虚拟机上运行1500万个Web服务器的技术实现。
+## 🧑‍💻 HN 精选  
+Levent Alpöge声称证明了广义黎曼假设 [[1809分/1232评]](https://news.ycombinator.com/item?id=50574968)。一位用户表示永远不会再购买Framework硬件 [[650分/422评]](https://news.ycombinator.com/item?id=50576855)。Frostbite是一种由AI设计、发现和验证的新CPU架构 [[523分/284评]](https://news.ycombinator.com/item?id=50572503)。有人认为无法用简单术语解释的事情说明你并不真正理解 [[504分/258评]](https://news.ycombinator.com/item?id=50572355)。嘉年华邮轮的硫氧化物排放量是欧洲所有汽车的十倍 [[449分/282评]](https://news.ycombinator.com/item?id=50572116)。
