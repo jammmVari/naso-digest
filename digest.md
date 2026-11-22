@@ -1,32 +1,32 @@
-# 🪿 Naso 晨报 · 2026-11-21
+# 🪿 Naso 晨报 · 2026-11-22
 
 ## 🪶 病友文学·agent记忆与context  
-HabitusMem提出了一种基于演变的用户偏好的LLM代理记忆模型。[查看链接](http://arxiv.org/abs/2611.25855v1)  
+今天没有。  
 
 ## 🪶 罗马家乡新闻  
-古罗马购物中心的历史探讨引发关注。[查看链接](https://news.google.com/rss/articles/CBMif0FVX3lxTE1kTjJkbHlLZW9BQ241cnpiLUZGYURCYnhSZXVWRVpkZmdTTHBsYU83dmlSYmNCTXFFUmxoYkI2Umpkb1ZjRlJMTU1iSnF3UVNkZEJqME1OcEJwQkVZdXFra0ZyVEVnYjJMd0xZc2tTczJ5bm9aQUsxcFpQRWdMb0U?oc=5)  
-庞贝古城在最终毁灭前曾多次遭受地震破坏。[查看链接](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGFMcjRkdl8tM2Q3LXVJeVMyNnE0QjVHRVJHbERTaG1JMXFDNGFyNFRjZG91M3hWenN4S2pOVFRkS3VzMXN3MmFSMmFHQVdqdGRnZU5tYThYdGpoYi1iMnBLelhNSFhnMHRMbEFzazJJTUpreW9JRXFzdk1nU3AzaDFBWTJsNFFsN3YwRnJXZnNOc2M4d1QyVjZRQTZ6aWlZSUVqRw?oc=5)  
+庞贝遗址面临威胁，考古学家呼吁加强保护。[链接](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0FKa3RPTE96WENKQlYxdVFqbGpEZGRjbF9IX0dGUTBTcERGT3BaNzFmLUNBWmtVZ3JfaTNLUmVLVEdpOGxGZUFvd2VoSHQyVDhTMnNEOUcyRldsdTZEbklOaHZPeWlzckU2WUJlRzFrX2hZRTlUNnd5dlFqNlpsUHFmaG1DenBNdEdJNmRMMnNzMUkzYU8yTlpmdS1aNVJic1dQMzZmdnI?oc=5)  
+庞贝葬礼床上雕刻士兵、盾牌和金叶，展现了古罗马的葬礼文化。[链接](https://news.google.com/rss/articles/CBMivAFBVV95cUxOekk5ejNtbWE3TzFPcUxlT0Z5YlVTOGQyd2NObmVvaXZuMlBoekZKNERVcXc2Z0VjZUVsZks0S3o4QzJFY0xmWTljS29WU0d5Q1NBYXFWM3ZRd29sRU95eDhncUNMblNCZjhxR2xZMDdfWVBIVDFuSkJ4N3lxdXZTaWdzdTRQbzI2V3M3TzB0MEVONGV3QksxQjcyX1ZJdEhRN2xBUzgyT1NfLWI0M3JuMnpDZFRSY0ttV0dxMw?oc=5)  
 
 ## 🪶 媒介研究动态  
 今天没有。  
 
 ## 🪶 本职·鸟类与动物行为  
-_今日无大新闻，以下为头部刊物近况：_  
-乌鸦的决策速度比人类快一倍，科学家揭示了其机制。[查看链接](https://www.sciencedaily.com/releases/2026/11/261111005850.htm)  
-一块包含4.5亿年前软组织的“百万分之一”化石被发现。[查看链接](https://www.sciencedaily.com/releases/2026/11/261105085201.htm)  
+英国讽刺节目《Spitting Image》联合创作者Peter Fluck去世，享年85岁。[链接](https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26751036.spitting-image-co-creator-peter-fluck-dies-aged-85/)  
 
 ## 🌍 世界  
-墨西哥逮捕了毒枭“矮子伊西德罗”，引发暴力事件。[查看链接](https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained)  
-英国警方拖走一名穿着“Pallet Sign Acton”T恤的抗议者。[查看链接](https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss)  
-以色列空袭击中了加沙的一辆食品援助车，造成三人死亡。[查看链接](https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss)  
-COP31气候谈判因化石燃料争议陷入僵局。[查看链接](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)  
+苏丹快速支援部队的无人机袭击导致平民伤亡。[链接](https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss)  
+利比亚港口一艘俄罗斯船只遭遇疑似无人机袭击引发爆炸。[链接](https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss)  
+以色列军队撤退后，黎巴嫩村民返回被毁的家园。[链接](https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes)  
+一艘俄罗斯船只被拖离芬兰湾，此前它曾遭遇袭击。[链接](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)  
 
 ## 🔬 科学  
-科学家提出了一种测试时间奇异性的方法。[查看链接](https://www.sciencedaily.com/releases/2026/11/261120075558.htm)  
-詹姆斯·韦伯望远镜揭示了一颗恒星吞并另一颗恒星后的残骸。[查看链接](https://www.sciencedaily.com/releases/2026/11/261120075556.htm)  
-今年厄尔尼诺现象的历史性影响引发关注。[查看链接](https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane)  
+天文学家Isabel Angelo致力于从望远镜数据中寻找异常信号。[链接](https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10)  
+研究证明某些问题计算机无法快速解决。[链接](https://www.sciencenews.org/article/game-computer-sn-10-dor-minzer-problem)  
+天文学家观察到一颗恒星被其巨型伴星吞噬并爆炸的过程。[链接](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/)  
 
 ## 🧑‍💻 HN 精选  
-Inkling 2 Mini引发社区热议。[查看链接](https://news.ycombinator.com/item?id=50581260)  
-开发者被提升为架构师却未被告知，引发管理反思。[查看链接](https://news.ycombinator.com/item?id=50579331)  
-Navier-Stokes奇点与广义黎曼假设的讨论热度不减。[查看链接](https://news.ycombinator.com/item?id=50578358)
+胰腺癌治疗新药被誉为“几十年来的最大突破”。[链接](https://news.ycombinator.com/item?id=50582069)  
+Riemann假说的验证在Lean中取得进展。[链接](https://news.ycombinator.com/item?id=50589618)  
+丰田、日产和本田将标准化零部件以降低成本。[链接](https://news.ycombinator.com/item?id=50596133)  
+引爆高能化合物叠氮化铅的实验引发关注。[链接](https://news.ycombinator.com/item?id=50588982)  
+一则有趣的现象：显示器可能大幅降低下载速度。[链接](https://news.ycombinator.com/item?id=50587875)
